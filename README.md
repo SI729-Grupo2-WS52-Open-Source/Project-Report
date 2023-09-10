@@ -8,7 +8,7 @@ ___
 
 | Versión | Fecha       | Autor            | Descripción de modificación             |
 | ------- | ----------- | ---------------- | --------------------------------------- |
-| 1.0     | 2023-08-20  | Lambders         | Creación inicial del documento          |
+| 1.0     | 01/09/23  | Lambders         | Creación inicial del documento          |
 
 <br><br>
 ___
@@ -16,14 +16,74 @@ ___
 
 ## Project Report Collaboration Insights
 
-URL Project Report (Github): www.git.com 
+**URL Project Report (Github):** 
 
-Analíticos de colaboración en GitHub: Falta fotos
+[https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Statement](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Statement )
 
-Commits en Github: Falta fotos
+<br>
 
-Descripción y Evidencias TB1: Falta fotos
+**URL Landing Page Desplegada:** 
 
+[https://gabbrm.github.io/Landing-Page-version-2/](https://gabbrm.github.io/Landing-Page-version-2/)
+
+<br><br>
+
+**Commits en Github:** 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/263.%20Commits.png)
+
+<br><br>
+
+**Analíticos de Colaboración en Github:** 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/272.%20Analiticos%20github.png)
+
+<br><br>
+
+**Explicación de los commits - TB1**
+
+*a. Nirvana García*
+Creé en repositorio Project Statement, y dentro de este, el archivo markdown README.md que contiene el informe completo del proyecto. El commit de “Update README.md” tuvo la finalidad de ingresar el contenido del informe desde la carátula hasta el Lean Ux Canvas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/264.%20Nirvana%20commit.png)
+
+
+Además, creé el repositorio Landing Page, el cual alberga las versiones del mismo.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/265.%20Nirvana%20commit.png)
+
+<br><br>
+
+*b. Gabriel Bernal*
+Agregué el contenido del informe desde Segmento Objetivo hasta As-Is Scenario Mapping, y además, eliminé un archivo no deseado dentro de la carpeta “img”, creada con el propósito de almacenar las imágenes que se albergan en nuestro informe.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/266.%20Gabriel%20commit.png)
+
+<br><br>
+
+*c. Marcelo Scerpella*
+Agregué el contenido del informe desde To-Be Scenario Mapping hasta Product Backlog, encargándome de la creación de dichas tablas en formato markdown.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/267.%20Gabriel%20Commit.png)
+
+<br><br>
+
+*d. Michelle Moreno*
+Agregué el contenido del informe desde Style Guidelines hasta Web Applications Prototyping, enfocandome en linkear las imágenes del repositorio correspondiente a esta parte del informe que requería de un elevado número de imágenes.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/268.%20Michelle%20Commit.png)
+
+
+Además, subí la primera versión del Landing Page de Akira dentro del repositorio de Landing Page.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/269.%20Michelle%20Commit.png)
+
+<br><br>
+
+*d. Luis Aquije*
+Agregué el contenido del informe desde Domain-Driven Software Architecture hasta Bibliografía, tomando como reto la creación de tablas más complejas y la vinculación con imágenes dentro del informe.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/270.%20LuDi%20Commit.png)
 
 <br><br>
 ___
@@ -38,29 +98,29 @@ Project Report Collaboration Insights
 
 Student Outcome 
 
-1.  [Capítulo I: Introducción](Capítulo-1-Introducción/1.1.Startup-Profile.md)
+1.  [Capítulo I: Introducción](#capítulo-i-introducción)
 
-    1.1. [Startup Profile](Capítulo-1-Introducción/1.1.Startup-Profile.md#11-startup-profile)
+    1.1. [Startup Profile](#11-startup-profile)
         
-    1.1.1. [Descripción de la Startup](Capítulo-1-Introducción/1.1.Startup-Profile.md#111-descripción-de-la-startup)
+    1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)
 
-    1.1.2. [Perfiles de integrantes del equipo](Capítulo-1-Introducción/1.1.Startup-Profile.md#112-perfiles-de-integrantes-del-equipo)
+    1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 
-    1.2. [Solution Profile](Capítulo-1-Introducción/1.2.Solution-Profile.md#12-solution-profile)
+    1.2. [Solution Profile](#12-solution-profile)
 
-    1.2.1 [Antecedentes y problemática](Capítulo-1-Introducción/1.2.Solution-Profile.md#121-antecedentes-y-problemática)
+    1.2.1 [Antecedentes y problemática](#121-antecedentes-y-problemática)
 
-    1.2.2 [Lean UX Process](Capítulo-1-Introducción)
+    1.2.2 [Lean UX Process](#122-lean-ux-process)
     
-    1.2.2.1. [Lean UX Problem Statements](Capítulo-1-Introducción)
+    1.2.2.1. [Lean UX Problem Statements](#122-lean-ux-process)
 
-    1.2.2.2. [Lean UX Assumptions](Capítulo-1-Introducción)
+    1.2.2.2. [Lean UX Assumptions](#122-lean-ux-process)
 
-    1.2.2.3. [Lean UX Hypothesis Statements](Capítulo-1-Introducción)
+    1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
 
-    1.2.2.4. [Lean UX Canvas](Capítulo-1-Introducción)
+    1.2.2.4. [Lean UX Canvas](#1224-lean-ux-canvas)
 
-    1.3. [Segmentos objetivo](Capítulo-1-Introducción)
+    1.3. [Segmentos objetivo](#13-segmentos-objetivo)
 
 2. [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
 
@@ -214,10 +274,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 3.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Aquije Quiroga, Luis Enrique <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> Bernal Moreno, Gabriel Adrian <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> García Vásquez, Nirvana Gabriela <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> Moreno Best, Michelle Francesca <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> Scerpella Zarkovic, Marcelo Alejandro <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> |Fusce cursus dolor et nullasuscipit, sit ametullam corper nibh vestibulum.Nam ornare massa eulobortis porttitor. Nam ut erat feugiat libero pretium semper at ac metus. Sed at eros dapibus, fermentum quam ut, bibendum lacus.  Curabitur eget orci eget urna varius commodo. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | Aquije Quiroga, Luis Enrique <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> Bernal Moreno, Gabriel Adrian <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> García Vásquez, Nirvana Gabriela <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> Moreno Best, Michelle Francesca <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> Scerpella Zarkovic, Marcelo Alejandro <br> *TB1* <br> texto. <br> *TB2* <br> texto. <br> |Fusce cursus dolor et nullasuscipit, sit ametullam corper nibh vestibulum.Nam ornare massa eulobortis porttitor. Nam ut erat feugiat libero pretium semper at ac metus. Sed at eros dapibus, fermentum quam ut, bibendum lacus.  Curabitur eget orci eget urna varius commodo. |
+| Criterio Específico                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería   | TB1<br><br>Gabriel Bernal: Comunicación de ideas para:<br><br>- Startup Profile<br><br>- Solution Profile<br><br>- Antecedentes y problemática <br><br>- Lean UX<br><br>- Segmentos objetivo<br><br>- Software Architecture Context Diagram<br><br>- Software Architecture Container Diagrams<br><br><br><br>Nirvana García: Comunicación de ideas para:<br><br>- Web Style Guidelines<br><br>- Information Architecture<br><br>- Organization Systems<br><br>- Labeling Systems<br><br>- SEO Tags and Meta Tags <br><br>- Searching Systems<br><br>- Navigation Systems<br><br>- Landing Page Wireframes<br><br>- Landing Page Mock-up<br><br>- Database Diagram<br><br>- Web Applications Wireflow Diagrams<br><br><br><br>Michelle Moreno: Comunicación de ideas para:<br><br>- Competidores<br><br>- Análisis competitivo <br><br>- Estrategias y tácticas frente a competidores<br><br>- Needfinding<br><br>- User Personas<br><br><br><br>User Task Matrix <br><br>- User Journey Mapping<br><br>- Empathy Mapping<br><br>- As-is Scenario Mapping<br><br>- Web Applications Wireframes<br><br>- Web Applications Mock-ups<br><br>- Class Dictionary<br><br><br><br>Marcelo Scerpella: Comunicación de ideas para:<br><br>- Web Applications Prototyping<br><br>- Class Diagrams<br><br>- Software Configuration Management<br><br>- Software Development Environment Configuration<br><br>- Sprint Planning 1<br><br><br><br>Sprint Backlog 1<br><br>- Diego Sánchez: Comunicación de ideas para:<br><br>- To-Be Scenario Mapping <br><br>- User Stories <br><br>- Impact Mapping <br><br>- Product Backlog<br><br>- Source Code Management<br><br>- Source Code Style Guide & Conventions<br><br>- Software Deployment Configuration<br><br>- Software Architecture Components Diagrams<br> | El equipo ha llevado a cabo una serie de acciones que demuestran su compromiso con la comunicación efectiva y objetiva dentro del proyecto. Cada miembro ha contribuido con tareas de redacción y documentación que abarcan desde perfiles de inicio y solución, hasta antecedentes y problemáticas, así como segmentos objetivo y metodologías como Lean UX. Estas actividades demuestran una comprensión profunda y una capacidad para comunicar claramente los aspectos clave del proyecto a diferentes audiencias, ya que se ha empleado la comunicación oral entre los integrantes para saber si sus planteamientos, de cada punto de las rúbrica, eran los correctos. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1<br><br>Gabriel Bernal: Comunicación de ideas para:<br><br>- Startup Profile<br><br>- Solution Profile<br><br>- Antecedentes y problemática <br><br>- Lean UX<br><br>- Segmentos objetivo<br><br>- Software Architecture Context Diagram<br><br>- Software Architecture Container Diagrams<br><br><br><br>Nirvana García: Comunicación de ideas para:<br><br>- Web Style Guidelines<br><br>- Information Architecture<br><br>- Organization Systems<br><br>- Labeling Systems<br><br>- SEO Tags and Meta Tags <br><br>- Searching Systems<br><br>- Navigation Systems<br><br>- Landing Page Wireframes<br><br>- Landing Page Mock-up<br><br>- Database Diagram<br><br>- Web Applications Wireflow Diagrams<br><br><br><br>Michelle Moreno: Comunicación de ideas para:<br><br>- Competidores<br><br>- Análisis competitivo <br><br>- Estrategias y tácticas frente a competidores<br><br>- Needfinding<br><br>- User Personas<br><br><br><br>User Task Matrix <br><br>- User Journey Mapping<br><br>- Empathy Mapping<br><br>- As-is Scenario Mapping<br><br>- Web Applications Wireframes<br><br>- Web Applications Mock-ups<br><br>- Class Dictionary<br><br><br><br>Marcelo Scerpella: Comunicación de ideas para:<br><br>- Web Applications Prototyping<br><br>- Class Diagrams<br><br>- Software Configuration Management<br><br>- Software Development Environment Configuration<br><br>- Sprint Planning 1<br><br><br><br>Sprint Backlog 1<br><br>- Diego Sánchez: Comunicación de ideas para:<br><br>- To-Be Scenario Mapping <br><br>- User Stories <br><br>- Impact Mapping <br><br>- Product Backlog<br><br>- Source Code Management<br><br>- Source Code Style Guide & Conventions<br><br>- Software Deployment Configuration<br><br>- Software Architecture Components Diagrams     | Como equipo, se ha logrado realizar un trabajo destacado en la comunicación escrita de ideas y resultados relacionados con el proyecto de ingeniería. Cada miembro ha contribuido con tareas de redacción y documentación dentro del informe, para desarrollar este proyecto de ingeniería.                                                                                                                                                                                                                                                                                                                                                                                 |
 
 
 <br><br>
@@ -378,9 +438,16 @@ Sin embargo, la necesidad de acceso fácil y seguro a productos originales motiv
 
 Alrededor del mundo, la industria del anime ha experimentado un crecimiento significativo desde el inicio de la década pasada. Esto puede observarse en el volumen de ingresos procedentes de la comercialización del ánime fuera de japón, cuyo volumen neto también ha ido en aumento.
 
+**Gráfico 1**
+
+*Gráfico en barras que muestra los ingresos (en miles de millones de yenes) de la comercialización en el extranjero del anime japonés entre 2002 y 2020*
+
+
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/8.%20Grafica%20Antecedentes%20(HowMuch).PNG)
 
-*Gráfico 1: Ingresos procedentes de la comercialización en el extranjero del anime japonés entre 2002 y 2020, Statista.*
+*Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria japonesa de animación procedentes de las emisiones de televisión entre 2002 y 2020”. Statista, 2022.*
+
+(https://es.statista.com/estadisticas/592763/ingresos-de-las-series-televisivas-de-anime-japones/#:~:text=Esta%20estad%C3%ADstica%20refleja%20la%20evoluci%C3%B3n,millones%20de%20yenes%20en%202020.)
 
 Según RPP, a pesar de la recesión económica experimentada durante la pandemia, el volumen de ventas de manga de la campaña navideña del 2021 se triplicó con respecto a las ventas registradas en el año anterior. Esto se debe a la aparición de una nueva empresa de Streaming multimedia llamada Crunchyroll, que se especializa en la difusión de la cultura audiovisual asiática. Otro factor clave que recalca el artículo para justificar el aumento del interés de los peruanos por la industria del entretenimiento del país del sol naciente es el aumento del catálogo de animación nipona en Netflix, debido a la decadencia de la industria del entretenimiento norteamericano.
 
@@ -392,9 +459,15 @@ Como explica Agusto Venegas en la entrevista que concedió a La Cámara, un fana
 
 El *K-Pop*, por su parte, también ha vivido un enorme apogeo en Latinoamérica, y especialmente en Perú. Según Google Trends, la cantidad de usuarios que buscaron BTS en Perú en Youtube, aumentó drásticamente entre 2008 y 2022. La popularidad de este grupo fué tán grande, que superó la cantidad de búsquedas de Ariana Grande, una cantante de pop.
 
+
+**Gráfico 2**
+
+Comparación entre BTS y Ariana Grande a través de Google Trends
+
 ![](https://github.com/nirvagarcia/PruebaMd/blob/main/img/9.%20Grafica%20Antecedentes%20(HowMuch).PNG)
 
-*Gráfico 2: Google Trends comparación entre BTS y Ariana Grande*
+*Véase el anexo A: Gráficos y Tablas utilizadas*
+
 
 
 <br><br>
@@ -675,6 +748,7 @@ ___
 <br><br>
 ___
 <br>
+
 ## 1.3. Segmentos objetivo 
 
 **Segmento Uno : Adolescentes y Adultos jóvenes**
@@ -945,7 +1019,9 @@ Rizi es una influencer y streamer relacionada con el mundo del ánime y la cultu
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/12.%20Entrevista%20Nirvana.png)
 
 Entrevistadora: Nirvana García Vásquez
+
 Entrevistada: Gabriela Laos
+
 Tiempo en el video: [00:03:52] - [00:13:26]
 
 Gabriela es una gran fanática del mundo del pop coreano (K-Pop) desde hace unos años, y nos comenta que compra mercadería una vez por semana como mínimo. Entre los productos que más consume se encuentran los álbumes originales, photocards y lightsticks, pagando por todos sus productos una suma aproximada de s/.5 000. Ella acepta que en Perú no es tan complicado comprar este tipo de mercadería, pero existen dos grandes desventajas al momento de comprar, el tener que confiar en la autenticidad de un producto cuando se le compra a vendedores sueltos (no tiendas), y el tener que pagar grandes cantidades de dinero por un producto que realmente no cuesta así, ya que el monopolio en Lima, Perú, infla mucho los precios de merch de K-pop. Asimismo, en el caso de las ediciones limitadas de merch que únicamente aparecen en los comebacks de los grupos en Corea, nunca llega al mercado peruano, y si es logra llegar, el precio aumenta 7 veces su valor original. Gabriela nos cuenta que ha asistido a ferias de K-Pop en “Campo Marte”, ubicado en el distrito de Jesús María, y en este lugar existe mucha difusión de diversas tiendas de la cultura asiática.
@@ -957,7 +1033,9 @@ Gabriela es una gran fanática del mundo del pop coreano (K-Pop) desde hace unos
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/13.%20Entrevista%20Michelle.jpg)
 
 Entrevistadora: Michelle Francesca Moreno Best
+
 Entrevistado: Giancarlos Viñal
+
 Tiempo en el video: [00:13:26] - [00:27:40]
 
 Giancarlos tiene 28 años y  es uno de los encargados de la tienda MasGamers Store el cual se encuentra en el piso 2 del centro comercial Arenales. Nos comenta que se enfocan en traer figuras anime coleccionables y otros artículos relacionados con videojuegos, como icónicos personajes como Mario Bros y Sonic. En la entrevista nos destaca que uno de los productos que están en tendencias actualmente son los Funko Pop. La tienda trabaja con empresas internacionales que traen los productos de manera masiva desde lugares como Japón, China y Estados Unidos. Además, nos comenta que utilizan las redes sociales como Instagram, Facebook, entre otros, para darse a conocer. En momentos especiales como fiestas patrias y Halloween, ofrecen descuentos y ofertas brindando la oportunidad a los clientes de adquirir sus artículos a precios más accesibles.
@@ -969,7 +1047,9 @@ Giancarlos tiene 28 años y  es uno de los encargados de la tienda MasGamers Sto
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/14.%20Entrevista%20Gabriel.png)
 
 Entrevistador: Gabriel Adrian Bernal Moreno
+
 Entrevistada: Maria Tinoco 
+
 Tiempo en el video: [00:27:41] - [00:34:23]
 
 En esta ocasión, tuvimos el privilegio de entrevistar a María, una fanática seguidora de la cultura asiática centrada en el anime y los mangas. María compartió sus géneros favoritos, acción y romance, revelando su afinidad por las emociones intensas y las relaciones cautivadoras en las historias. Además, mencionó que conoce con una diversa gama de artículos, desde productos hechos por fanáticos hasta piezas oficiales, evidenciando su dedicación a esta afición. También invirtió entre 200 y 300 soles en su colección. Del mismo modo, enfrenta desafíos al encontrar productos en Perú, a veces recurriendo a plataformas internacionales originarios de Estados Unidos o de Japón en donde los precios de envío son muy elevados. María prioriza calidad y precio al comprar, pero lidia con obstáculos como el que se agoten rápidamente los artículos en tiendas físicas y el riesgo de compras en línea. En resumen, la entrevista brindó una visión completa de María por el anime y los mangas, así como los desafíos al comprar merch.
@@ -981,7 +1061,9 @@ En esta ocasión, tuvimos el privilegio de entrevistar a María, una fanática s
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/15.%20Entrevista%20Nirvana.png)
 
 Entrevistadora: Nirvana Gabriela García Vásquez
+
 Entrevistado: Fernando Alquino
+
 Tiempo en el video: [00:34:23] - [00:41:47]
 
 Realizamos la entrevista a un vendedor especializado dentro del rubro de los mangas , comics japoneses, dentro de la tienda Shao Games, local físico ubicado en el Centro Comercial Arenales. Fernando nos comenta que la tienda cuenta con una sub-tienda virtual llamada Gekko, en donde también venden mangas de su stock en Shao Games. El género de mangas más buscado y vendido por su comunidad de clientes es el romance, tanto en las ramas de BL (amor entre hombres) como el shoujo (amor heterosexual). Considera que destacan entre la competencia por el hecho de tener mayor variedad de mangas y traer los tomos tres semanas después de sus lanzamientos en las editoriales originales, siendo esto algo poco común en Perú, donde los periodos de espera de los tomos recién estrenados puede tardar más de dos meses. La estrategia de marketing de Gekko es emplear las redes sociales como Instagram, Facebook y Tiktok, donde no solo promocionan sus productos y nuevas adquisiciones, sino que además, realizan colaboraciones con dos tiktokers relacionados al mundo de los mangas en Perú, para aumentar el alcance de la tienda. Además, aumentan considerablemente sus ventas cuando realizan ofertas especiales por Halloween, fiestas patrias, navidad, cyberdays, entre otros. Su proveedor principal se encuentra en España, siendo el país que fabrica los tomos originales traducidos al español (ya que el idioma original es japonés). 
@@ -992,34 +1074,14 @@ Realizamos la entrevista a un vendedor especializado dentro del rubro de los man
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/16.%20Entrevista%20Diego.png)
 
 Entrevistador: Diego Antonio Sanchez Ramirez
+
 Entrevistado: Anderson Alvarado Cespedes 
+
 Tiempo de la entrevista: [00:41:47] - [00:49:22]
 
 Anderson Alvarado es un estudiante universitario, estudia Administración y Negocios en la Universidad Tecnológica del Perú, y trabaja part-time como asistente de ventas. Su pasión por el anime, especialmente del género shonen y misterio, es evidente, siendo sus favoritos indiscutibles "Black Clover" y "One Piece". Anhela poder adquirir artículos auténticos de sus series favoritas sin que representan un desembolso excesivo. Sin embargo, se ha encontrado con la desagradable situación de que no hay existencias disponibles ni productos relacionados en lugares comunes como la avenida Arenales o en grupos de ventas de Facebook. Si desea comprar productos de mercadería, se ve forzado a depender de importadores locales, quienes aplican tarifas elevadas por los trámites de importación. Dada esta realidad, está en búsqueda de alternativas más viables para conseguir productos relacionados con los animes "Black Clover" y "One Piece".
 
----
 
-**Entrevista N°6 (Fanático de la cultura asiática)**
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/17.%20Entrevista%20Luis.png)
-
-Entrevistador: Luis Enrique Aquije Quiroga
-Entrevistado: Geremy Alexandro Esquivel Janampa
-Tiempo en el video: [00:41:47] - [00:47:09]
-
-El entrevistado fue Geremy Alexandro Esquivel Janampa, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Geremy compartió su pasión por los shonen como One Piece y Dragon Ball consumiendo de vez en cuando comedias románticas. Los productos que consume son mangas, dvds, figuras, ropa, accesorios, implementos para el hogar, etc. La frecuencia con la que compra merch oscila entre 1 vez por semana o 1 vez cada dos semanas. El dinero que invirtió en ello se aproxima entre los 3000-4000 soles y su adquisición  más cara relacionada al anime fue una figura de 250 soles. La suma más alta que él contempla gastar en este tipo de producto es de 250 soles. El considera que su obtención es complicada ya que debe esperar varios meses para conseguirlos y su disponibilidad es limitada . Su prioridad es la calidad a la hora de obtener un producto.  
-
----
-
-**Entrevista N°6 (Fanático de la cultura asiática)**
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/18.%20Entrevista%20Luis.png)
-
-Entrevistador:Luis Enrique Aquije Quiroga
-Entrevistado: Jair Flores Vizcarra
-Tiempo en el video: [00:47:09] - [00:51:13]
-
-El entrevistado fue Jair Flores Vizcarra, un entusiasta universitario apasionado por la cultura asiática, especialmente el anime y los mangas. Jair compartió sus géneros preferidos, como shonen y slice of life,. Reveló su familiaridad con una amplia gama de artículos de mercancía relacionados con sus intereses, demostrando su dedicación a esta afición. Jair también compartió información sobre su inversión en su colección, que llega hasta los 200  dólares anuales. Explicó los desafíos que enfrenta al buscar productos en Perú, a menudo recurriendo a plataformas internacionales, a pesar de los costos de envío elevados. Al momento de la compra, Jair prioriza la calidad y el precio, pero se ve obstaculizado por la agotación rápida de productos en tiendas físicas y los riesgos típicos de las compras en línea.
 
 ---
 
@@ -1478,23 +1540,13 @@ ___
 
 ## 4.2.1. Organization Systems
 
-Link para mejor visualización de los organization systems: https://miro.com/app/board/uXjVPTYasuY=/#tpicker-content 
+Link para mejor visualización de los organization systems: 
+
+https://miro.com/app/board/uXjVPTYasuY=/#tpicker-content 
 
 Como equipo hemos decidido utilizar una estructura jerárquica (visual hierarchy) tanto para la app como para la página web con el objetivo de lograr una experiencia de usuario satisfactoria. La estructura será para ambos segmentos objetivos:
 
-<br><br>
-
-**Para jóvenes fanáticos – página web**
-
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/34.%20Organization%20system%20Fanaticos.png)
-
-
-<br><br>
-
-**Para vendedores de productos del entretenimiento asiático  – página web**
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/35.%20Organization%20system%20Vendedores.png)
-
 
 <br><br>
 ___
@@ -1589,7 +1641,7 @@ El usuario, posterior al ingreso de AKIRA en su navegador web preferido, deberá
 
 Sea el caso que el usuario no se haya registrado con anterioridad para poder iniciar sesión, deberá acceder a esta pantalla de registro e ingresar su Nombre, Apellido, Correo y Contraseña.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/45.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1598,7 +1650,7 @@ Sea el caso que el usuario no se haya registrado con anterioridad para poder ini
 
 Cuando el usuario le de click a la opción “Contactanos” dentro del navbar, podrá visualizar las maneras de contactar a AKIRA, tanto mediante su correo, teléfono o redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/46.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1606,7 +1658,7 @@ Cuando el usuario le de click a la opción “Contactanos” dentro del navbar, 
 
 Si el usuario ya creó su cuenta correctamente, al presionar el botón de usuario dentro del navbar, podrá visualizar los datos de su cuenta, tanto datos personales como nombre, apellido y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/47.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1614,11 +1666,11 @@ Si el usuario ya creó su cuenta correctamente, al presionar el botón de usuari
 
 Si el usuario desea editar alguna información de su cuenta, primero deberá darle click al botón de lápiz correspondiente al segmento de información que desea modificar. En este caso, editaremos los datos personales (parte izquierda de la pantalla).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/48.%20Landing%20Wireframe.png)
 
 Podrá acceder a la visualización de edición de datos personales, donde podrá modificar sus datos anteriormente registrados en el “Registro de Cuenta”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/49.%20Landing%20Wireframe.png)
 
 
 <br><br>
@@ -1627,11 +1679,11 @@ Podrá acceder a la visualización de edición de datos personales, donde podrá
 
 Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a un destino, deberá darle click al botón de lápiz al lado de “Dirección”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/50.%20Landing%20Wireframe.png)
 
 Podrá acceder a la visualización de edición de dirección, donde podrá agregar o modificar los datos de su dirección, como el número de departamento, distrito, ciudad, provincia, país, código postal y referencia de dirección.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/51.%20Landing%20Wireframe.png)
 
 
 <br><br>
@@ -1640,11 +1692,11 @@ Podrá acceder a la visualización de edición de dirección, donde podrá agreg
 
 Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá darle click al botón de lápiz al lado de “Tarjeta Vinculada”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/52.%20Landing%20Wireframe.png)
 
 Podrá acceder a la visualización de edición de método de pago, donde podrá modificar o agregar una tarjeta para poder pagar los productos de Akira. Colocará su número de tarjeta, nombre del propietario, fecha de vencimiento y CVV.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/53.%20Landing%20Wireframe.png)
 
 
 <br><br>
@@ -1653,11 +1705,11 @@ Podrá acceder a la visualización de edición de método de pago, donde podrá 
 
 Si el usuario desea visualizar cómo va alguno de sus pedidos (si es que ha realizado alguno), deberá darle click al número de track correspondiente.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/54.%20Landing%20Wireframe.png)
 
 Así, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que pidió dentro de este paquete, el monto que pagó y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/55.%20Landing%20Wireframe.png)
 
 
 <br><br>
@@ -1666,15 +1718,15 @@ Así, podrá acceder a la información del número de su envío en curso, donde 
 
 Cuando el usuario presiona el botón de carrito dentro del navbar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos, su descripción, precio y cantidad a comprar, además de un pequeño resumen de compra como el precio de todos los productos (subtotal), los gastos de envío y el total a pagar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/56.%20Landing%20Wireframe.png)
 
 Si el cliente decidió proceder con la compra y presionó “Ir a CheckOut”, se le redireccionará al apartado CheckOut, donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se usará para comprar el carrito y el resumen de gastos. Si todo está conforme, presionará “Comprar”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/57.%20Landing%20Wireframe.png)
 
 Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/58.%20Landing%20Wireframe.png)
 
 
 <br><br>
@@ -1683,7 +1735,7 @@ Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará
 
 Visualización del inicio/home de AKIRA, pantalla que presenta el navbar, un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/59.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1691,7 +1743,7 @@ Visualización del inicio/home de AKIRA, pantalla que presenta el navbar, un car
 
 Al bajar, podrá visualizar las categorías con las que trabaja AKIRA, tanto K-Pop, Anime y Lectura (conformado por mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/60.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1699,15 +1751,15 @@ Al bajar, podrá visualizar las categorías con las que trabaja AKIRA, tanto K-P
 
 Visualizará los nuevos ingresos de AKIRA en cuanto a productos por cada rubro, mostramos el ejemplo del rubro de KPOP.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/61.%20Landing%20Wireframe.png)
 
 Del rubro de ANIME:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/62.%20Landing%20Wireframe.png)
 
 Y del rubro de Lectura
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/63.%20Landing%20Wireframe.png)
 
 Además, cuando el usuario pase su cursor por algún producto de su interés, la imagen del producto se oscurecerá y se mostrarán detalles del mismo. Mostramos un ejemplo con el rubro de lectura,
 
@@ -1718,7 +1770,7 @@ Además, cuando el usuario pase su cursor por algún producto de su interés, la
 
 Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/64.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1726,7 +1778,7 @@ Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar co
 
 Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/65.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1734,19 +1786,23 @@ Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, infor
 
 Cuando el usuario presione el icono de Hamburger en la zona izquierda del navbar, se desplegará un Pop Up con la distribución de nuestras categorías de productos (Kpop, Anime y Lectura), además de Nuevos Ingresos y Lo Más Top (o lo más vendido), preguntas frecuentes y contacto con AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/66.%20Landing%20Wireframe.png)
 
 Observamos las categorías principales desplegadas.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/67.%20Landing%20Wireframe.png)
 
 Demostración de despliegue de opción dentro del rubro de Kpop, en este caso, los grupos de artistas femeninas.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/68.%20Landing%20Wireframe.png)
+
+Demostración de despliegue de opción dentro del rubro de Kpop, en este caso, los grupos de artistas femeninas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/69.%20Landing%20Wireframe.png)
 
 La misma lógica para el desplegable de grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/70.%20Landing%20Wireframe.png)
 
 
 <br><br>
@@ -1755,7 +1811,7 @@ La misma lógica para el desplegable de grupos masculinos y el resto de subcateg
 
 Cuando el usuario ingresa algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, se despliega en la zona izquierda de la pantalla, un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/71.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1763,7 +1819,7 @@ Cuando el usuario ingresa algún valor dentro del input de Buscar, le aparecerá
 
 Cuando el usuario le de click a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto, como su precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/72.%20Landing%20Wireframe.png)
 
 <br><br>
 
@@ -1771,19 +1827,19 @@ Cuando el usuario le de click a algún producto de su interés, se redireccionar
 
 Cuando el usuario, en la pantalla de inicio, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/73.%20Landing%20Wireframe.png)
 
 Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/74.%20Landing%20Wireframe.png)
 
 Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/75.%20Landing%20Wireframe.png)
 
 La misma lógica para el resto de rubros, aquí mostramos el del rubro de Lectura.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/76.%20Landing%20Wireframe.png)
 
 
 
@@ -1798,7 +1854,7 @@ ___
 
 El usuario, posterior al ingreso de AKIRA en su navegador web preferido, deberán iniciar sesión para poder acceder a la plataforma, ingresando su correo electrónico y contraseña ya registradas. 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/77.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1806,7 +1862,7 @@ El usuario, posterior al ingreso de AKIRA en su navegador web preferido, deberá
 
 Sea el caso que el usuario no se haya registrado con anterioridad para poder iniciar sesión, deberá acceder a esta pantalla de registro e ingresar su Nombre, Apellido, Correo y Contraseña.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/78.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1815,7 +1871,7 @@ Sea el caso que el usuario no se haya registrado con anterioridad para poder ini
 
 Cuando el usuario le de click a la opción “Contactanos” dentro del navbar, podrá visualizar las maneras de contactar a AKIRA, tanto mediante su correo, teléfono o redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/79.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1823,7 +1879,7 @@ Cuando el usuario le de click a la opción “Contactanos” dentro del navbar, 
 
 Si el usuario ya creó su cuenta correctamente, al presionar el botón de usuario dentro del navbar, podrá visualizar los datos de su cuenta, tanto datos personales como nombre, apellido y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/80.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1831,11 +1887,11 @@ Si el usuario ya creó su cuenta correctamente, al presionar el botón de usuari
 
 Si el usuario desea editar alguna información de su cuenta, primero deberá darle click al botón de lápiz correspondiente al segmento de información que desea modificar. En este caso, editaremos los datos personales (parte izquierda de la pantalla).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/81.%20Landing%20MockUp.png)
 
 Podrá acceder a la visualización de edición de datos personales, donde podrá modificar sus datos anteriormente registrados en el “Registro de Cuenta”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/82.%20%20Landing%20MockUp.png)
 
 
 <br><br>
@@ -1844,12 +1900,11 @@ Podrá acceder a la visualización de edición de datos personales, donde podrá
 
 Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a un destino, deberá darle click al botón de lápiz al lado de “Dirección”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/83.%20Landing%20MockUp.png)
 
 Podrá acceder a la visualización de edición de dirección, donde podrá agregar o modificar los datos de su dirección, como el número de departamento, distrito, ciudad, provincia, país, código postal y referencia de dirección.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/84.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1857,11 +1912,11 @@ Podrá acceder a la visualización de edición de dirección, donde podrá agreg
 
 Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá darle click al botón de lápiz al lado de “Tarjeta Vinculada”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/85.%20Landing%20MockUp.png)
 
 Podrá acceder a la visualización de edición de método de pago, donde podrá modificar o agregar una tarjeta para poder pagar los productos de Akira. Colocará su número de tarjeta, nombre del propietario, fecha de vencimiento y CVV.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/86.%20Landing%20MockUp.png)
 
 
 <br><br>
@@ -1870,11 +1925,11 @@ Podrá acceder a la visualización de edición de método de pago, donde podrá 
 
 Si el usuario desea visualizar cómo va alguno de sus pedidos (si es que ha realizado alguno), deberá darle click al número de track correspondiente.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/87.%20Landing%20MockUp.png)
 
 Así, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que pidió dentro de este paquete, el monto que pagó y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/88.%20Landing%20MockUp.png)
 
 
 <br><br>
@@ -1883,15 +1938,15 @@ Así, podrá acceder a la información del número de su envío en curso, donde 
 
 Cuando el usuario presiona el botón de carrito dentro del navbar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos, su descripción, precio y cantidad a comprar, además de un pequeño resumen de compra como el precio de todos los productos (subtotal), los gastos de envío y el total a pagar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/89.%20Landing%20MockUp.png)
 
 Si el cliente decidió proceder con la compra y presionó “Ir a CheckOut”, se le redireccionará al apartado CheckOut, donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se usará para comprar el carrito y el resumen de gastos. Si todo está conforme, presionará “Comprar”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/90.%20Landing%20MockUp.png)
 
 Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/91.%20Landing%20MockUp.png)
 
 
 <br><br>
@@ -1900,7 +1955,7 @@ Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará
 
 Visualización del inicio/home de AKIRA, pantalla que presenta el navbar, un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/92.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1908,7 +1963,11 @@ Visualización del inicio/home de AKIRA, pantalla que presenta el navbar, un car
 
 Al bajar, podrá visualizar las categorías con las que trabaja AKIRA, tanto K-Pop, Anime y Lectura (conformado por mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/93.%20Landing%20MockUp.png)
+
+Además, cuando el usuario pase su cursor por alguna de las categorías, la imagen de fondo se oscurecerá y saldrá la opción de redireccionar al perfil de la categoría.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/94.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1916,28 +1975,27 @@ Al bajar, podrá visualizar las categorías con las que trabaja AKIRA, tanto K-P
 
 Visualizará los nuevos ingresos de AKIRA en cuanto a productos por cada rubro, mostramos el ejemplo del rubro de KPOP
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/95.%20Landing%20MockUp.png)
 
 Del rubro de ANIME:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/96.%20Landing%20MockUp.png)
 
 Y del rubro de Lectura
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/97.%20Landing%20MockUp.png)
 
 Además, cuando el usuario pase su cursor por algún producto de su interés, la imagen del producto se oscurecerá y se mostrarán detalles del mismo. Visualizamos el del rubro de Kpop.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/98.%20Landing%20MockUp.png)
 
 El de Anime.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/99.%20Landing%20MockUp.png)
 
 Y el de Lectura.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/100.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1945,7 +2003,7 @@ Y el de Lectura.
 
 Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/101.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1953,7 +2011,7 @@ Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar co
 
 Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/102.%20Landing%20MockUp.png)
 
 <br><br>
 
@@ -1961,19 +2019,19 @@ Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, infor
 
 Cuando el usuario presione el icono de Hamburger en la zona izquierda del navbar, se desplegará un Pop Up con la distribución de nuestras categorías de productos (Kpop, Anime y Lectura), además de Nuevos Ingresos y Lo Más Top (o lo más vendido), preguntas frecuentes y contacto con AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/103.%20Landing%20MockUp.png)
 
 Observamos las categorías principales desplegadas.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/104.%20Landing%20MockUp.png)
 
 Demostración de despliegue de opción dentro del rubro de Kpop, en este caso, los grupos de artistas femeninas.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/105.%20Landing%20MockUp.png)
 
 La misma lógica para el desplegable de grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/106.%20Landing%20MockUp.png)
 
 
 <br><br>
@@ -1982,15 +2040,15 @@ La misma lógica para el desplegable de grupos masculinos y el resto de subcateg
 
 Cuando el usuario ingresa algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, se despliega en la zona izquierda de la pantalla, un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/107.%20Landing%20MockUp.png)
 
 Igualmente, para el rubro de ANIME
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/108.%20Landing%20MockUp.png)
 
 Y el rubro de Lectura
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/109.%20Landing%20MockUp.png)
 
 
 <br><br>
@@ -1999,15 +2057,15 @@ Y el rubro de Lectura
 
 Cuando el usuario le de click a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto, como su precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/110.%20Landing%20MockUp.png)
 
 Igualmente, para el rubro de ANIME
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/111.%20Landing%20MockUp.png)
 
 Y el rubro de Lectura
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/112.%20Landing%20MockUp.png)
 
 
 
@@ -2017,24 +2075,27 @@ Y el rubro de Lectura
 
 Cuando el usuario, en la pantalla de inicio, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/113.%20Landing%20MockUp.png)
 
 Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/114.%20Landing%20MockUp.png)
+
+De la misma forma para el rubro del ANIME
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/115.%20%20Landing%20MockUp.png)
+
+Y para el rubro de Lectura
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/116.%20Landing%20MockUp.png)
 
 Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/117.%20Landing%20MockUp.png)
 
 La misma lógica para el resto de rubros, como el Anime
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-Y el rubro de la Lectura
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/118.%20Landing%20MockUp.png)
 
 
 <br><br>
@@ -2048,7 +2109,7 @@ ___
 
 El usuario debe presionar la palabra “GO” antes de entrar a la aplicación de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/120.%20Mobile%20Wireframe.png)
 
 <br><br>
 
@@ -2056,7 +2117,7 @@ El usuario debe presionar la palabra “GO” antes de entrar a la aplicación d
 
 El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesión con una cuenta ya existente o registrarse para crear una nueva cuenta.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/121.%20Mobile%20Wireframe.png)
 
 <br><br>
 
@@ -2065,7 +2126,9 @@ El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesi
 
 El usuario, al elegir iniciar sesión, tendrá que poner el correo y contraseña que registró anteriormente para poder continuar. En el caso de que el usuario no tenga una cuenta, para poder iniciar sesión, tendrá que registrar su Nombre, Apellido, Correo y Contraseña.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/122.%20Mobile%20Wireframe.png)
+
+[image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/123.%20Mobile%20Wireframe.png)
 
 <br><br>
 
@@ -2074,8 +2137,7 @@ El usuario, al elegir iniciar sesión, tendrá que poner el correo y contraseña
 
 Cuando el usuario entre a la opción de “Contáctanos” el cual se encuentra en “Categories”, podrá visualizar las maneras que puede utilizar para contactar a AKIRA tanto en correo, teléfono o redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/124.%20Mobile%20Wireframe.png)
 
 <br><br>
 
@@ -2083,7 +2145,7 @@ Cuando el usuario entre a la opción de “Contáctanos” el cual se encuentra 
 
 Después de la creación de la cuenta del usuario, al seleccionar “Profile” en el tab bar, el usuario podrá visualizar los datos de su cuenta tanto sus datos personales como sus nombres, apellidos, teléfono y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/125.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2093,11 +2155,10 @@ Después de la creación de la cuenta del usuario, al seleccionar “Profile” 
 
 Si el usuario desea editar alguna parte de la información de su cuenta, debe de presionar el botón de lápiz correspondiente a la información que desea modificar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
 Para el caso de editar la “Cuenta”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/126.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2106,12 +2167,9 @@ Para el caso de editar la “Cuenta”.
 
 Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a la dirección asignada, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
 Para el caso de editar la “Dirección”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/127.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2120,12 +2178,9 @@ Para el caso de editar la “Dirección”.
 
 Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
 Para el caso de “Tarjeta Vinculada”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/128.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2134,12 +2189,10 @@ Para el caso de “Tarjeta Vinculada”.
 
 Si el usuario desea editar visualizar cómo van sus pedidos (si es que ha realizado), deberá de presionar al número de tracking correspondiente.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
 De esta manera, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que compró dentro del paquete, el monto pagado y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/129.%20Mobile%20Wireframe.png)
+
 
 <br><br>
 
@@ -2148,16 +2201,16 @@ De esta manera, podrá acceder a la información del número de su envío en cur
 
 Cuando el usuario presione el ícono “cart” en el tab bar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos , su descripción, precio y cantidad a comprar. Además, debajo de estos, se encuentra un pequeño resumen de su compra como el precio de todos los productos, los gastos de envío y el total a pagar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/130.%20Mobile%20Wireframe.png)
 
 
 Si el cliente decide proseguir con la compra y presionó “Ir a CheckOut”, se le redireccionará al “CheckOut” donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se utilizará para comprar los productos del carrito y el resumen de gastos. Si el usuario está conforme, presionará “Comprar”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/131.%20Mobile%20Wireframe.png)
 
 Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/132.%20Mobile%20Wireframe.png)
 
 
 
@@ -2168,7 +2221,7 @@ Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará
 
 Por defecto el usuario estará en “Home”, visualizará un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/133.%20Mobile%20Wireframe.png)
 
 <br><br>
 
@@ -2177,7 +2230,7 @@ Por defecto el usuario estará en “Home”, visualizará un carrusel con los n
 
 Al bajar, el usuario al presionar cada rubro de las imágenes, podrá visualizar las categorías con las que trabaja AKIRA tanto K-pop, anime y lecturas (conformado por mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/134.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2185,15 +2238,17 @@ Al bajar, el usuario al presionar cada rubro de las imágenes, podrá visualizar
 **m. Wireframes de nuevos ingresos por rubro**
 
 El usuario visualizará los nuevos ingresos de Akira en cuanto a productos por cada rubro.
+
 Para el rubro del K-pop:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/135.%20Mobile%20Wireframe.png)
 
 
 Para el rubro del anime y lectura:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/136.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/137.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2203,7 +2258,7 @@ Para el rubro del anime y lectura:
 
 Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/138.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2212,7 +2267,7 @@ Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar co
 
 Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/139.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2222,17 +2277,28 @@ Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, infor
 
 Cuando el usuario presione el ícono “Categories” en el tab bar, se desplegará la distribución de nuestras categorías de productos (Kpop, Anime y Lectura). Además, de Nuevos Ingresos y Lo más Top (o lo más vendido), preguntas frecuentes y contacto con Akira.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/140.%20Mobile%20Wireframe.png)
 
-
-Y observamos las categorías principales desplegadas.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/141.%20Mobile%20Wireframe.png)
 
 Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artistas femeninas, grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/142.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/143.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/144.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/145.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/146.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/147.%20Mobile%20Wireframe.png)
+
+
+
 
 
 <br><br>
@@ -2242,17 +2308,25 @@ Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artis
 
 Al presionar el ícono de “Search”, el usuario tendrá que ingresar algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, en la parte de arriba, hay un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/148.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/149.%20Mobile%20Wireframe.png)
 
 
 Igualmente, para el rubro de ANIME:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/150.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/151.%20Mobile%20Wireframe.png)
 
 
 Y el rubro de Lectura:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/152.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/153.%20Mobile%20Wireframe.png)
+
+
 
 
 <br><br>
@@ -2263,11 +2337,13 @@ Y el rubro de Lectura:
 Cuando el usuario presione a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto como el precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/154.%20Mobile%20Wireframe.png)
 
 Igualmente, para el rubro de ANIME y el rubro de Lectura.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/155.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/156.%20Mobile%20Wireframe.png)
 
 
 <br><br>
@@ -2277,18 +2353,21 @@ Igualmente, para el rubro de ANIME y el rubro de Lectura.
 
 Cuando el usuario, esté en “Home”, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/157.%20Mobile%20Wireframe.png)
 
 Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/158.%20Mobile%20Wireframe.png)
 
 
 
 De la misma forma para el rubro del ANIME y Lectura. Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/159.%20Mobile%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/160.%20Mobile%20Wireframe.png)
+
 
 
 <br><br>
@@ -2305,19 +2384,14 @@ Visualización de todos los Wireflows: https://lucid.app/lucidchart/4dacd749-202
 
 *User Goals relacionados A*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/203.%20User%20Goals%20A.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
 
 
 *Happy Path A:* Para poder iniciar sesión en AKIRA, el usuario debe contar con una cuenta existente, ingresar su correo electrónico y contraseña correspondiente para poder ingresar a su cuenta. Si no se ha registrado con anterioridad, deberá hacerlo, dando click en Registro. Aquí, llenará las casillas de Nombre, Apellido, Correo electrónico y Contraseña, para proceder con la creación de la cuenta.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/204.%20Happy%20Path%20A.png)
 
 
 
@@ -2325,7 +2399,7 @@ Visualización de todos los Wireflows: https://lucid.app/lucidchart/4dacd749-202
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/206.%20Wireflow%20A.png)
 
 
 <br><br>
@@ -2335,20 +2409,20 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/207.%20User%20Goals%20B.PNG)
 
 
 
 *Happy Path B:* Para que el usuario pueda visualizar su cuenta, deberá darle click al botón de “Mi Cuenta”, dentro del navbar de AKIRA, y así podrá observar a detalle su cuenta. Visualizará tres contenedores dentro de su cuenta, el primero abarcando sus datos personales (Nombre, Apellido, correo y teléfono), el segundo abarcando sus datos sensibles (dirección y tarjeta vinculada) y el último apartado contendrá sus compras en curso, divididas por número de tracking (si es que realizó alguna compra). Si no realizó alguna compra, no se mostrará ningún número de tracking en este apartado, y si no ingresó algún dato personal o sensible, no aparecerá el dato en la casilla correspondiente, y te permitirá agregar o modificar el dato, dependiendo del caso.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/208.%20Happy%20Path%20B.png)
 
 
 *Visualización completa del Wireflow B:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/210.%20Wireflow%20B.png)
 
 
 <br><br>
@@ -2357,25 +2431,20 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/211.%20User%20Goal%20C.PNG)
 
 
 
 *Happy Path C:* El usuario podrá buscar productos, artistas, géneros de lectura, o animes de diversas maneras. La primera será mediante los desplegables encontrados al presionar el Hamburger icon dentro del navbar de AKIRA, donde podrá buscar, de manera genérica, las diferentes categorías de productos asiáticos que ofrece akira, así como sus subcategorías por cada rubro. El segundo método de búsqueda se dará al ingresar texto en el input “Buscar”, dentro del navbar de Akira, donde el usuario podrá ingresar una palabra (como el nombre de su album de kpop, o el género de lectura que desea buscar), y aparecerá una lista de productos relacionados a la búsqueda. El tercer y último método se encuentra en la pantalla de Inicio de Akira, cuando se muestran las tres categorías de productos asiáticos, si el usuario presiona una de estas categorías, será redirigido a pantallas específicas que contendrán únicamente las novedades de la categoría. Por ejemplo, si presiona la categoría de Anime, solo observará los nuevos productos de anime que AKIRA ofrece y todos los animes con los que trabaja Akira. 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/212.%20Happy%20Path%20C.png)
 
 
 *Visualización completa del Wireflow C:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/214.%20Wireflow%20C.png)
 
 
 <br><br>
@@ -2384,14 +2453,7 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/215.%20User%20goal%20D.PNG)
 
 
 
@@ -2399,7 +2461,7 @@ Mejor visualización en el link de LucidChart
 *Happy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
 
 
 
@@ -2407,7 +2469,7 @@ Mejor visualización en el link de LucidChart
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/218.%20Wireflow%20D.png)
 
 
 
@@ -2417,26 +2479,21 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/219.%20User%20Goal%20E.png)
 
 
 
 
 *Happy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
 
 
 *Visualización completa del Wireflow E:*
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/222.%20Wireflow%20%20E%20.png)
 
 
 <br><br>
@@ -2445,24 +2502,21 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/223.%20User%20Goal%20F%20.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
 
 
 *Happy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
 
 
 *Visualización completa del Wireflow F:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/226.%20Wireflow%20F%20.png)
 
 
 <br><br>
@@ -2475,7 +2529,7 @@ ___
 
 El usuario debe presionar la palabra “GO” antes de entrar a la aplicación de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/161.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2484,7 +2538,7 @@ El usuario debe presionar la palabra “GO” antes de entrar a la aplicación d
 
 El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesión con una cuenta ya existente o registrarse para crear una nueva cuenta.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/162.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2493,7 +2547,9 @@ El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesi
 
 El usuario, al elegir iniciar sesión, tendrá que poner el correo y contraseña que registró anteriormente para poder continuar. En el caso de que el usuario no tenga una cuenta, para poder iniciar sesión, tendrá que registrar su Nombre, Apellido, Correo y Contraseña.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/163.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/164.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2502,7 +2558,8 @@ El usuario, al elegir iniciar sesión, tendrá que poner el correo y contraseña
 
 Cuando el usuario entre a la opción de “Contáctanos” el cual se encuentra en “Categories”, podrá visualizar las maneras que puede utilizar para contactar a AKIRA tanto en correo, teléfono o redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/165.%20Mobile%20MockUp.png)
+
 
 
 <br><br>
@@ -2511,7 +2568,8 @@ Cuando el usuario entre a la opción de “Contáctanos” el cual se encuentra 
 
 Después de la creación de la cuenta del usuario, al seleccionar “Profile” en el tab bar, el usuario podrá visualizar los datos de su cuenta tanto sus datos personales como sus nombres, apellidos, teléfono y correo, como su dirección, tarjeta vinculada y si tiene compras en curso.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/166.%20Mobile%20MockUp.png)
+
 
 
 <br><br>
@@ -2520,11 +2578,13 @@ Después de la creación de la cuenta del usuario, al seleccionar “Profile” 
 
 Si el usuario desea editar alguna parte de la información de su cuenta, debe de presionar el botón de lápiz correspondiente a la información que desea modificar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
 Para el caso de editar la “Cuenta”.
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/167.%20Mobile%20MockUp.png)
+
+
+
 
 
 <br><br>
@@ -2533,11 +2593,11 @@ Para el caso de editar la “Cuenta”.
 
 Si el usuario desea editar o agregar su dirección para que el paquete de compra llegue a la dirección asignada, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
 Para el caso de editar la “Dirección”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/168.%20Mobile%20MockUp.png)
+
+
 
 
 <br><br>
@@ -2546,12 +2606,12 @@ Para el caso de editar la “Dirección”.
 
 Si el usuario desea editar o agregar un método de pago para que el carrito de compra pueda ser pagado, deberá de presionar el botón de lápiz correspondiente a la información que desea modificar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
 Para el caso de “Tarjeta Vinculada”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/169.%20Mobile%20MockUp.png)
+
+
 
 
 <br><br>
@@ -2560,12 +2620,9 @@ Para el caso de “Tarjeta Vinculada”.
 
 Si el usuario desea editar visualizar cómo van sus pedidos (si es que ha realizado), deberá de presionar al número de tracking correspondiente.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
 De esta manera, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que compró dentro del paquete, el monto pagado y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/170.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2574,17 +2631,18 @@ De esta manera, podrá acceder a la información del número de su envío en cur
 
 Cuando el usuario presione el ícono “cart” en el tab bar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos , su descripción, precio y cantidad a comprar. Además, debajo de estos, se encuentra un pequeño resumen de su compra como el precio de todos los productos, los gastos de envío y el total a pagar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/171.%20Mobile%20MockUp.png)
 
 
 Si el cliente decide proseguir con la compra y presionó “Ir a CheckOut”, se le redireccionará al “CheckOut” donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se utilizará para comprar los productos del carrito y el resumen de gastos. Si el usuario está conforme, presionará “Comprar”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/172.%20Mobile%20MockUp.png)
 
 
 Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/173.%20Mobile%20MockUp.png)
+
 
 <br><br>
 
@@ -2592,7 +2650,7 @@ Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará
 
 Por defecto el usuario estará en “Home”, visualizará un carrusel con los nuevos productos de la tienda y una pequeña descripción de estos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/174.%20Mobile%20MockUp.png)
 
 <br><br>
 
@@ -2600,7 +2658,7 @@ Por defecto el usuario estará en “Home”, visualizará un carrusel con los n
 
 Al bajar, el usuario al presionar cada rubro de las imágenes, podrá visualizar las categorías con las que trabaja AKIRA tanto K-pop, anime y lecturas (conformado por mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/175.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2610,13 +2668,16 @@ Al bajar, el usuario al presionar cada rubro de las imágenes, podrá visualizar
 El usuario visualizará los nuevos ingresos de Akira en cuanto a productos por cada rubro.
 Para el rubro del K-pop:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/176.%20Mobile%20MockUp.png)
 
 
 
 Para el rubro del anime y lectura:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/177.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/178.%20Mobile%20MockUp.png)
+
 
 
 <br><br>
@@ -2625,7 +2686,7 @@ Para el rubro del anime y lectura:
 
 Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar confianza a nuestra comunidad de clientes sobre la autenticidad de los productos.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/179.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2634,7 +2695,7 @@ Se muestran los logos de los distribuidores y aliados de AKIRA, para inspirar co
 
 Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, información de cuenta, menú y nuestras redes sociales.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/180.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2643,19 +2704,31 @@ Se muestra el footer de AKIRA, el cual consta de el logo de la plataforma, infor
 
 Cuando el usuario presione el ícono “Categories” en el tab bar, se desplegará la distribución de nuestras categorías de productos (Kpop, Anime y Lectura). Además, de Nuevos Ingresos y Lo más Top (o lo más vendido), preguntas frecuentes y contacto con Akira.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
 Y observamos las categorías principales desplegadas.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/181.%20Mobile%20MockUp.png)
+
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/182.%20Mobile%20MockUp.png)
 
 
 
 Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artistas femeninas, grupos masculinos y el resto de subcategorías en otros rubros, como en Anime (figuras y chibis), y lectura (mangas y manhuas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/183.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/184.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/185.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/186.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/187.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/189.%20Mobile%20MockUp.png)
+
+
 
 
 <br><br>
@@ -2665,19 +2738,25 @@ Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artis
 Al presionar el ícono de “Search”, el usuario tendrá que ingresar algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, en la parte de arriba, hay un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/190.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/191.%20Mobile%20MockUp.png)
 
 
 Igualmente, para el rubro de ANIME:
 
 
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/192.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/193.%20Mobile%20MockUp.png)
 
 
 Y el rubro de Lectura:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/194.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/195.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2687,12 +2766,15 @@ Y el rubro de Lectura:
 
 Cuando el usuario presione a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto como el precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/196.%20Mobile%20MockUp.png)
 
 Igualmente, para el rubro de ANIME y el rubro de Lectura.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/197.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/198.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2702,48 +2784,48 @@ Igualmente, para el rubro de ANIME y el rubro de Lectura.
 
 Cuando el usuario, esté en “Home”, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/199.%20Mobile%20MockUp.png)
 
 Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/200.%20Mobile%20MockUp.png)
+
 
 
 De la misma forma para el rubro del ANIME y Lectura. Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/201.%20Mobile%20MockUp.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/202.%20Mobile%20MockUp.png)
+
 
 
 <br><br>
 ___
 <br>
 
-## 4.4.3. Web Applications User Flow Diagrams
+## 4.4.3. Web Applications User Flow Diagrams 
+
 
 <br><br>
 
-**a. User Flow Diagram A: Inicio de Sesión**
+**a. User Flow A: Inicio de Sesión**
 
 *User Goals relacionados A*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/203.%20User%20Goals%20A.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
 
 
 *Happy Path A:* Para poder iniciar sesión en AKIRA, el usuario debe contar con una cuenta existente, ingresar su correo electrónico y contraseña correspondiente para poder ingresar a su cuenta. Si no se ha registrado con anterioridad, deberá hacerlo, dando click en Registro. Aquí, llenará las casillas de Nombre, Apellido, Correo electrónico y Contraseña, para proceder con la creación de la cuenta.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/204.%20Happy%20Path%20A.png)
 
-*Unhappy Path A:* Texto
+*Unappy Path A:* Para poder iniciar sesión en AKIRA, el usuario debe contar con una cuenta existente, ingresar su correo electrónico y contraseña correspondiente para poder ingresar a su cuenta. Si no se ha registrado con anterioridad, deberá hacerlo, dando click en Registro. Aquí, llenará las casillas de Nombre, Apellido, Correo electrónico y Contraseña, para proceder con la creación de la cuenta.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/204.%20Happy%20Path%20A.png)
 
 
 
@@ -2751,80 +2833,69 @@ ___
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/206.%20Wireflow%20A.png)
 
 
 <br><br>
 
 
-**b. User Flow Diagram B: Visualizar Cuenta**
+**b. User Flow B: Visualizar Cuenta**
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/207.%20User%20Goals%20B.PNG)
 
 
 
 *Happy Path B:* Para que el usuario pueda visualizar su cuenta, deberá darle click al botón de “Mi Cuenta”, dentro del navbar de AKIRA, y así podrá observar a detalle su cuenta. Visualizará tres contenedores dentro de su cuenta, el primero abarcando sus datos personales (Nombre, Apellido, correo y teléfono), el segundo abarcando sus datos sensibles (dirección y tarjeta vinculada) y el último apartado contendrá sus compras en curso, divididas por número de tracking (si es que realizó alguna compra). Si no realizó alguna compra, no se mostrará ningún número de tracking en este apartado, y si no ingresó algún dato personal o sensible, no aparecerá el dato en la casilla correspondiente, y te permitirá agregar o modificar el dato, dependiendo del caso.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/208.%20Happy%20Path%20B.png)
 
-*Unhappy Path B:* Texto
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+*Unhappy Path B:* Para que el usuario pueda visualizar su cuenta, deberá darle click al botón de “Mi Cuenta”, dentro del navbar de AKIRA, y así podrá observar a detalle su cuenta. Visualizará tres contenedores dentro de su cuenta, el primero abarcando sus datos personales (Nombre, Apellido, correo y teléfono), el segundo abarcando sus datos sensibles (dirección y tarjeta vinculada) y el último apartado contendrá sus compras en curso, divididas por número de tracking (si es que realizó alguna compra). Si no realizó alguna compra, no se mostrará ningún número de tracking en este apartado, y si no ingresó algún dato personal o sensible, no aparecerá el dato en la casilla correspondiente, y te permitirá agregar o modificar el dato, dependiendo del caso.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/208.%20Happy%20Path%20B.png)
+
 
 *Visualización completa del Wireflow B:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/210.%20Wireflow%20B.png)
 
 
 <br><br>
 
-**c. User Flow Diagram C: Buscar productos, artistas o géneros**
+**c. User Flow C: Buscar productos, artistas o géneros**
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/211.%20User%20Goal%20C.PNG)
 
 
 
 *Happy Path C:* El usuario podrá buscar productos, artistas, géneros de lectura, o animes de diversas maneras. La primera será mediante los desplegables encontrados al presionar el Hamburger icon dentro del navbar de AKIRA, donde podrá buscar, de manera genérica, las diferentes categorías de productos asiáticos que ofrece akira, así como sus subcategorías por cada rubro. El segundo método de búsqueda se dará al ingresar texto en el input “Buscar”, dentro del navbar de Akira, donde el usuario podrá ingresar una palabra (como el nombre de su album de kpop, o el género de lectura que desea buscar), y aparecerá una lista de productos relacionados a la búsqueda. El tercer y último método se encuentra en la pantalla de Inicio de Akira, cuando se muestran las tres categorías de productos asiáticos, si el usuario presiona una de estas categorías, será redirigido a pantallas específicas que contendrán únicamente las novedades de la categoría. Por ejemplo, si presiona la categoría de Anime, solo observará los nuevos productos de anime que AKIRA ofrece y todos los animes con los que trabaja Akira. 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/212.%20Happy%20Path%20C.png)
 
-*Unhappy Path C:* Texto
+*Unappy Path C:* El usuario podrá buscar productos, artistas, géneros de lectura, o animes de diversas maneras. La primera será mediante los desplegables encontrados al presionar el Hamburger icon dentro del navbar de AKIRA, donde podrá buscar, de manera genérica, las diferentes categorías de productos asiáticos que ofrece akira, así como sus subcategorías por cada rubro. El segundo método de búsqueda se dará al ingresar texto en el input “Buscar”, dentro del navbar de Akira, donde el usuario podrá ingresar una palabra (como el nombre de su album de kpop, o el género de lectura que desea buscar), y aparecerá una lista de productos relacionados a la búsqueda. El tercer y último método se encuentra en la pantalla de Inicio de Akira, cuando se muestran las tres categorías de productos asiáticos, si el usuario presiona una de estas categorías, será redirigido a pantallas específicas que contendrán únicamente las novedades de la categoría. Por ejemplo, si presiona la categoría de Anime, solo observará los nuevos productos de anime que AKIRA ofrece y todos los animes con los que trabaja Akira. 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/212.%20Happy%20Path%20C.png)
 
 *Visualización completa del Wireflow C:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/214.%20Wireflow%20C.png)
 
 
 <br><br>
 
-**d. User Flow Diagram D: Filtrar búsqueda**
+**d. User Flow D: Filtrar búsqueda**
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/215.%20User%20goal%20D.PNG)
 
 
 
@@ -2832,80 +2903,77 @@ Mejor visualización en el link de LucidChart
 *Happy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
 
-*Unhappy Path D:* Texto
+*Unhappy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
+
 
 
 *Visualización completa del Wireflow D:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/218.%20Wireflow%20D.png)
 
 
 
 <br><br>
 
-**e. User Flow Diagram E: Agregar producto, visualizar y comprar Carrito**
+**e. User Flow E: Agregar producto, visualizar y comprar Carrito**
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/219.%20User%20Goal%20E.png)
 
 
 
 
 *Happy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
 
+*Unhappy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
 
-*Unhappy Path E:* Texto
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
 *Visualización completa del Wireflow E:*
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/222.%20Wireflow%20%20E%20.png)
 
 
 <br><br>
 
-**f. User Flow Diagram F: Contactar con AKIRA**
+**f. User Flow F: Contactar con AKIRA**
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/223.%20User%20Goal%20F%20.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
 
 
 *Happy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
 
-*Unhappy Path F:* Texto
+*Unhappy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
+
+
 
 *Visualización completa del Wireflow F:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/226.%20Wireflow%20F%20.png)
+
 
 
 <br><br>
@@ -2918,33 +2986,32 @@ Link de Figma
 
 https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/227.%20Prototype%20Figma.png)
 
 
 URL video de prototipado Landing Page:
 
-www.com 
+[www.com upc-pre-202302-si730-ws51-lambders-web-prototype-navigation-sprint-1.mp4 ](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dweb%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&ga=1)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/228.%20Prototype%20Web.png)
 
 
 URL video de prototipado Mobile Version:
 
-www.com 
+[www.com ](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dmobile%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&ga=1)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/229.%20Prototype%20Mobile.png)
 
 
 <br><br>
 ___
 <br>
 
-
 ## 4.6. Domain-Driven Software Architecture 
 
 ## 4.6.1. Software Architecture Context Diagram
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/230.%20Software%20Architecture%20Context%20Diagram.png)
 
 El diagrama de contexto ilustra la arquitectura y las interacciones principales de un sistema de venta de productos en línea. Este sistema permite a los usuarios como los clientes o mayoristas navegar por la plataforma y realizar las compras de productos. Además, el sistema conecta los diversos proveedores que suministran los productos disponibles en la tienda.
 
@@ -2959,7 +3026,7 @@ ___
 
 ## 4.6.2. Software Architecture Container Diagrams
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/231.%20Software%20Architecture%20Container%20Diagrams.png)
 
 El diagrama de contenedores representa la arquitectura del “Sistema de venta de producto”. Los usuarios, denominados “Clientes”, exploran y compran productos a través de una aplicación web. Esta aplicación interactúa con diversos componentes, incluido el “Sistema de inventario” que gestiona el stock de productos, una “Base de datos” que almacena la información de productos y compras, y un “Sistema de Pago” que asegura las transacciones financieras.
 
@@ -2970,7 +3037,7 @@ ___
 
 ## 4.6.3. Software Architecture Components Diagrams
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/232.%20Software%20Architecture%20Components%20Diagrams.png)
 
 El diagrama de componentes consiste en la descomposición de los principales contenedores “Sistema de Pago” y “Sistema de Inventario” en más componentes los cuales representan las distintas funcionalidades de las cuales están conformados. En primer lugar “Sistema de Pago” tiene un “Método de pago” por el cual el Cliente paga por el producto, después se guarda toda la información en un “Registro pago” que es documentación importante a la hora de la entrega en el servicio de envío, esta misma información es almacenada en la base como una constancia de pago. En “Sistema de Inventario” se tiene un “Registro Inventario” el cual almacena el conteo de los productos que maneja la aplicación, siendo enviada esta información a la “Base de Datos”, todo este conteo es posible gracias a “Gestión inventario” en el cual se maneja lo que viene a ser la entrada y salida de los productos.
 
@@ -2982,9 +3049,13 @@ ___
 
 ## 4.7.1. Class Diagrams 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+URL de LucidChard: https://lucid.app/lucidchart/e121f465-3395-4342-bc0b-d0ef6b2c9f91/edit?invitationId=inv_7ff8d82a-54fb-4e4d-8d9d-be9f7531afe3&page=0_0# 
 
-Falta texto
+Nuestro diagrama de clases está conformado por 13 clases:
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/233.%20Class%20Diagram.png)
+
+
 
 <br><br>
 ___
@@ -2992,10 +3063,87 @@ ___
 
 ## 4.7.2. Class Dictionary 
 
+A continuación, se presenta en la siguiente tabla, las clases más relevantes.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
 
+| User                                                                                                                                       |                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| La clase User representa los datos que el usuario debe de completar con su información para registrarse y utilizar los servicios de Akira. |                                                                                                                                                            |
+| Atributo                                                                                                                                   | Descripción                                                                                                                                                |
+| id: long long                                                                                                                              | Identificador único del usuario                                                                                                                            |
+| nombre: String                                                                                                                             | Nombre del usuario                                                                                                                                         |
+| apellido: String                                                                                                                           | Apellido del usuario                                                                                                                                       |
+| telefono: String                                                                                                                           | Teléfono del usuario                                                                                                                                       |
+| correo: String                                                                                                                             | Correo del usuario                                                                                                                                         |
+| contrasena: String                                                                                                                         | Contraseña del usuario                                                                                                                                     |
+| Métodos                                                                                                                                    | Descripción                                                                                                                                                |
+| CambiarNombre(nombre): void                                                                                                                | Este método permite al usuario cambiar su nombre en la plataforma. Recibe como parámetro el nuevo nombre.                                                  |
+| CambiarApellido(apellido): void                                                                                                            | Este método permite al usuario cambiar su apellido en la plataforma. Recibe como parámetro el nuevo apellido.                                              |
+| CambiarTelefono(telefono): void                                                                                                            | Este método permite al usuario cambiar su número registrado en la plataforma. Recibe como parámetro el nuevo teléfono.                                     |
+| CambiarContrasena(): void                                                                                                                  | Este método permite al usuario cambiar su contraseña de acceso en la plataforma. No requiere un parámetro.                                                 |
+| ActualizarDireccion(Calle, Distrito, Provincia): void                                                                                      | Permite al usuario actualizar su dirección de entrega de pedidos. Recibe como parámetros la calle, distrito y la provincia de la nueva dirección.          |
+| DevolverJson(): string                                                                                                                     | Devolverá una representación en formato JSON de los datos del usuario. Devuelve una cadena de texto que contiene información en formato JSON-              |
+| ObtenerListaPedidos(): CarritoCompras*                                                                                                     | Devolverá una lista de los pedidos realizados por el usuario en la plataforma. Devuelve una lista de objetos “CarritoCompras”.                             |
+| AgregarPedido(CarritoPagado): void                                                                                                         | El usuario podrá agregar un nuevo pedido en la plataforma. Requiere como parámetro un objeto "CarritoPagado" que representa el pedido que se va a agregar. |
 Falta texto
+
+<br><br>
+
+| CarritoCompras                                                                           |                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| La clase CarritoCompras representa al carrito de compras de un usuario en la plataforma. |                                                                                                                                                                       |
+| Atributo                                                                                 | Descripción                                                                                                                                                           |
+| productos: Producto*                                                                     | Lista o conjunto de objetos de tipo “Producto” que el usuario ha seleccionado para comprar.                                                                           |
+| subtotal: float                                                                          | Almacena el costo total de los productos en el carrito de compras antes de aplicar cualquier costo de envío.                                                          |
+| Pagado: boolean                                                                          | Indica si el carrito de compras ha sido pagado o no.                                                                                                                  |
+| Métodos                                                                                  | Descripción                                                                                                                                                           |
+| agregarProducto(producto: Producto): void                                                | Método que permite agregar un producto al carrito de compras. Requiere como parámetro un objeto de tipo “Producto” que representa el producto que se desea agregar.   |
+| eliminarProducto(producto: Producto): void                                               | Permite eliminar un producto del carrito de compras. Requiere como parámetro un objeto de tipo “Producto” que representa el producto que se desea eliminar.           |
+| calcularSubTotal():float                                                                 | Método el cual calcula y devuelve el subtotal de los productos del carrito de compras, es decir, el costo total de los productos sin aplicarle algún costo adicional. |
+| calcularEnvio():float                                                                    | Método que calcula el costo de envío de los productos en el carrito de compras y devuelve ese valor.                                                                  |
+| calcularTotal():float                                                                    | Método que calcula y devuelve el costo final de los productos del carrito incluyendo el subtotal y envío.                                                             |
+| pagar(): boolean                                                                         | Permite realizar el pago del carrito. Si el pago se realizó con éxito será “true”, caso contrario, “false” si hubo algún problema durante el proceso de pago.         |
+
+
+<br><br>
+
+| Segmento                                                                     |                                                                                                 |
+|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| La clase Segmento representa una sección de gestión de productos             |                                                                                                 |
+| Atributo                                                                     | Descripción                                                                                     |
+| id: int                                                                      | Identificador único del segmento                                                                |
+| nombre: String                                                               | Nombre descriptivo del segmento                                                                 |
+| TextoMotivacional: String                                                    | Texto descriptivo                                                                               |
+| Categorias: Categoria*                                                       | Colección de categorías relacionadas con este segmento.                                         |
+| Métodos                                                                      | Descripción                                                                                     |
+| BuscarProducto(NombreBuscado): Producto                                      | Método que busca y devuelve un producto dentro de este segmento basándose en el nombre buscado. |
+| BuscarSubCategoria(NombreBuscado): SubCategoria*                             | Busca y devuelve una subcategoría dentro de este segmento basándose en el nombre buscado.       |
+| AgregarSubcategoriaACategoria(SubCategoria, Categoria)                       | Método que agrega una subcategoría existente a una categoría dentro de este segmento.           |
+| QuitarSubcategoriaACategoria(SubCategoria, Categoria)                        | Quita una subcategoría.                                                                         |
+| MoverSubcategoriaDeCategoria(SubCategoria, CategoriaAntigua, CategoriaNueva) | Mueve una subcategoría de una categoría a otra dentro de este segmento.                         |
+| AgregarProductoASubcategoria(Producto, Subcategoria)                         | Agrega un producto a una subcategoría dentro de este segmento.                                  |
+| QuitarProductoDeSubcategoria(Producto, Subcategoria)                         | Quita un producto de una subcategoría dentro de este segmento.                                  |
+| DevolverListaProductos(): Producto*                                          | Devuelve una lista de productos que pertenecen a este segmento.                                 |
+
+
+| ProductoEnTienda                                                                                                                                 |                                                                                                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| La clase ProductoEnTienda representa un producto disponible y se utiliza para gestionar la información sobre los productos que están a la venta. |                                                                                                             |
+| Atributo                                                                                                                                         | Descripción                                                                                                 |
+| nombre: String                                                                                                                                   | Nombre del producto                                                                                         |
+| imagenes: String*                                                                                                                                | Colección de rutas de archivo y/o URLs que representan imágenes del producto                                |
+| precio: float                                                                                                                                    | Precio del producto                                                                                         |
+| disponibles: int                                                                                                                                 | La cantidad de unidades disponibles en stock                                                                |
+| descripcion: String                                                                                                                              | Una descripción detallada del producto                                                                      |
+| Métodos                                                                                                                                          | Descripción                                                                                                 |
+| DevolverJson(): string                                                                                                                           | Devuelve una representación en formato JSON de los atributos del producto en forma de cadena de caracteres. |
+| ObtenerPrecio(): float                                                                                                                           | Método que obtiene el precio actual del producto.                                                           |
+| CambiarPrecio(float)                                                                                                                             | Método que cambia el precio del producto por el valor proporcionado.                                        |
+| ReducirStock(int)                                                                                                                                | Método que reduce la cantidad de unidades disponibles en stock del producto.                                |
+| AgregarStock(int)                                                                                                                                | Método que agrega la cantidad de unidades al stock de productos.                                            |
+| AgregarAlCarrito()                                                                                                                               | Método que agrega el producto al carrito de compras de un cliente.                                          |
+
+
 
 <br><br>
 ___
@@ -3010,7 +3158,7 @@ Link Vertabelo: https://my.vertabelo.com/public-model-view/ZnJaPxrKLsaEZjUsf8SId
 Se diagramó una base de datos relacional con SQL y la herramienta Vertabelo, para almacenar y gestionar la información relacionada de los productos, usuarios, carritos de compras, direcciones de envío, filtros y tarjetas de crédito. Nuestra DB está compuesta por 9 tablas: producto, carritos, productos_por_carrito, usuario, tarjeta, direccion, categoria y  filtro, categorias_por_filtro, permitiendo almacenar la información personal del usuario, datos de tarjeta, de dirección, detalles de los productos de Akira, los detalles de filtros de búsqueda y las categorías de Akira.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/234.%20Database%20Diagram.png)
 
 
 <br><br>
@@ -3027,14 +3175,14 @@ ___
 
 - URL: https://www.notion.so/
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/235.%20Notion.png)
 
 
 *Pivotal Tracker:* Es una herramienta de gestión de proyectos ágiles. La cual te da la factibilidad de la colaboración en tiempo real en torno a un registro compartido priorizado. 
 
 - URL: https://www.pivotaltracker.com/
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/236.%20Pivotal.png)
 
 
 <br><br>
@@ -3046,7 +3194,7 @@ ___
 
 - URL:  https://cucumber.io/
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/237.%20Cucumber.png)
 
 
 <br><br>
@@ -3057,21 +3205,21 @@ ___
 
 - URL: https://www.figma.com/
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/238.%20Figma.png)
 
 
 *UXPressia:* Es una plataforma multi colaborativa, la cual ayuda en el mapeo del viaje del cliente. Para facilitar las interacciones y los puntos de contacto.
 
 - URL: https://uxpressia.com/
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/239.%20Uxpressia.png)
 
 
 *Adobe Illustrator:* Es un editor gráfico vectorial, el cual te permite crear logotipos, iconos, dibujos,etc. 
 
 - URL: https://www.adobe.com/la/products/illustrator.html
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/240.%20Illustrator.png)
 
 
 <br><br>
@@ -3082,30 +3230,28 @@ ___
 
 - URL: https://code.visualstudio.com/ 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/241.%20Visual%20Code.jpg)
 
 
 *Framework AngularJS:* Es un framework de JavaScript desarrollado por Google que se utiliza para crear aplicaciones web de una sola página (SPA) de manera eficiente y estructurada.
 
 - URL: https://angularjs.org/ 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/242.%20Angular%20JS.png)
 
 
 *Html:* Es un lenguaje de etiquetas el cual sirve para el desarrollo de páginas web.
 
 - URL: https://html.com
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/243.%20HTML.png)
 
 
 *CSS:* Es un lenguaje de diseño gráfico, el cual permite animar y diseñar un documento escrito.
 
 - URL: -
   
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/244.%20CSS.png)
 
 
 
@@ -3113,7 +3259,7 @@ ___
 
 - URL: -
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/245.%20JS.png)
 
 
 <br><br>
@@ -3125,7 +3271,7 @@ ___
 
 - URL: -
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/246.%20Gherkin.png)
 
 
 <br><br>
@@ -3145,15 +3291,17 @@ ___
 
 URL del repositorio de **Landing Page**
 
-https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications 
+[https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications ](https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications 
+)
 
 URL del repositorio de **Web Services**
 
-https://github.com/SI729-Grupo2-WS52-Open-Source/Web-Services 
+[https://github.com/SI729-Grupo2-WS52-Open-Source/Web-Services ](https://github.com/SI729-Grupo2-WS52-Open-Source/Web-Services 
+)
 
 URL del repositorio de **Frontend Web Application**
 
-https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications
+[https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications](https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications )
 
 <br><br>
 
@@ -3161,9 +3309,9 @@ https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications
 
 Como se puede apreciar en la imagen, en la versión 0.1 realizamos la creación del proyecto y aplicación. A partir de allí, creamos la rama “Develop” en el cual irán las nuevas características. Asimismo, creamos una rama llamada “Feature”, en el cual pondremos los features de nuestro proyecto.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/247.%20Gitflow.jpg)
 
-Link del GitFlow: https://miro.com/app/board/uXjVPJUuizE=/?share_link_id=47144121041 
+Link del GitFlow: [https://miro.com/app/board/uXjVPJUuizE=/?share_link_id=47144121041 ](https://miro.com/app/board/uXjVPJUuizE=/?share_link_id=47144121041 )
 
 
 
@@ -3174,12 +3322,14 @@ Link del GitFlow: https://miro.com/app/board/uXjVPJUuizE=/?share_link_id=4714412
 
 Se crearon tres repositorios, Landing Page, Web Services y Frontend Web Applications
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/248.%20Github%20repos.png)
 
 
 Asimismo, por cada repositoriom, creamos 3 ramas (branches) que son el main, feature/landing-page y develop y en ellos se pondrán los features y nuestro landing page.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/249.%20Branches%201.png)
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/250.%20Branches%202.png)
 
 
 
@@ -3363,12 +3513,12 @@ ___
 
 **Git** nos permitirá controlar las herramientas de nuestro software, vamos a guardar diferentes archivos o versiones a lo largo de las diferentes etapas en un proyecto. Esto nos permite como desarrolladores, hacer un seguimiento de lo que ya tenemos hecho y poder resolver algunos problemas o cambios que se decidan a lo largo del proyecto
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/251.%20Git.png)
 
 
 **Github** es una herramienta que nos facilitará la colaboración con git, esta es una plataforma que puede mantener repositorio de códigos en almacenamiento basado en la nube y facilita que varios trabajadores puedan trabajar en un solo proyecto pudiendo ver las ediciones propias de cada integrante mejorando el trabajo en equipo para los trabajos por hacer.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/252.%20Github%20logo.png)
 
 
 <br><br>
@@ -3668,9 +3818,27 @@ ___
 
 ## 5.2.1.3. Development Evidence for Sprint Review
 
+**Repositorio Project Statement:**
+
 | Repository    | Branch       | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |---------------|--------------|-----------|----------------|---------------------|--------------------|
-| user/reponame | feature/lala | 1         |                |                     | 30/08/2023         |
+| Project-Statement | main/README.md | 1    |    Initial commit     |     Creación del README.md      | 06/09/2023   |
+| Project-Statement | main/README.md | 2    |    commit Nirvana Garcia    |     Ingreso de contenido del informe desde carátula hasta Lean Ux Canvas.     | 09/09/2023   |
+| Project-Statement | main/README.md | 3    |    commit Gabriel Bernal    |    Ingreso de contenido del informe desde Segmento Objetivo hasta As-Is Scenario Mapping.     | 10/09/2023  |
+| Project-Statement | main/README.md | 4    |    commit Marcelo Scerpella    |     Ingreso de contenido del informe desde To-Be Scenario Mapping hasta Product Backlog.      | 10/09/2023  |
+| Project-Statement | main/README.md | 5    |    commit Michelle Moreno     |    Ingreso de contenido del informe desde Style Guidelines hasta Web Applications Prototyping.    | 10/09/2023  |
+| Project-Statement | main/README.md | 6    |    commit Luis Aquije    |     Ingreso de contenido del informe desde Domain-Driven Software Architecture hasta Bibliografía.     | 10/09/2023   |
+
+<BR><BR>
+
+**Repositorio Landing Page:**
+
+| Repository    | Branch       | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|---------------|--------------|-----------|----------------|---------------------|--------------------|
+| Landing-Page | main | 1    |    Initial commit     |   Creación del repositorio     | 06/09/2023   |
+| Landing-Page | main | 2    |    landing page   |   Subida de archivos de la primera versión del landing page.   | 10/09/2023   |
+| Landing-Page | main | 3    |    landing page v2  |   Subida de archivos de la segunda versión del landing page.     | 10/09/2023  |
+
 
 
 <br><br>
@@ -3681,13 +3849,6 @@ ___
 
 No se puede realizar debido a que aún no se pide implementación de Web Service.
 
-<br><br>
-___
-<br>
-
-## 5.2.1.4. Execution Evidence for Sprint Review
-
-No se puede realizar debido a que aún no se pide implementación de Web Service.
 
 <br><br>
 ___
@@ -3697,25 +3858,71 @@ ___
 
 En este Sprint (Sprint 1), se logró desarrollar una aplicación web que cumple con las necesidades básicas de nuestros usuarios (fanáticos del entretenimiento asiático y vendedores de productos del entretenimiento asiático). En esta primera versión de la plataforma web, observamos las siguientes funcionalidades relacionadas a nuestros User Stories y Product Backlog:
 
-- Desarrollar la funcion de busqueda y compra de productos en la página para segmento de compradores
+Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
-- Desarrollar la función de visualizar y modificar el perfil del usuario
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
-- Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/253.%20Execution%20Evidence.png)
 
 <br>
 
-**URL** video evidencia implementación del sprint: www.c.com 
+Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
 
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/254.%20Execution%20Evidence.png)
+
+<br>
+
+Crear la estructura de la página de login
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/255.%20Execution%20Evidence.png)
+
+<br>
+
+Diseño de la Interfaz de Registro de Usuario
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/256.%20Execution%20Evidence.png)
+
+<br>
+
+Diseño de implementación de envió a la página del producto para visualizar mayores detalles
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/257.%20Execution%20Evidence.png)
+
+<br>
+
+Implementación de carrito, perfil y categories en navbar
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/258.%20Execution%20Evidence.png)
+
+<br>
+
+Validación y limpieza del código
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/259.%20Execution%20Evidence.png)
+
+<br>
+
+Estructura y diseño de la funcionalidad
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/260.%20Execution%20Evidence.png)
+
+<br>
+
+Estructura responsive
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/261.%20Execution%20Evidence.png)
+
+
+Diseño de Búsqueda de productos por nombre
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/262.%20Execution%20Evidence.png)
+
+
+<br><br>
+
+
+*URL video evidencia implementación del sprint:*
+
+[upc-pre-202302-si730-ws51-lambders-product-navigation-sprint-1.mp4
+](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FApps%20Web%2Fupc%2Dpre%2D202302%2Dsi730%2Dws51%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&ga=1)
 
 <br><br>
 ___
@@ -3733,19 +3940,62 @@ ___
 
 Durante este primer Sprint (Sprint #1), se ha realizado un Software Deployment dentro del repositorio de “Landing Page”.  Dentro de este, se desplegó la primera versión del landing page de AKIRA, el cual cuenta con las siguientes características mencionadas en el sprint:
 
-- Desarrollar la funcion de busqueda y compra de productos en la página para segmento de compradores
+Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/253.%20Execution%20Evidence.png)
+
+<br>
+
+Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/254.%20Execution%20Evidence.png)
+
+<br>
+
+Crear la estructura de la página de login
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/255.%20Execution%20Evidence.png)
+
+<br>
+
+Diseño de la Interfaz de Registro de Usuario
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/256.%20Execution%20Evidence.png)
+
+<br>
+
+Diseño de implementación de envió a la página del producto para visualizar mayores detalles
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/257.%20Execution%20Evidence.png)
+
+<br>
+
+Implementación de carrito, perfil y categories en navbar
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/258.%20Execution%20Evidence.png)
+
+<br>
+
+Validación y limpieza del código
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/259.%20Execution%20Evidence.png)
+
+<br>
+
+Estructura y diseño de la funcionalidad
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/260.%20Execution%20Evidence.png)
+
+<br>
+
+Estructura responsive
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/261.%20Execution%20Evidence.png)
 
 
-- Desarrollar la función de visualizar y modificar el perfil del usuario
+Diseño de Búsqueda de productos por nombre
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
-
-
-- Desarrollar un diseño limpio y agradable a la vista de nuestros usuarios.
-
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/44.%20Landing%20Wireframe.png)
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/262.%20Execution%20Evidence.png)
 
 
 <br><br>
@@ -3754,7 +4004,92 @@ ___
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint 
 
-Mostrar los commits de Github con todos los integrantes, explicando cómo hemos trabajado en este sprint
+Commits en Github: 
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/263.%20Commits.png)
+
+<br>
+
+**En Sprint 1:**
+
+*a. Nirvana García*
+
+Creé en repositorio Project Statement, y dentro de este, el archivo markdown README.md que contiene el informe completo del proyecto. El commit de “Update README.md” tuvo la finalidad de ingresar el contenido del informe desde la carátula hasta el Lean Ux Canvas.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/264.%20Nirvana%20commit.png)
+
+
+Además, creé el repositorio Landing Page, el cual alberga las versiones del mismo.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/265.%20Nirvana%20commit.png)
+
+
+*En relación al sprint 1, logré lo siguiente:*
+
+- Crear la estructura de la página de login
+- Diseño de la Interfaz de Registro de Usuario
+- Estructura y diseño de las funcionalidades básicas de AKIRA
+- Diseño de implementación de envió a la página del producto para visualizar mayores detalles
+
+<br><br>
+
+*b. Gabriel Bernal*
+
+Agregué el contenido del informe desde Segmento Objetivo hasta As-Is Scenario Mapping, y además, eliminé un archivo no deseado dentro de la carpeta “img”, creada con el propósito de almacenar las imágenes que se albergan en nuestro informe.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/266.%20Gabriel%20commit.png)
+
+
+En relación al sprint 1, logré lo siguiente:
+
+- Diseño de Iniciar Sesión
+- Diseño de Registro de usuario
+- Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
+
+<br><br>
+
+c. Marcelo Scerpella
+
+Agregué el contenido del informe desde To-Be Scenario Mapping hasta Product Backlog, encargándome de la creación de dichas tablas en formato markdown.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/267.%20Gabriel%20Commit.png)
+
+
+En relación al sprint 1, logré lo siguiente:
+- Diseño de Búsqueda de productos por nombre
+
+<br><br>
+
+d. Michelle Moreno
+
+Agregué el contenido del informe desde Style Guidelines hasta Web Applications Prototyping, enfocándome en linkear las imágenes del repositorio correspondiente a esta parte del informe que requería de un elevado número de imágenes.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/268.%20Michelle%20Commit.png)
+
+
+Además, subí la primera versión del Landing Page de Akira dentro del repositorio de Landing Page.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/269.%20Michelle%20Commit.png)
+
+
+En relación al sprint 1, logré lo siguiente:
+
+- Añadir diseños a la página de login
+- Validación y limpieza del código
+- Implementación del Frontend de Registro de Usuario
+- Diseño de implementación de envió a la página del producto para visualizar mayores detalles
+
+<br><br>
+
+e. Luis Aquije
+
+Agregué el contenido del informe desde Domain-Driven Software Architecture hasta Bibliografía, tomando como reto la creación de tablas más complejas y la vinculación con imágenes dentro del informe.
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/270.%20LuDi%20Commit.png)
+
+
+En relación al sprint 1, logré lo siguiente:
+Diseño de Acceso al menú desplegable navbar
 
 <br><br>
 ___
@@ -3812,3 +4147,22 @@ Ingresos procedentes de la comercialización en el extranjero del anime japonés
 López, E. (10 de octubre del 2022). La industria del anime y cosplay en el Perú. La Cámara. [Recuperado de: https://lacamara.pe/la-industria-del-anime-y-cosplay-en-el-peru/]
 
 Ponce, J. (26 de enero del 2022). Mangas: el fenómeno editorial que sigue creciendo en pandemia, de la mano del streaming y un nuevo público. RPP. [Recuperado de: https://rpp.pe/cultura/anime/los-mangas-triplicaron-sus-ventas-a-pesar-de-la-pandemia-noticia-1380232]
+
+
+<br><br>
+___
+<br>
+
+# Anexos
+
+**Anexos A: Gráficos y Tablas utilizadas**
+
+![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/271.%20Anexo.png)
+
+
+Gráfica 1: https://trends.google.es/trends/explore?date=now%201-d&geo=PE&q=BTS,Ariana%20Grande&hl=es
+
+
+
+
+
