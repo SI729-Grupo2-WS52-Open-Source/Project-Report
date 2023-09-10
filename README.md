@@ -26,6 +26,10 @@ ___
 
 [https://gabbrm.github.io/Landing-Page-version-2/](https://gabbrm.github.io/Landing-Page-version-2/)
 
+**URL Video Exposición TB1:** 
+
+[upc-pre-202302-si729-ws52-lambders-web-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/ERLJx2gg_ZhGjOvTFNXTN-IBybVf50Nu7m0QV7LELASa9g?e=NAcila&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
 <br><br>
 
 **Commits en Github:** 
