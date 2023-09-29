@@ -6,9 +6,11 @@ ___
 
 ## Registro de versiones
 
-| Versión | Fecha       | Autor            | Descripción de modificación             |
-| ------- | ----------- | ---------------- | --------------------------------------- |
-| 1.0     | 01/09/23  | Lambders         | Creación inicial del documento          |
+| Versión          	| Fecha      	| Autor    	| Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+|------------------	|------------	|----------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Revisión 1 (TB1) 	| 01/09/2023 	| Lambders 	| -Creación del documento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|
+| Revisión 2 (TP)  	| 23/09/2023 	| Lambders 	| -Aumento de conclusiones en Student Outcome<br><br>-Cambio de fotos en Startup Profiles<br><br>-Agregación de cuadro estadístico de entrevistas a ambos segmentos objetivos<br><br>-Aumento de información en el capítulo 5<br><br>-Agregación de imagen de entrevistador al lado del entrevistado (Entrevistas 6 y 7)<br><br>-Aumento de conclusiones (enfatizando entrevistas)<br><br>-Agregación de información en git flow.<br><br>-Modificación de commits, estos se adaptaron al estándar de commits en github<br><br>-Documentación de la nomenclatura de creación de commits en github<br><br>-Agregación de gherkin de los Acceptance Test (User Stories)<br><br>-Modificación de Story Points en User Stories<br><br>-Agregación del velocity en Sprint Planning 1<br><br>-Se redactó la determinación de los User Stories correspondientes a cada Sprint 	|
+|                  	|            	|          	|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|
 
 <br><br>
 ___
@@ -22,27 +24,56 @@ ___
 
 <br>
 
-**URL Landing Page Desplegada:** 
-
-[https://gabbrm.github.io/Landing-Page-version-2/](https://gabbrm.github.io/Landing-Page-version-2/)
-
-**URL Video Exposición TB1:** 
-
-[upc-pre-202302-si729-ws52-lambders-web-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/ERLJx2gg_ZhGjOvTFNXTN-IBybVf50Nu7m0QV7LELASa9g?e=NAcila&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-
 <br><br>
 
 **Commits en Github:** 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/263.%20Commits.png)
+Commits en Github por repositorio
 
-<br><br>
+*En repositorio Landing Page*
 
-**Analíticos de Colaboración en Github:** 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/272.%20Analiticos%20github.png)
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
 
-<br><br>
+En repositorio Frontend Web Application
+  
+![Alt text](image-3.png)
+ ![Alt text](image-4.png)
+![Alt text](image-5.png)
+ 
+En Acceptance Test (Gherkin) 
+![Alt text](image-6.png)    
+![Alt text](image-7.png)
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+
+ 
+En Project Report
+![Alt text](image-10.png)
+![Alt text](image-11.png)     
+![Alt text](image-12.png)
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+ 
+Analíticos de Colaboración en Github: 
+
+Repositorio Landing Page:
+ 
+
+Repositorio FrontEnd:
+ 
+
+Repositorio Acceptance Tests (Gherkin):
+ 
+
+Repositorio Project Report (Capstone):
+ 
+ 
+
+
+
 
 **Explicación de los commits - TB1**
 
