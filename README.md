@@ -33,47 +33,47 @@ Commits en Github por repositorio
 En repositorio Landing Page
 
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![Alt text](img/image.png)
+![Alt text](img/image-1.png)
+![Alt text](img/image-2.png)
 
 En repositorio Frontend Web Application
   
-![Alt text](image-3.png)
- ![Alt text](image-4.png)
-![Alt text](image-5.png)
+![Alt text](img/image-3.png)
+ ![Alt text](img/image-4.png)
+![Alt text](img/image-5.png)
  
 En Acceptance Test (Gherkin) 
-![Alt text](image-6.png)    
-![Alt text](image-7.png)
-![Alt text](image-8.png)
-![Alt text](image-9.png)
+![Alt text](img/image-6.png)    
+![Alt text](img/image-7.png)
+![Alt text](img/image-8.png)
+![Alt text](img/image-9.png)
 
  
-En Project Report
-![Alt text](image-10.png)
-![Alt text](image-11.png)     
-![Alt text](image-12.png)
-![Alt text](image-13.png)
-![Alt text](image-14.png)
+En Project Report:
+![Alt text](img/image-10.png)
+![Alt text](img/image-11.png)     
+![Alt text](img/image-12.png)
+![Alt text](img/image-13.png)
+![Alt text](img/image-14.png)
  
 **Analíticos de Colaboración en Github:**
 
 Repositorio Landing Page:
 
- ![Alt text](image-15.png)
+ ![Alt text](img/image-15.png)
 
 Repositorio FrontEnd:
 
- ![Alt text](image-16.png)
+ ![Alt text](img/image-16.png)
 
 Repositorio Acceptance Tests (Gherkin):
 
- ![Alt text](image-17.png)
+ ![Alt text](img/image-17.png)
 
 Repositorio Project Report (Capstone):
 
- ![Alt text](image-18.png)
+ ![Alt text](img/image-18.png)
  
 
 
@@ -87,14 +87,14 @@ En repositorio Landing Page
 a. Nirvana García
 
 Creé las carpetas para cada versión de Landing Page (en cada rama correspondiente) y en cada carpeta, subí nuestra versión desarrollada. La rama master alberga la V1, la rama feature tiene la v1.1 (donde se implementa la funcionalidad de navbar y hover en imagenes) y 
-![Alt text](image-19.png)
-![Alt text](image-20.png)
+![Alt text](img/image-19.png)
+![Alt text](img/image-20.png)
   
 
 b. Michelle Moreno
 
 Subí la primera versión de landing page entregada en la TB1 del curso, posteriormente se resubió para colocarle la correcta nomenclatura de commits. El commit “clear” lo realicé para limpiar el repositorio y rehacerlo con la correcta nomenclatura de commits.
- ![Alt text](image-21.png)
+ ![Alt text](img/image-21.png)
 
 
 
@@ -105,25 +105,25 @@ En repositorio Frontend Web Application
 a. Nirvana García
 
 Agregué las versiones v1, v2 y v3 a nuestra rama master, agregué la v1.0, v3.0 y v4.0 en la rama develop, e implementé las 4 funcionalidades que agregamos entre versiones en la rama feature.
-![Alt text](image-22.png)
-![Alt text](image-23.png)
+![Alt text](img/image-22.png)
+![Alt text](img/image-23.png)
 
 
 b. Gabriel Bernal
 
 Arreglé un error de subida dentro de una de las versiones del FrontEnd de Akira, dentro de la rama master.
  
-![Alt text](image-24.png)
+![Alt text](img/image-24.png)
  
 c. Marcelo Scerpella
 
 Agregué la v1.1 y v2.0 del Frontend de Akira, dentro de la rama develop. Además, eliminé dos versiones que se subieron erróneamente al repositorio.
- ![Alt text](image-25.png)
+ ![Alt text](img/image-25.png)
 
 d. Michelle Moreno
 
 Realicé una limpieza de archivos erroneos en el repositorio y agregué la v4 del frontend, dentro de la rama Master.
- ![Alt text](image-26.png)
+ ![Alt text](img/image-26.png)
 
 
 
@@ -134,23 +134,23 @@ En Acceptance Test (Gherkin)
 a. Nirvana García
 
 Realicé el commit inicial del repositorio, el cual se general automáticamente.
- ![Alt text](image-27.png)
+ ![Alt text](img/image-27.png)
 
 c. Marcelo Scerpella
 
 Realicé una limpieza de archivos erróneos en el repositorio.
- ![Alt text](image-28.png)
+ ![Alt text](img/image-28.png)
 
 d. Michelle Moreno
 
 Agregué los archivos .feature de los US-01  al US-10, dentro de la rama master.
- ![Alt text](image-29.png)
+ ![Alt text](img/image-29.png)
  
 d. Luis Aquije
 
 Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
-![Alt text](image-30.png)
-![Alt text](image-31.png)
+![Alt text](img/image-30.png)
+![Alt text](img/image-31.png)
 
  
 En Project Report
@@ -158,28 +158,28 @@ En Project Report
 a. Nirvana García
 
 Agregué contenido del informe
- ![Alt text](image-32.png)
+ ![Alt text](img/image-32.png)
 
 b. Gabriel Bernal
 
 Agregué contenido del informe
-![Alt text](image-33.png)
+![Alt text](img/image-33.png)
  
 c. Marcelo Scerpella
 
 Agregué contenido del informe
- ![Alt text](image-34.png)
+ ![Alt text](img/image-34.png)
 
 d. Michelle Moreno
 
 Agregué contenido del informe
-![Alt text](image-35.png)
+![Alt text](img/image-35.png)
 
  
 d. Luis Aquije
 
 Agregué contenido del informe
- ![Alt text](image-36.png)
+ ![Alt text](img/image-36.png)
  
 
 
@@ -436,11 +436,11 @@ ___
 <br>
 
 ### 1.1.2. Perfiles de integrantes del equipo
-![Alt text](image-37.png)
-![Alt text](image-42.png)
-![Alt text](image-39.png)
-![Alt text](image-40.png)
-![Alt text](image-41.png)
+![Alt text](img/image-37.png)
+![Alt text](img/image-42.png)
+![Alt text](img/image-39.png)
+![Alt text](img/image-40.png)
+![Alt text](img/image-41.png)
 
 
 <br><br>
@@ -549,7 +549,7 @@ Sin embargo, la necesidad de acceso fácil y seguro a productos originales motiv
 
 Alrededor del mundo, la industria del anime ha experimentado un crecimiento significativo desde el inicio de la década pasada. Esto puede observarse en el volumen de ingresos procedentes de la comercialización del ánime fuera de japón, cuyo volumen neto también ha ido en aumento.
 
-![Alt text](image-43.png)
+![Alt text](img/image-43.png)
 [Anexo C]
 
 Según RPP, a pesar de la recesión económica experimentada durante la pandemia, el volumen de ventas de manga de la campaña navideña del 2021 se triplicó con respecto a las ventas registradas en el año anterior. Esto se debe a la aparición de una nueva empresa de Streaming multimedia llamada Crunchyroll, que se especializa en la difusión de la cultura audiovisual asiática. Otro factor clave que recalca el artículo para justificar el aumento del interés de los peruanos por la industria del entretenimiento del país del sol naciente es el aumento del catálogo de animación nipona en Netflix, debido a la decadencia de la industria del entretenimiento norteamericano.
@@ -562,7 +562,7 @@ Como explica Agusto Venegas en la entrevista que concedió a La Cámara, un fana
 
 El *K-Pop*, por su parte, también ha vivido un enorme apogeo en Latinoamérica, y especialmente en Perú. Según Google Trends, la cantidad de usuarios que buscaron BTS en Perú en Youtube, aumentó drásticamente entre 2008 y 2022. La popularidad de este grupo fué tán grande, que superó la cantidad de búsquedas de Ariana Grande, una cantante de pop.
 
-![Alt text](image-44.png)
+![Alt text](img/image-44.png)
 [Anexo C]
 
 
@@ -1107,7 +1107,7 @@ ___
 Video de las entrevistas: 
 https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
 
-![Alt text](image-45.png)
+![Alt text](img/image-45.png)
 
 
 
@@ -1117,7 +1117,7 @@ https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/st
 
 
 **Entrevista N°1 (Fanática del entretenimiento asiático)**
-![Alt text](image-46.png)
+![Alt text](img/image-46.png)
 
 Entrevistador: Marcelo Scerpella Zarkovic
 Entrevistada: Rizi
@@ -1129,7 +1129,7 @@ Rizi es una influencer y streamer relacionada con el mundo del ánime y la cultu
 
 **Entrevista N°2 (Fanática del entretenimiento asiático)**
 
-![Alt text](image-47.png)
+![Alt text](img/image-47.png)
 
 Entrevistadora: Nirvana García Vásquez
 
@@ -1143,7 +1143,7 @@ Gabriela es una gran fanática del mundo del pop coreano (K-Pop) desde hace unos
 
 **Entrevista N°3 (Vendedor de productos asiáticos)**
 
-![Alt text](image-48.png)
+![Alt text](img/image-48.png)
 
 Entrevistadora: Michelle Francesca Moreno Best
 
@@ -1157,7 +1157,7 @@ Giancarlos tiene 28 años y  es uno de los encargados de la tienda MasGamers Sto
 
 **Entrevista N°4 (Fanática del entretenimiento asiático)**
 
-![Alt text](image-49.png)
+![Alt text](img/image-49.png)
 
 Entrevistador: Gabriel Adrian Bernal Moreno
 
@@ -1171,7 +1171,7 @@ En esta ocasión, tuvimos el privilegio de entrevistar a María, una fanática s
 
 **Entrevista N°5 (Vendedor de productos asiáticos)**
 
-![Alt text](image-50.png)
+![Alt text](img/image-50.png)
 
 Entrevistadora: Nirvana Gabriela García Vásquez
 
@@ -1184,7 +1184,7 @@ Realizamos la entrevista a un vendedor especializado dentro del rubro de los man
 ---
 **Entrevista N°6 (Fanático del entretenimiento asiático)**
 
-![Alt text](image-51.png)
+![Alt text](img/image-51.png)
 
 Entrevistador: Luis Enrique Aquije Quiroga
 
@@ -1201,7 +1201,7 @@ El entrevistado fue Geremy Alexandro Esquivel Janampa, un entusiasta universitar
 ---
 **Entrevista N°7 (Fanático del entretenimiento asiático)**
 
-![Alt text](image-52.png)
+![Alt text](img/image-52.png)
 
 Entrevistador: Luis Enrique Aquije Quiroga
 
@@ -1242,41 +1242,41 @@ Mediante el recuadro anterior se puede destacar que todos los entrevistados son 
 Mediante un formulario a nuestros entrevistados, generamos los porcentajes de respuestas positivas o negativas de nuestro análisis.
 
 El consumo de contenido audiovisual de origen japonés (animes) es predominante entre los entrevistados, con un 80% mostrando interés en este tipo de entretenimiento. El 20% restante se centra exclusivamente en el consumo de contenido musical de origen coreano (Kpop).
-![Alt text](image-53.png)
+![Alt text](img/image-53.png)
 
 
 El 40% de nuestros entrevistados, consumen contenido de entretenimiento de índole musical de origen coreano (Kpop). El otro 60% consume solo anime.
-![Alt text](image-54.png)
+![Alt text](img/image-54.png)
 
 
 El 60% de nuestros entrevistados coleccionan artículos de bajo costo relacionados a su afición, como gorros, tazas, comida, entre otros. 
-![Alt text](image-55.png)
+![Alt text](img/image-55.png)
 
 
 El 60% de nuestros entrevistados coleccionan artículos de alto costo relacionados a su afición, como figuras coleccionables, casacas, polos, entre otros.
 
-![Alt text](image-56.png)
+![Alt text](img/image-56.png)
 
 
 Todos los entrevistados (100%) enfrentan dificultades para adquirir los artículos deseados debido a problemas relacionados con la disponibilidad nacional. Esto indica que existe una demanda insatisfecha en el mercado peruano en cuanto a productos de entretenimiento asiático.
-![Alt text](image-57.png)
+![Alt text](img/image-57.png)
 
 
 El 80% de los entrevistados no está familiarizado con opciones de proveedores de productos importados, lo que sugiere una falta de conocimiento sobre las alternativas disponibles para satisfacer su afición. Esto destaca la necesidad de mejorar la información y la accesibilidad a los proveedores de productos importados.
-![Alt text](image-58.png)
+![Alt text](img/image-58.png)
 
 Un 60% de los entrevistados estaría dispuesto a pagar una comisión adicional para obtener productos exclusivos importados del extranjero, lo que indica un alto grado de interés por obtener artículos únicos y difíciles de encontrar en el mercado nacional.
-![Alt text](image-59.png)
+![Alt text](img/image-59.png)
 
 La mayoría de los entrevistados (80%) asiste a ferias relacionadas con el medio de entretenimiento que consumen, lo que muestra un compromiso activo con la comunidad y la participación en eventos relevantes.
-![Alt text](image-60.png)
+![Alt text](img/image-60.png)
 
 
 Los entrevistados (100%) utilizan las redes sociales como su principal fuente de contenido relacionado con el entretenimiento asiático. Esto subraya la importancia de las redes sociales como plataforma de difusión y promoción para los vendedores de productos de anime y Kpop.
-![Alt text](image-61.png)
+![Alt text](img/image-61.png)
 
 La mayoría de los entrevistados (80%) gastan más de 100 soles al mes en productos relacionados con el medio de entretenimiento asiático, lo que indica una inversión significativa en su afición.
-![Alt text](image-62.png)
+![Alt text](img/image-62.png)
 
 
 
@@ -1304,48 +1304,48 @@ Mediante el cuadro anterior se puede destacar que la mayoría de los entrevistad
 Mediante un formulario a nuestros entrevistados, generamos los porcentajes de respuestas positivas o negativas de nuestro análisis.
 
 El 66.7% de nuestros entrevistados, presentan distribuidores asiáticos, el otro 33.3% presenta distribuidores españoles.
- ![Alt text](image-72.png)
+ ![Alt text](img/image-72.png)
 
 
  
 El 100% de nuestros entrevistados cuenta con canales de comunicación como redes sociales (Instagram, Titkok y Facebook siendo los principales), lo que sugiere que las plataformas digitales son una forma efectiva de interactuar y comunicarse con ellos.
- ![Alt text](image-71.png)
+ ![Alt text](img/image-71.png)
 
 
 Todos los entrevistados (100%) muestran un alto nivel de satisfacción y disfrute al trabajar en la industria del anime y el Kpop, lo que indica un fuerte aprecio por estos medios de entretenimiento.
-![Alt text](image-70.png)
+![Alt text](img/image-70.png)
  
 
  
 El 66.7% de nuestros entrevistados presenta problemas al importar productos del extranjero (Asia). El otro 33.3% no presenta estos problemas debido a que importa sus productos desde España (Europa).
-![Alt text](image-69.png)
+![Alt text](img/image-69.png)
  
 
 El 66.7% de nuestros entrevistados colaboran con influencers para promocionar sus tiendas, lo que indica una estrategia efectiva de marketing para llegar a su público objetivo. El otro 33.3% no ocupan este tipo de promoción.
-![Alt text](image-68.png)
+![Alt text](img/image-68.png)
  
 
  
 El 66.7% de nuestros entrevistados brindan reemplazos o reembolsos de productos en caso de errores de fabricación, lo que demuestra un compromiso con la satisfacción del cliente y la calidad de los productos. El otro 33.3% no realiza ningún tipo de reembolso.
-![Alt text](image-67.png)
+![Alt text](img/image-67.png)
  
 
 
 El 66.7% de nuestros entrevistados participan en eventos y ferias. El otro 33.3% no ha participado aún en eventos o ferias, pero mencionaron que participarán en los últimos meses del año 2023. Esto indica un interés activo en involucrarse en la comunidad y en eventos relacionados.
- ![Alt text](image-66.png)
+ ![Alt text](img/image-66.png)
 
  
 El 100% de nuestros entrevistados realizan descuentos de productos o promociones en fechas importantes, como el día del niño, halloween, navidad, entre otros.
-![Alt text](image-65.png)
+![Alt text](img/image-65.png)
  
 
 
 Todos los entrevistados (100%) sienten limitaciones al querer adquirir productos, lo que indica que existen obstáculos y desafíos en importar la mercancía que venden para satisfacer las necesidades y peticiones que exigen sus clientes.
-![Alt text](image-64.png)
+![Alt text](img/image-64.png)
 
   
 El 100% de nuestros entrevistados tienen conocimientos en los productos que ofrecen,  lo que sugiere que están informados y conscientes de las últimas tendencias y novedades en el mundo del anime y el Kpop.
-![Alt text](image-63.png)
+![Alt text](img/image-63.png)
 
 
 
@@ -1376,12 +1376,12 @@ A partir de los datos obtenidos en estas entrevistas, hemos creado un User Perso
 
 
 **User Persona: Jóvenes fanáticos del entretenimiento asiático**
-![Alt text](image-73.png)
+![Alt text](img/image-73.png)
 ---
 
 **User Persona: “Vendedores de productos asiáticos”**
 
-![Alt text](image-74.png)
+![Alt text](img/image-74.png)
 
 ### 2.2.3. User Task Matrix.
 
@@ -1488,7 +1488,7 @@ Esta matriz de tareas refleja las actividades que Alejandro Cruz Rodríquez, el 
 
  ### **2.3.3. User Jouney Mapping**
 
-![Alt text](image-75.png)
+![Alt text](img/image-75.png)
 [Anexo E] 
 
 ---
@@ -1497,13 +1497,13 @@ Esta matriz de tareas refleja las actividades que Alejandro Cruz Rodríquez, el 
 
 **Segmento objetivo “Jóvenes fanáticos del entretenimiento asiático”**
 
-![Alt text](image-76.png)
+![Alt text](img/image-76.png)
 
  ---
 
 **Segmento Objetivo: “ Vendedores de productos asiático”**
 
-![Alt text](image-77.png)
+![Alt text](img/image-77.png)
 
 ### 2.3.4. As-is Scenario Mapping
 
@@ -2040,7 +2040,7 @@ ___
 
 Link del miro: https://miro.com/app/board/uXjVMpj6i0M=/
 
-![Alt text](image-78.png)
+![Alt text](img/image-78.png)
 
 <br><br>
 ___
@@ -2051,18 +2051,18 @@ ___
 Product Backlog en Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2678604 
 
 Visualizamos la creación de nuestros 7 Epics y 33 User Stories.
-![Alt text](image-79.png)
+![Alt text](img/image-79.png)
 
 
 Con el transcurso del desarollo de los sprints, se fueron iniciando todos los user stories
-![Alt text](image-80.png)
+![Alt text](img/image-80.png)
 
 
 Para finalmente culminar con la implementación de todo nuestro Product Backlog (sprint 1 y 2).
-![Alt text](image-81.png)
+![Alt text](img/image-81.png)
 
 Vemos un total de 71 Story Points y un velocity aproximado de 10 pts (Lambders tiene la capacidad de desarrollar 10 story points por sprint).
-![Alt text](image-82.png)
+![Alt text](img/image-82.png)
 
 
 Se muestra la tabla generada de Product Backlog:
@@ -2125,9 +2125,9 @@ ___
 
 **Logotipos**
 
-![Alt text](image-83.png)
-![Alt text](image-84.png)
-![Alt text](image-85.png)
+![Alt text](img/image-83.png)
+![Alt text](img/image-84.png)
+![Alt text](img/image-85.png)
 
 <br><br>
 
@@ -2141,7 +2141,7 @@ Esta fuente es moderna, legible y versátil. La elegimos ya que su estilo limpio
 <br><br>
 
 **Paleta de colores**
-![Alt text](image-86.png)
+![Alt text](img/image-86.png)
 
 **Significado de Paleta de color:**
 
@@ -2157,14 +2157,14 @@ ___
 
 **Tamaño de pantalla Web: tamaño**
 
-![Alt text](image-87.png)
+![Alt text](img/image-87.png)
 Referencia de tamaño: 1440 x 1024
 
 <br>
 
 **Paleta de colores**
 
-![Alt text](image-88.png)
+![Alt text](img/image-88.png)
 
 <br><br>
 
@@ -2186,12 +2186,12 @@ Referencia de tamaño: 1440 x 1024
 
 **Input Text:**
 
-![Alt text](image-90.png)
-![Alt text](image-91.png)
+![Alt text](img/image-90.png)
+![Alt text](img/image-91.png)
 
-![Alt text](image-92.png)
+![Alt text](img/image-92.png)
 
-![Alt text](image-93.png)
+![Alt text](img/image-93.png)
 
 
 
@@ -2203,10 +2203,10 @@ Referencia de tamaño: 1440 x 1024
 
 **Despliegues:**
 
-![Alt text](image-94.png)
-![Alt text](image-95.png)
-![Alt text](image-96.png)
-![Alt text](image-97.png)
+![Alt text](img/image-94.png)
+![Alt text](img/image-95.png)
+![Alt text](img/image-96.png)
+![Alt text](img/image-97.png)
 
 
 
@@ -2217,13 +2217,13 @@ Referencia de tamaño: 1440 x 1024
 <br><br>
 
 **Botones:**
-![Alt text](image-101.png)
+![Alt text](img/image-101.png)
 
 
 <br><br>
 
 **Extras:**
-![Alt text](image-102.png)
+![Alt text](img/image-102.png)
 
 
 <br><br>
@@ -2240,7 +2240,7 @@ https://miro.com/app/board/uXjVPTYasuY=/#tpicker-content
 
 Como equipo hemos decidido utilizar una estructura jerárquica (visual hierarchy) tanto para la app como para la página web con el objetivo de lograr una experiencia de usuario satisfactoria. La estructura será para ambos segmentos objetivos:
 
-![Alt text](image-103.png)
+![Alt text](img/image-103.png)
 <br><br>
 ___
 <br>
@@ -2248,11 +2248,11 @@ ___
 ## 4.2.2. Labeling Systems
 
 Nuestro sistema de etiquetado dentro del navbar consta de dos apartados, primero explicaremos la parte visual que el usuario puede ver directamente cuando entra a la página web. Está compuesta por un hamburger icon que desplegará el segundo apartado del sistema de etiquetado, una etiqueta de “Contáctanos” para que el usuario pueda acceder a nuestro número, correo y redes sociales, el carrito de compras del usuario y el botón de perfil de usuario. Además, en ciertas pestañas, se visualiza el input “Buscar”, para que el usuario pueda buscar un producto dentro de toda la plataforma Akira.
-![Alt text](image-104.png)
+![Alt text](img/image-104.png)
 <br>
 
 El segundo apartado se muestra cuando el usuario le da click al hamburger icon del navbar, el cual contiene las etiquetas K-Pop, Anime, Lectura, New Ingresos, Lo más Top, Preguntas Frecuentes y Contáctanos.
-![Alt text](image-105.png)
+![Alt text](img/image-105.png)
 
 <br><br>
 ___
@@ -2270,7 +2270,7 @@ Meta Description Tag
 
 - "Explora Akira, donde encontrarás una amplia selección de productos de entretenimiento asiático, desde kpop hasta anime y mangas. Encuentra tus artistas favoritos, los últimos lanzamientos y coleccionables exclusivos. ¡Explora el mundo del entretenimiento asiático con Akira, la tienda de Lambders.".
 
-![Alt text](image-106.png)
+![Alt text](img/image-106.png)
 
 Figura: Ejemplo de aplicación de los SEO Tags
 
@@ -2292,8 +2292,8 @@ ___
 
 El sistema de búsqueda se basa en un input de Buscar, donde el usuario podrá ingresar el nombre de algún producto que esté buscando o el nombre de algun anime, grupo de k-pop o relacionado, para luego proceder a darle la tecla enter o presionar la lupa en la zona derecha del input para proceder con la búsqueda. Asimismo, al realizar la búsqueda, se maneja un sistema de filtros de búsqueda, donde el usuario podrá seleccionar el tipo de producto que está buscando, o el artista de su interés. Este filtro se modificará dependiendo a qué rubro de Akira le pertenece la búsqueda del usuario (Anime, K-Pop o Lectura).
 
-![Alt text](image-107.png)
-![Alt text](image-108.png)
+![Alt text](img/image-107.png)
+![Alt text](img/image-108.png)
 
 <br><br>
 ___
@@ -3676,13 +3676,13 @@ Link de Figma
 
 https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 
 
-![Alt text](image-109.png)
+![Alt text](img/image-109.png)
 
 En el siguiente video, mostramos la visualización de nuestro prototipado Web, ejecutado en Figma. Apreciamos todas las funcionalidades de Akira.
 
 [upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EaAWfXkVraVKiB1JAaHffIwBFcuzi5YuXJJ6ZIPOnwvdpw?e=hzgQwh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![Alt text](image-110.png)
+![Alt text](img/image-110.png)
 
 
 En el siguiente video, mostramos una visualización de nuestro prototipado móvil, realizado en Figma. Apreciamos todas las funcionalidades de Akira.
@@ -3691,7 +3691,7 @@ URL video de prototipado Mobile Version:
 
 [upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EX7ihQI8gWhNtMnqskgYwbEB54X0uZlhPbw5uPp9_UyUow?e=W9H2wu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![Alt text](image-111.png)
+![Alt text](img/image-111.png)
 
 
 <br><br>
@@ -3871,7 +3871,7 @@ Otra gran ventaja de Notion es su capacidad de integración con otras herramient
 URL: https://www.notion.so/
 
 
-![Alt text](image-112.png)
+![Alt text](img/image-112.png)
 
 
 ●	Pivotal Tracker: Es una herramienta de gestión de proyectos ágiles que ha ganado popularidad entre los equipos de desarrollo de software. Diseñado específicamente para implementar la metodología de desarrollo ágil, Pivotal Tracker ayuda a los equipos a planificar, rastrear y entregar proyectos de manera eficiente.
@@ -4062,7 +4062,7 @@ https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications
 <br><br>
 
 **Implementación del Gitflow**
-![Alt text](image-113.png)
+![Alt text](img/image-113.png)
 https://miro.com/app/board/uXjVP9nKvvY=/?share_link_id=718024690492 
 
 Git Flow es un modelo de flujo de trabajo para el control de versiones con el sistema de control de versiones Git. Para este proyecto, nuestra estructura de ramas está compuesta por tres branches: Master, Develop y Feature, que explicaremos a detalle a continuación.
@@ -4085,37 +4085,37 @@ La implementación de Git Flow en el proyecto nos proporcionará un flujo de tra
 
 
 Se crearon tres repositorios, Landing Page, Web Services y Frontend Web Applications
-![Alt text](image-123.png)
+![Alt text](img/image-123.png)
  
 Visualizamos la creación de las tres ramas por cada repositorio (master, develop y feature)
-![Alt text](image-121.png)
-![Alt text](image-122.png)
-![Alt text](image-120.png)
+![Alt text](img/image-121.png)
+![Alt text](img/image-122.png)
+![Alt text](img/image-120.png)
    
  
 Ahora, procedemos a mostrar el control de versiones por cada rama y por cada repositorio, iniciando con el Lading Page Repository
 En la rama master, observamos una versión estable y desplegada.
-![Alt text](image-119.png)
+![Alt text](img/image-119.png)
  
 En la rama develop, mostramos dos versiones que fueron subidas y probadas, en donde la v1.0 contiene toda la estructura del Landing Page (navbar no funcional, los productos, secciones, aliados y footer), y la v1.1 contiene el la agregación de funcionalidad en el navbar (hamburger icon) y del hover de los productos, que muestra detalles de estos.
-![Alt text](image-118.png)
+![Alt text](img/image-118.png)
  
 
 En la rama feature, se subió la v1.1, ya que aquí se presentó la agregación de una funcionalidad, la funcionalidad del navbar (hamburger icon) y la funcionalidad del hover en las imágenes de lo productos de Akira.
-![Alt text](image-117.png) 
+![Alt text](img/image-117.png) 
  
 Continuamos mostrando el uso de Git Flow en Frontend Web Applications Repository:
 En la rama master, se visualizan las 4 versiones estables de Akira en cuanto a FrontEnd. La v1 se desarrolló la estructura básica del proyecto, la cual cuenta con un navbar, la ubicación responsive de los productos mostrados en home y el Login/Signup de usuarios. La v2 implementa la sección de búsqueda de productos. En la v3 se implementa la sección del carrito, órdenes y productos. En la v4, se implementan los estilos (css), el perfil de usuario, mejoras del navbar y despliegue de categorías (Hamburger icon en navbar).
-![Alt text](image-116.png)
+![Alt text](img/image-116.png)
  
 En cuanto a la rama develop, esta cuenta con 5 versiones, y cabe mencionar que la v1.0 contaba con fallas en el registro y login de usuario, fallas que se levantaron para la v1.1 (esta versión es la considerada v1 en la rama master). El resto de versiones ya fue explicado anteriormente.
- ![Alt text](image-115.png)
+ ![Alt text](img/image-115.png)
 
  
 En la rama feature, se especifican las características y funcionalidades agregadas, mostrando que en la v1.1 se implementa la sección de Login/SignUp, el buscador y el carrito. En la v2.0 se corrige la funcionalidad de Login/SignUp. En la versión 3.0 se implementa la sección de órdenes y productos. Y en la v4.0 se implementa la sección de user profile y categorías.
  
 
-![Alt text](image-114.png)
+![Alt text](img/image-114.png)
  
 
 
@@ -4412,9 +4412,9 @@ ___
 ## 5.2.1.2. Sprint Backlog 1
 
 Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
-![Alt text](image-124.png)
-![Alt text](image-125.png)
-![Alt text](image-126.png)
+![Alt text](img/image-124.png)
+![Alt text](img/image-125.png)
+![Alt text](img/image-126.png)
 
 
 
@@ -4427,8 +4427,8 @@ ___
 
 **Repositorio Landing Page:**
 
-![Alt text](image-127.png)
-![Alt text](image-128.png)
+![Alt text](img/image-127.png)
+![Alt text](img/image-128.png)
 
 
 
@@ -4436,14 +4436,14 @@ ___
 
 **Repositorio Acceptance Test (Gherkin):**
 
-![Alt text](image-129.png)
-![Alt text](image-130.png)
-![Alt text](image-131.png)
+![Alt text](img/image-129.png)
+![Alt text](img/image-130.png)
+![Alt text](img/image-131.png)
 
 <BR><BR>
 
 **Repositorio Project Statement:**
-![Alt text](image-132.png)
+![Alt text](img/image-132.png)
 
 
 
@@ -4457,7 +4457,7 @@ En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el 
 
 URL video evidencia implementación del sprint: 
 https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1
-![Alt text](image-133.png)
+![Alt text](img/image-133.png)
 
 
 
@@ -4469,49 +4469,49 @@ https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/st
 US-01 Accesibilidad de la página: Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
-![Alt text](image-145.png)
+![Alt text](img/image-145.png)
 
  
 
 US-02 Accesibilidad de la página: Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
-![Alt text](image-146.png)
-![Alt text](image-147.png)
+![Alt text](img/image-146.png)
+![Alt text](img/image-147.png)
 
   
 
 US-03 Accesibilidad de la página: Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
-![Alt text](image-148.png)
-![Alt text](image-149.png)
-![Alt text](image-150.png)
+![Alt text](img/image-148.png)
+![Alt text](img/image-149.png)
+![Alt text](img/image-150.png)
 
 
 US-04 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
-![Alt text](image-151.png)
+![Alt text](img/image-151.png)
 
 
 US-05 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
- ![Alt text](image-137.png)
+ ![Alt text](img/image-137.png)
 
 US-06 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
-![Alt text](image-136.png)
+![Alt text](img/image-136.png)
  
 
 US-07 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
-![Alt text](image-135.png)
+![Alt text](img/image-135.png)
  
 **US-08 Accesibilidad de la página:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
-![Alt text](image-134.png)
+![Alt text](img/image-134.png)
  
 
 
@@ -4534,49 +4534,49 @@ Desarrollar la función de búsqueda y compra de productos en la página para se
 US-01 Accesibilidad de la página: Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
-![Alt text](image-145.png)
+![Alt text](img/image-145.png)
 
  
 
 US-02 Accesibilidad de la página: Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
-![Alt text](image-146.png)
-![Alt text](image-147.png)
+![Alt text](img/image-146.png)
+![Alt text](img/image-147.png)
 
   
 
 US-03 Accesibilidad de la página: Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
-![Alt text](image-148.png)
-![Alt text](image-149.png)
-![Alt text](image-150.png)
+![Alt text](img/image-148.png)
+![Alt text](img/image-149.png)
+![Alt text](img/image-150.png)
 
 
 US-04 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
-![Alt text](image-151.png)
+![Alt text](img/image-151.png)
 
 
 US-05 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
- ![Alt text](image-137.png)
+ ![Alt text](img/image-137.png)
 
 US-06 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
-![Alt text](image-136.png)
+![Alt text](img/image-136.png)
  
 
 US-07 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
-![Alt text](image-135.png)
+![Alt text](img/image-135.png)
  
 **US-08 Accesibilidad de la página:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
-![Alt text](image-134.png)
+![Alt text](img/image-134.png)
  
 
 
@@ -4590,13 +4590,13 @@ ___
 En repositorio Landing Page
 a. Nirvana García
 Creé las carpetas para cada versión de Landing Page (en cada rama correspondiente) y en cada carpeta, subí nuestra versión desarrollada. La rama master alberga la V1, la rama feature tiene la v1.1 (donde se implementa la funcionalidad de navbar y hover en imagenes) 
-![Alt text](image-166.png)
-![Alt text](image-165.png)
+![Alt text](img/image-166.png)
+![Alt text](img/image-165.png)
   
 
 b. Michelle Moreno
 Subí la primera versión de landing page entregada en la TB1 del curso, posteriormente se resubió para colocarle la correcta nomenclatura de commits. El commit “clear” lo realicé para limpiar el repositorio y rehacerlo con la correcta nomenclatura de commits.
- ![Alt text](image-164.png)
+ ![Alt text](img/image-164.png)
 
 
 
@@ -4605,22 +4605,22 @@ Subí la primera versión de landing page entregada en la TB1 del curso, posteri
 En Acceptance Test (Gherkin) 
 a. Nirvana García
 Realicé el commit inicial del repositorio, el cual se general automáticamente.
-![Alt text](image-163.png)
+![Alt text](img/image-163.png)
  
 
 c. Marcelo Scerpella
 Realicé una limpieza de archivos erróneos en el repositorio.
- ![Alt text](image-162.png)
+ ![Alt text](img/image-162.png)
 
 d. Michelle Moreno
 Agregué los archivos .feature de los US-01  al US-10, dentro de la rama master.
-![Alt text](image-161.png)
+![Alt text](img/image-161.png)
  
  
 d. Luis Aquije
 Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
-![Alt text](image-159.png)
-![Alt text](image-160.png)
+![Alt text](img/image-159.png)
+![Alt text](img/image-160.png)
 
   
 
@@ -4628,25 +4628,25 @@ Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
 En Project Report
 a. Nirvana García
 Agregué contenido del informe
-![Alt text](image-157.png)
+![Alt text](img/image-157.png)
  
 
 b. Gabriel Bernal
 Agregué contenido del informe
-![Alt text](image-158.png)
+![Alt text](img/image-158.png)
  
 c. Marcelo Scerpella
 Agregué contenido del informe
-![Alt text](image-154.png)
+![Alt text](img/image-154.png)
  
 
 d. Michelle Moreno
 Agregué contenido del informe
-![Alt text](image-153.png)
+![Alt text](img/image-153.png)
  
 d. Luis Aquije
 Agregué contenido del informe
-![Alt text](image-152.png)
+![Alt text](img/image-152.png)
 
 
 
@@ -4657,11 +4657,11 @@ ___
 # 5.2.2 Sprint 2
 
 ## 5.2.2.1. Sprint Planning 2
-![Alt text](image-167.png)
-![Alt text](image-168.png)
-![Alt text](image-169.png)
-![Alt text](image-170.png)
-![Alt text](image-171.png)
+![Alt text](img/image-167.png)
+![Alt text](img/image-168.png)
+![Alt text](img/image-169.png)
+![Alt text](img/image-170.png)
+![Alt text](img/image-171.png)
 
 
 <br><br>
@@ -4671,12 +4671,12 @@ ___
 ## 5.2.2.2. Sprint Backlog 2
 
 Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
-![Alt text](image-172.png)
-![Alt text](image-173.png)
-![Alt text](image-174.png)
-![Alt text](image-175.png)
-![Alt text](image-176.png)
-![Alt text](image-177.png)
+![Alt text](img/image-172.png)
+![Alt text](img/image-173.png)
+![Alt text](img/image-174.png)
+![Alt text](img/image-175.png)
+![Alt text](img/image-176.png)
+![Alt text](img/image-177.png)
 
 
 
@@ -4688,11 +4688,11 @@ ___
 ## 5.2.2.3. Development Evidence for Sprint Review
 
 Repositorio Frontend Web Application:
-![Alt text](image-178.png)
-![Alt text](image-179.png)
+![Alt text](img/image-178.png)
+![Alt text](img/image-179.png)
 
 Repositorio Project Statement:
-![Alt text](image-180.png)
+![Alt text](img/image-180.png)
 
 
 
@@ -4708,7 +4708,7 @@ En este Sprint (Sprint 2), se logró desarrollar el frontend web application del
 
 URL video evidencia implementación del sprint: 
 https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
-![Alt text](image-181.png)
+![Alt text](img/image-181.png)
 
 
 
@@ -4716,44 +4716,44 @@ Evidencia de implementación por cada US#
 
 US-10 Integración de sistema de registro/inicio de sesión
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
- ![Alt text](image-182.png)
- ![Alt text](image-183.png)
- ![Alt text](image-184.png)
- ![Alt text](image-185.png)
- ![Alt text](image-186.png)
- ![Alt text](image-187.png)
- ![Alt text](image-188.png)
+ ![Alt text](img/image-182.png)
+ ![Alt text](img/image-183.png)
+ ![Alt text](img/image-184.png)
+ ![Alt text](img/image-185.png)
+ ![Alt text](img/image-186.png)
+ ![Alt text](img/image-187.png)
+ ![Alt text](img/image-188.png)
 
  
 US-11 Integración de sistema de registro/inicio de sesión
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
- ![Alt text](image-189.png)
-![Alt text](image-190.png)
+ ![Alt text](img/image-189.png)
+![Alt text](img/image-190.png)
  
 
  
 US-12 Implementación de perfil de usuario
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
-![Alt text](image-191.png)
+![Alt text](img/image-191.png)
 
  
 
 
 US-13 Implementación de perfil de usuario
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
- ![Alt text](image-192.png)
+ ![Alt text](img/image-192.png)
 
  
 US-14 Implementación de perfil de usuario
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
- ![Alt text](image-193.png) 
- ![Alt text](image-194.png)
+ ![Alt text](img/image-193.png) 
+ ![Alt text](img/image-194.png)
 
 
  
 US-15 Implementación de perfil de usuario
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
-![Alt text](image-195.png)
+![Alt text](img/image-195.png)
  
 
 
@@ -4772,7 +4772,7 @@ Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de A
  
 US-19 Búsqueda de productos y filtrado
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
-![Alt text](image-196.png)
+![Alt text](img/image-196.png)
  
 
 
@@ -4782,8 +4782,8 @@ Como usuario, quiero poder filtrar los productos existentes de acuerdo a categor
 
 US-21 Categorización de productos
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
-![Alt text](image-197.png)
-![Alt text](image-198.png)
+![Alt text](img/image-197.png)
+![Alt text](img/image-198.png)
  
 
 
@@ -4791,8 +4791,8 @@ Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real
 
 US-22 Categorización de productos
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
-![Alt text](image-199.png)
-![Alt text](image-200.png)
+![Alt text](img/image-199.png)
+![Alt text](img/image-200.png)
  
 
  
@@ -4837,7 +4837,7 @@ Como usuario, quiero tener la opción de comunicarme con el servicio de atenció
 
 US-33 Contacto con Akira
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
-![Alt text](image-201.png)
+![Alt text](img/image-201.png)
  
 
 
@@ -4849,44 +4849,44 @@ En este Sprint (Sprint 2), se logró desarrollar el frontend web application del
 
 US-10 Integración de sistema de registro/inicio de sesión
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
- ![Alt text](image-182.png)
- ![Alt text](image-183.png)
- ![Alt text](image-184.png)
- ![Alt text](image-185.png)
- ![Alt text](image-186.png)
- ![Alt text](image-187.png)
- ![Alt text](image-188.png)
+ ![Alt text](img/image-182.png)
+ ![Alt text](img/image-183.png)
+ ![Alt text](img/image-184.png)
+ ![Alt text](img/image-185.png)
+ ![Alt text](img/image-186.png)
+ ![Alt text](img/image-187.png)
+ ![Alt text](img/image-188.png)
 
  
 US-11 Integración de sistema de registro/inicio de sesión
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
- ![Alt text](image-189.png)
-![Alt text](image-190.png)
+ ![Alt text](img/image-189.png)
+![Alt text](img/image-190.png)
  
 
  
 US-12 Implementación de perfil de usuario
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
-![Alt text](image-191.png)
+![Alt text](img/image-191.png)
 
  
 
 
 US-13 Implementación de perfil de usuario
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
- ![Alt text](image-192.png)
+ ![Alt text](img/image-192.png)
 
  
 US-14 Implementación de perfil de usuario
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
- ![Alt text](image-193.png) 
- ![Alt text](image-194.png)
+ ![Alt text](img/image-193.png) 
+ ![Alt text](img/image-194.png)
 
 
  
 US-15 Implementación de perfil de usuario
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
-![Alt text](image-195.png)
+![Alt text](img/image-195.png)
  
 
 
@@ -4905,7 +4905,7 @@ Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de A
  
 US-19 Búsqueda de productos y filtrado
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
-![Alt text](image-196.png)
+![Alt text](img/image-196.png)
  
 
 
@@ -4915,8 +4915,8 @@ Como usuario, quiero poder filtrar los productos existentes de acuerdo a categor
 
 US-21 Categorización de productos
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
-![Alt text](image-197.png)
-![Alt text](image-198.png)
+![Alt text](img/image-197.png)
+![Alt text](img/image-198.png)
  
 
 
@@ -4924,8 +4924,8 @@ Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real
 
 US-22 Categorización de productos
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
-![Alt text](image-199.png)
-![Alt text](image-200.png)
+![Alt text](img/image-199.png)
+![Alt text](img/image-200.png)
  
 
  
@@ -4970,7 +4970,7 @@ Como usuario, quiero tener la opción de comunicarme con el servicio de atenció
 
 US-33 Contacto con Akira
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
-![Alt text](image-201.png)
+![Alt text](img/image-201.png)
  
 
 
@@ -4981,47 +4981,47 @@ En FrontEnd Web Application
 
 a. Nirvana García
 Agregué las v1, v2 y v3 del frontend dentro de la rama master. Agregué la v1.0, v3.0 y v4.0 en la rama develop. Finalmente, agregué las nuevas secciones (4 en total) en la rama feature.
-![Alt text](image-202.png)
-![Alt text](image-203.png)
-![Alt text](image-204.png)   
+![Alt text](img/image-202.png)
+![Alt text](img/image-203.png)
+![Alt text](img/image-204.png)   
  
 
 b. Gabriel Bernal
 Realicé un arreglo de cambio de interfaces en nuestra rama master.
-![Alt text](image-205.png)
+![Alt text](img/image-205.png)
  
 
  
 c. Marcelo Scerpella
 Agregué la v2.0 y v1.1 de la rama develop, además de eliminar versiones erróneamente subidas en esta rama.
-![Alt text](image-206.png) 
+![Alt text](img/image-206.png) 
 
 d. Michelle Moreno
 Agregué la v4 del frontend en la rama master y limpié archivos.
-![Alt text](image-207.png)
+![Alt text](img/image-207.png)
   
 En Project Report
 a. Nirvana García
 Agregué contenido del informe
-![Alt text](image-208.png)
+![Alt text](img/image-208.png)
  
 
 b. Gabriel Bernal
 Agregué contenido del informe
-![Alt text](image-209.png)
+![Alt text](img/image-209.png)
  
 c. Marcelo Scerpella
 Agregué contenido del informe
-![Alt text](image-210.png)
+![Alt text](img/image-210.png)
  
 
 d. Michelle Moreno
 Agregué contenido del informe
-![Alt text](image-211.png)
+![Alt text](img/image-211.png)
  
 d. Luis Aquije
 Agregué contenido del informe
- ![Alt text](image-212.png)
+ ![Alt text](img/image-212.png)
  
 
 
@@ -5158,3 +5158,30 @@ ___
 | Exposición                                 | Video Exposición TB1                                    | upc-pre-202302-si729-ws52-lambders-expo-tb1.mp4       |
 
 
+**Anexo B: URL´s dentro del Trabajo**
+
+
+| Sección     | Descripción del URL                 | URL del video en Steam                                               |
+|-------------|-------------------------------------|----------------------------------------------------------------------|
+| Despliegue  | Landing Page desplegada             | [https://si729-grupo2-ws52-open-source.github.io/Landing-Page/](https://si729-grupo2-ws52-open-source.github.io/Landing-Page/)       |
+| Despliegue  | Frontend Web app desplegado         | [https://gabbrm.github.io/pruebaAngular/](https://gabbrm.github.io/pruebaAngular/)   |
+| Prototipado | Figma Akira                         | [https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design](https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design) |
+| Github      | Organización Grupo 2 en Github      | [https://github.com/orgs/SI729-Grupo2-WS52-Open-Source/repositories](https://github.com/orgs/SI729-Grupo2-WS52-Open-Source/repositories)   |
+
+
+**Anexo C: Gráfica How Much**
+
+Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria japonesa de animación procedentes de las emisiones de televisión entre 2002 y 2020”. Statista, 2022. (https://es.statista.com/estadisticas/592763/ingresos-de-las-series-televisivas-de-anime-japones/#:~:text=Esta%20estad%C3%ADstica%20refleja%20la%20evoluci%C3%B3n,millones%20de%20yenes%20en%202020.)
+![Alt text](img/image-213.png)
+
+
+**Anexo D: Gráfica How Much**
+Comparación entre BTS y Ariana Grande a través de Google Trends
+![Alt text](img/img/image-214.png)
+
+
+**Anexo E: User Journey Mapping**
+
+Url para mejor visualización: 
+https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view
+![Alt text](img/image-215.png)
