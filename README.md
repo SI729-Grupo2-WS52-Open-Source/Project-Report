@@ -4154,6 +4154,8 @@ ___
 
 ## 5.2.2.3. Development Evidence for Sprint Review
 
+Mostramos los commits realizados para generar el producto de este Sprint 2 (Frontend Web Application).
+
 Repositorio Frontend Web Application:
 ![Alt text](img/image-178.png)
 ![Alt text](img/image-179.png)
@@ -4173,273 +4175,337 @@ ___
 
 En este Sprint (Sprint 2), se logró desarrollar el frontend web application del e-commerce Akira, el cual cuenta con el propósito de ser un producto intuitivo, agradable y que satisfaga la demanda actual de consumidores de productos del entretenimiento asiático.
 
-URL video evidencia implementación del sprint: 
-https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
+URL video evidencia implementación del sprint: [Video Sprint 2](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)
+
 ![Alt text](img/image-181.png)
 
 
 
-Evidencia de implementación por cada US#
 
-US-10 Integración de sistema de registro/inicio de sesión
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+**Evidencia de implementación por cada US#**
+
+**US-10 Integración de sistema de registro/inicio de sesión**
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
- ![Alt text](img/image-182.png)
- ![Alt text](img/image-183.png)
- ![Alt text](img/image-184.png)
- ![Alt text](img/image-185.png)
- ![Alt text](img/image-186.png)
- ![Alt text](img/image-187.png)
- ![Alt text](img/image-188.png)
+![Alt text](img/image-224.png)
 
- 
-US-11 Integración de sistema de registro/inicio de sesión
+  <br><br>
+**US-11 Integración de sistema de registro/inicio de sesión**
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
- ![Alt text](img/image-189.png)
-![Alt text](img/image-190.png)
- 
+![Alt text](img/image-225.png)
 
- 
-US-12 Implementación de perfil de usuario
+  <br><br>
+**US-12 Implementación de perfil de usuario**
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
-![Alt text](img/image-191.png)
+![Alt text](img/image-226.png)
 
- 
+ <br><br>
 
 
-US-13 Implementación de perfil de usuario
+**US-13 Implementación de perfil de usuario**
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
- ![Alt text](img/image-192.png)
-
+![Alt text](img/image-227.png)
+ <br><br>
  
-US-14 Implementación de perfil de usuario
+**US-14 Implementación de perfil de usuario**
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
- ![Alt text](img/image-193.png) 
- ![Alt text](img/image-194.png)
+![Alt text](img/image-228.png)
 
-
+ <br><br>
  
-US-15 Implementación de perfil de usuario
+**US-15 Implementación de perfil de usuario**
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
-![Alt text](img/image-195.png)
+![Alt text](img/image-229.png)
  
+ <br><br>
 
-
-US-16 Implementación de perfil de usuario
+**US-16 Implementación de perfil de usuario**
 Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
+![Alt text](img/image-230.png)
 
+ <br><br>
 
-US-17 Implementación de perfil de usuario
+**US-17 Implementación de perfil de usuario**
 Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
+![Alt text](img/image-231.png)
 
+ <br><br>
 
-US-18 Implementación de perfil de usuario
+**US-18 Implementación de perfil de usuario**
 Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
+![Alt text](img/image-232.png)
 
 
+ <br><br>
  
-US-19 Búsqueda de productos y filtrado
+**US-19 Búsqueda de productos y filtrado**
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
-![Alt text](img/image-196.png)
+![Alt text](img/image-233.png)
  
+ <br><br>
 
-
-US-20 Búsqueda de productos y filtrado
+**US-20 Búsqueda de productos y filtrado**
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
+![Alt text](img/image-234.jpeg)
 
 
-US-21 Categorización de productos
+
+ <br><br>
+
+**US-21 Categorización de productos**
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
-![Alt text](img/image-197.png)
-![Alt text](img/image-198.png)
- 
+![Alt text](img/image-235.png)
 
+  <br><br>
 
- 
-
-US-22 Categorización de productos
+**US-22 Categorización de productos**
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
-![Alt text](img/image-199.png)
-![Alt text](img/image-200.png)
- 
+![Alt text](img/image-236.png)
 
  
-US-23 Proceso de compra
+ <br><br>
+
+**US-23 Proceso de compra**
 Como usuario, quiero poder agregar el producto a mi carrito de compras.
+![Alt text](img/image-237.png)
 
 
-US-24 Proceso de compra
+ <br><br>
+
+**US-24 Proceso de compra**
 Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
+![Alt text](img/image-238.png)
 
+ <br><br>
 
-US-25 Proceso de compra
+**US-25 Proceso de compra**
 Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
+![Alt text](img/image-239.png)
 
+ <br><br>
 
-US-26 Proceso de compra
+**US-26 Proceso de compra**
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
+![Alt text](img/image-240.jpeg)
 
+ <br><br>
 
-US-27 Proceso de compra
+**US-27 Proceso de compra**
 Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
+![Alt text](img/image-241.png)
 
+ <br><br>
 
-US-28 Proceso de compra
+**US-28 Proceso de compra**
 Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
+![Alt text](img/image-242.png)
 
+ <br><br>
 
-US-29 Proceso de compra
+**US-29 Proceso de compra**
 Como usuario, quiero recibir una confirmación de compra exitosa.
+![Alt text](img/image-243.png)
 
+ <br><br>
 
-US-30 Proceso de compra
+**US-30 Proceso de compra**
 Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
+![Alt text](img/image-244.png)
 
-US-31 Proceso de compra
+ <br><br>
+
+**US-31 Proceso de compra**
 Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
-(Falta foto)
+![Alt text](img/image-245.png)
 
-US-32 Contacto con Akira
+ <br><br>
+
+**US-32 Contacto con Akira**
 Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
-(Falta foto)
+![Alt text](img/image-246.png)
 
-US-33 Contacto con Akira
+ <br><br>
+
+**US-33 Contacto con Akira**
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
-![Alt text](img/image-201.png)
+![Alt text](img/image-247.png)
  
 
-
+<br>
+<br>
 
 
 ## 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 En este Sprint (Sprint 2), se logró desarrollar el frontend web application del e-commerce Akira, el cual cuenta con el propósito de ser un producto intuitivo, agradable y que satisfaga la demanda actual de consumidores de productos del entretenimiento asiático.
 
-US-10 Integración de sistema de registro/inicio de sesión
+En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante Github Pages.
+![Alt text](img/image-248.png)
+![Alt text](img/image-249.png)
+
+**Evidencia de implementación por cada US#**
+
+**US-10 Integración de sistema de registro/inicio de sesión**
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
- ![Alt text](img/image-182.png)
- ![Alt text](img/image-183.png)
- ![Alt text](img/image-184.png)
- ![Alt text](img/image-185.png)
- ![Alt text](img/image-186.png)
- ![Alt text](img/image-187.png)
- ![Alt text](img/image-188.png)
+![Alt text](img/image-224.png)
 
- 
-US-11 Integración de sistema de registro/inicio de sesión
+  <br><br>
+**US-11 Integración de sistema de registro/inicio de sesión**
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
- ![Alt text](img/image-189.png)
-![Alt text](img/image-190.png)
- 
+![Alt text](img/image-225.png)
 
- 
-US-12 Implementación de perfil de usuario
+  <br><br>
+**US-12 Implementación de perfil de usuario**
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
-![Alt text](img/image-191.png)
+![Alt text](img/image-226.png)
 
- 
+ <br><br>
 
 
-US-13 Implementación de perfil de usuario
+**US-13 Implementación de perfil de usuario**
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
- ![Alt text](img/image-192.png)
-
+![Alt text](img/image-227.png)
+ <br><br>
  
-US-14 Implementación de perfil de usuario
+**US-14 Implementación de perfil de usuario**
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
- ![Alt text](img/image-193.png) 
- ![Alt text](img/image-194.png)
+![Alt text](img/image-228.png)
 
-
+ <br><br>
  
-US-15 Implementación de perfil de usuario
+**US-15 Implementación de perfil de usuario**
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
-![Alt text](img/image-195.png)
+![Alt text](img/image-229.png)
  
+ <br><br>
 
-
-US-16 Implementación de perfil de usuario
+**US-16 Implementación de perfil de usuario**
 Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
+![Alt text](img/image-230.png)
 
+ <br><br>
 
-US-17 Implementación de perfil de usuario
+**US-17 Implementación de perfil de usuario**
 Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
+![Alt text](img/image-231.png)
 
+ <br><br>
 
-US-18 Implementación de perfil de usuario
+**US-18 Implementación de perfil de usuario**
 Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
+![Alt text](img/image-232.png)
 
 
+ <br><br>
  
-US-19 Búsqueda de productos y filtrado
+**US-19 Búsqueda de productos y filtrado**
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
-![Alt text](img/image-196.png)
+![Alt text](img/image-233.png)
  
+ <br><br>
 
-
-US-20 Búsqueda de productos y filtrado
+**US-20 Búsqueda de productos y filtrado**
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
+![Alt text](img/image-234.jpeg)
 
 
-US-21 Categorización de productos
+
+ <br><br>
+
+**US-21 Categorización de productos**
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
-![Alt text](img/image-197.png)
-![Alt text](img/image-198.png)
- 
+![Alt text](img/image-235.png)
 
+  <br><br>
 
- 
-
-US-22 Categorización de productos
+**US-22 Categorización de productos**
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
-![Alt text](img/image-199.png)
-![Alt text](img/image-200.png)
- 
+![Alt text](img/image-236.png)
 
  
-US-23 Proceso de compra
+ <br><br>
+
+**US-23 Proceso de compra**
 Como usuario, quiero poder agregar el producto a mi carrito de compras.
+![Alt text](img/image-237.png)
 
 
-US-24 Proceso de compra
+ <br><br>
+
+**US-24 Proceso de compra**
 Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
+![Alt text](img/image-238.png)
 
+ <br><br>
 
-US-25 Proceso de compra
+**US-25 Proceso de compra**
 Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
+![Alt text](img/image-239.png)
 
+ <br><br>
 
-US-26 Proceso de compra
+**US-26 Proceso de compra**
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
+![Alt text](img/image-240.jpeg)
 
+ <br><br>
 
-US-27 Proceso de compra
+**US-27 Proceso de compra**
 Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
+![Alt text](img/image-241.png)
 
+ <br><br>
 
-US-28 Proceso de compra
+**US-28 Proceso de compra**
 Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
+![Alt text](img/image-242.png)
 
+ <br><br>
 
-US-29 Proceso de compra
+**US-29 Proceso de compra**
 Como usuario, quiero recibir una confirmación de compra exitosa.
+![Alt text](img/image-243.png)
 
+ <br><br>
 
-US-30 Proceso de compra
+**US-30 Proceso de compra**
 Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
+![Alt text](img/image-244.png)
 
-US-31 Proceso de compra
+ <br><br>
+
+**US-31 Proceso de compra**
 Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
-(Falta foto)
+![Alt text](img/image-245.png)
 
-US-32 Contacto con Akira
+ <br><br>
+
+**US-32 Contacto con Akira**
 Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
-(Falta foto)
+![Alt text](img/image-246.png)
 
-US-33 Contacto con Akira
+ <br><br>
+
+**US-33 Contacto con Akira**
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
-![Alt text](img/image-201.png)
+![Alt text](img/image-247.png)
  
-
+ 
+ <br><br>
+  <br><br>
+   <br><br>
 
 
 ## 5.2.2.8. Team Collaboration Insights during Sprint 
