@@ -24,141 +24,34 @@ ___
 
 <br>
 
-<br><br>
 
-**Commits en Github:** 
+### Commits en Github:
 
-Commits en Github por repositorio
+**Commits en Github en Project-Report**
+![Alt text](img/image-217.png)
+![Alt text](img/image-216.png)
+![Alt text](img/image-218.png)
 
-En repositorio Landing Page
+<br>
 
-
-![Alt text](img/image.png)
-![Alt text](img/image-1.png)
-![Alt text](img/image-2.png)
-
-En repositorio Frontend Web Application
-  
-![Alt text](img/image-3.png)
- ![Alt text](img/image-4.png)
-![Alt text](img/image-5.png)
- 
-En Acceptance Test (Gherkin) 
-![Alt text](img/image-6.png)    
-![Alt text](img/image-7.png)
-![Alt text](img/image-8.png)
-![Alt text](img/image-9.png)
-
- 
-En Project Report:
-![Alt text](img/image-10.png)
-![Alt text](img/image-11.png)     
-![Alt text](img/image-12.png)
-![Alt text](img/image-13.png)
-![Alt text](img/image-14.png)
  
 **Analíticos de Colaboración en Github:**
-
-Repositorio Landing Page:
-
- ![Alt text](img/image-15.png)
-
-Repositorio FrontEnd:
-
- ![Alt text](img/image-16.png)
-
-Repositorio Acceptance Tests (Gherkin):
-
- ![Alt text](img/image-17.png)
 
 Repositorio Project Report (Capstone):
 
  ![Alt text](img/image-18.png)
  
-
-
-
+<br>
 
 **Explicación de los commits - (TB1 - TP1)**
 
 
-En repositorio Landing Page
-
 a. Nirvana García
 
-Creé las carpetas para cada versión de Landing Page (en cada rama correspondiente) y en cada carpeta, subí nuestra versión desarrollada. La rama master alberga la V1, la rama feature tiene la v1.1 (donde se implementa la funcionalidad de navbar y hover en imagenes) y 
-![Alt text](img/image-19.png)
-![Alt text](img/image-20.png)
-  
-
-b. Michelle Moreno
-
-Subí la primera versión de landing page entregada en la TB1 del curso, posteriormente se resubió para colocarle la correcta nomenclatura de commits. El commit “clear” lo realicé para limpiar el repositorio y rehacerlo con la correcta nomenclatura de commits.
- ![Alt text](img/image-21.png)
-
-
-
-
- 
-En repositorio Frontend Web Application
-
-a. Nirvana García
-
-Agregué las versiones v1, v2 y v3 a nuestra rama master, agregué la v1.0, v3.0 y v4.0 en la rama develop, e implementé las 4 funcionalidades que agregamos entre versiones en la rama feature.
-![Alt text](img/image-22.png)
-![Alt text](img/image-23.png)
-
-
-b. Gabriel Bernal
-
-Arreglé un error de subida dentro de una de las versiones del FrontEnd de Akira, dentro de la rama master.
- 
-![Alt text](img/image-24.png)
- 
-c. Marcelo Scerpella
-
-Agregué la v1.1 y v2.0 del Frontend de Akira, dentro de la rama develop. Además, eliminé dos versiones que se subieron erróneamente al repositorio.
- ![Alt text](img/image-25.png)
-
-d. Michelle Moreno
-
-Realicé una limpieza de archivos erroneos en el repositorio y agregué la v4 del frontend, dentro de la rama Master.
- ![Alt text](img/image-26.png)
-
-
-
-
- 
-En Acceptance Test (Gherkin) 
-
-a. Nirvana García
-
-Realicé el commit inicial del repositorio, el cual se general automáticamente.
- ![Alt text](img/image-27.png)
-
-c. Marcelo Scerpella
-
-Realicé una limpieza de archivos erróneos en el repositorio.
- ![Alt text](img/image-28.png)
-
-d. Michelle Moreno
-
-Agregué los archivos .feature de los US-01  al US-10, dentro de la rama master.
- ![Alt text](img/image-29.png)
- 
-d. Luis Aquije
-
-Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
-![Alt text](img/image-30.png)
-![Alt text](img/image-31.png)
-
- 
-En Project Report
-
-a. Nirvana García
-
-Agregué contenido del informe
+Agregué contenido del informe, aumenté el Sprint 2 y subí las modificaciones de correciones generadas en el TB1.
  ![Alt text](img/image-32.png)
+ ![Alt text](img/image-216.png)
+
 
 b. Gabriel Bernal
 
@@ -1035,6 +928,11 @@ ___
 
 - Implementar un apartado en la app donde los usuarios puedan leer comentarios sobre la experiencia de otros usuarios que realizaron compras en Akira, de esta manera, generaremos mayor confianza al resto de la comunidad.
 
+<br><br>
+___
+<br>
+
+
 ## **2.2. Entrevistas.**
 
 ### **2.2.1. Diseño de entrevistas.**
@@ -1082,6 +980,11 @@ ___
     17. ¿Estarías interesado en productos exclusivos de Asia o ediciones limitadas?
     18. ¿Alguna vez adquiriste algún producto que llegó con errores de fábrica? ¿Pudiste hacer algo al respecto?
     
+
+<br><br>
+___
+<br>
+
 **Segmento Dos: Vendedores de productos asiáticos**
 
     1. Presentación del entrevistado (Nombre, edad, ocupación)
@@ -1102,10 +1005,16 @@ ___
     16. ¿Realizas reembolsos de productos si es que tuvieron fallas de fabrica o alguna situación similar?
     17. ¿Qué es lo que más disfrutas de trabajar en la industria de productos asiáticos y coleccionables?
 
+
+
+<br><br>
+___
+<br>
+
 ### **2.2.2. Registro de entrevistas**
 
-Video de las entrevistas: 
-https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
+Video de las entrevistas: [Needfingind Interview](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)
+
 
 ![Alt text](img/image-45.png)
 
@@ -1214,8 +1123,9 @@ El entrevistado fue Jair Flores Vizcarra, un entusiasta universitario apasionado
 
 
 
-
----
+<br><br>
+___
+<br>
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -1350,12 +1260,14 @@ El 100% de nuestros entrevistados tienen conocimientos en los productos que ofre
 
 
 
+<br><br>
+___
+<br>
 
 
 
 
-
-## **2.3. Needfinding.**
+## **2.3. Needfinding**
 
 ### **2.3.1. User Persona**
 
@@ -1383,7 +1295,12 @@ A partir de los datos obtenidos en estas entrevistas, hemos creado un User Perso
 
 ![Alt text](img/image-74.png)
 
-### 2.2.3. User Task Matrix.
+
+<br><br>
+___
+<br>
+
+### 2.2.3. User Task Matrix
 
 Para la elaboración de los User Task Matrix, se están considerando dos segmentos, los cuales son el de fanáticos del entretenimiento asiáticos y el de los vendedores de productos asiáticos.
 
@@ -1486,24 +1403,42 @@ Esta matriz de tareas refleja las actividades que Alejandro Cruz Rodríquez, el 
 
  Esta matriz de tareas muestra cómo Fiorella Castillo Gómez podría interactuar con la tienda en línea a lo largo de su proceso de investigación, exploración, decisión y compra. Cada tarea representa una actividad relevante para Fiorella en su experiencia de compra.
 
- ### **2.3.3. User Jouney Mapping**
+<br><br>
+___
+<br>
+
+ ### 2.3.3. User Jouney Mapping
 
 ![Alt text](img/image-75.png)
 [Anexo E] 
 
----
+<br><br>
+___
+<br>
 
-### **2.3.4. Empathy Mapping.**
+### 2.3.4. Empathy Mapping
 
 **Segmento objetivo “Jóvenes fanáticos del entretenimiento asiático”**
 
 ![Alt text](img/image-76.png)
 
- ---
+
 
 **Segmento Objetivo: “ Vendedores de productos asiático”**
 
 ![Alt text](img/image-77.png)
+
+
+
+<br><br>
+___
+<br>
+
+
+
+
+
+
 
 ### 2.3.4. As-is Scenario Mapping
 
@@ -1566,468 +1501,47 @@ Alejandro Cruz Rodriguez quiere importar productos de japón
 ___
 <br>
 
+
+
 ## 3.2. User Stories
 
+| EPIC ID relacionada  	| User Story ID 	| Título                                              	| Descripción                                                                                                                                                                                                                                                                   	| Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+|----------------------	|---------------	|-----------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| EP-01<br>(##5176440) 	| US-01         	| Accesibilidad de la página                          	| Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.                                                                                                                                          	| Escenario 1: Landing page visualmente atractiva<br><br>Dado que soy un usuario interesado en los productos de Lambders<br>Cuando visito la landing page de Lambders por primera vez<br>Entonces espero ver un diseño moderno y estéticamente agradable<br>Y una combinación de colores armoniosa y coherente<br>Y encuentro imágenes de alta calidad que representen los productos de manera visualmente atractiva<br>Y percibo una disposición ordenada y equilibrada de los elementos en la página<br><br>Escenario 2: Landing page profesional<br><br>Dado que soy un usuario buscando información sobre Lambders<br>Cuando ingreso a la landing page de Lambders<br>Entonces espero encontrar una presentación profesional de la empresa y sus servicios<br>Y una tipografía legible y adecuada para transmitir información de manera clara y profesional<br>Y una navegación fluida y sin problemas en la página<br>Y percibo consistencia en el diseño y alineación con los estándares de diseño y usabilidad actuales                                                                                                                                                                                                                                                                                                               	|
+| EP-01<br>(##5176440) 	| US-02         	| Accesibilidad de la página                          	| Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.                                                                                                                                    	| Escenario 1: Interfaz intuitiva y fácil de utilizar<br><br>Dado que soy un usuario nuevo en el landing page de Lambders<br>Cuando ingreso a la página principal<br>Entonces espero encontrar una interfaz clara y organizada<br>Y veo una sección destacada que presenta de manera concisa lo que hace la empresa<br>Y encuentro un menú de navegación visible y fácil de entender, que muestra las secciones principales del sitio<br>Y noto que la información se presenta de forma descriptiva y fácil de comprender<br><br>Escenario 2: Comprender rápidamente la propuesta de valor<br><br>Dado que soy un potencial cliente interesado en los servicios de Lambders<br>Cuando visito la página principal de Lambders<br>Entonces espero encontrar una interfaz que destaque rápidamente la propuesta de valor de la empresa<br>Y veo una sección destacada que resalta los beneficios y soluciones que Akira ofrece<br>Y noto que la información sobre los productos se presentan de manera clara y fácil de comprender, evitando tecnicismos excesivos                                                                                                                                                                                                                                                                              	|
+| EP-01<br>(##5176440) 	| US-03         	| Accesibilidad de la página                          	| Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.                                                                                                                                                              	| Escenario 1: Landing page responsive en pantalla de escritorio<br><br>Dado que soy un usuario que visita la landing page de Lambders desde mi computadora de escritorio<br>Cuando accedo a la página principal<br>Entonces espero que la landing page se adapte automáticamente a la resolución de mi pantalla<br>Y veo que los elementos y secciones de la página se distribuyen de manera óptima en el espacio disponible<br>Y noto que el contenido se muestra de forma legible y clara, sin requerir desplazamiento horizontal excesivo<br>Y puedo interactuar con los elementos de la página, como botones y enlaces, de manera precisa y sin problemas<br><br>Escenario 2: Landing page responsive en dispositivo móvil<br><br>Dado que soy un usuario que visita la landing page de Lambders desde mi teléfono móvil<br>Cuando ingreso a la página principal<br>Entonces espero que la landing page se ajuste automáticamente a la resolución de mi pantalla móvil<br>Y veo que los elementos y secciones de la página se adaptan y reorganizan de manera óptima para una visualización móvil<br>Y el contenido se muestra de forma legible y clara, sin requerir zoom excesivo o desplazamiento horizontal<br>Y puedo interactuar fácilmente con los elementos de la página mediante gestos táctiles, como deslizamientos y toques 	|
+| EP-01<br>(##5176440) 	| US-04         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.                                                                                                    	| Escenario 1: Sección destacada sobre el producto Akira<br><br>Dado que soy un usuario interesado en el producto Akira de Lambders<br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección destacada que presente de manera atractiva y concisa el producto Akira<br>Y encuentro imágenes o gráficos que ilustren visualmente a Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-01<br>(##5176440) 	| US-05         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.                                           	| Escenario 1: Sección de segmentos objetivos en la landing page<br> <br>Dado que soy un usuario interesado en los productos de Lambders<br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección que presente de manera clara y concisa los segmentos objetivos de Lambders<br>Y veo los diferentes segmentos con los que Lambders busca enfocar sus productos<br>Y cada segmento objetivo está acompañado de una breve descripción que resalta los desafíos y necesidades específicas de ese segmento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-01<br>(##5176440) 	| US-06         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.                                                 	| Escenario 1: Sección "Acerca de nosotros" en la landing page<br> <br>Dado que soy un usuario interesado en el startup Lambders <br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección claramente visible titulada "Acerca de nosotros"<br>Y veo una descripción completa de Lambders<br>Y noto que se presentan los valores fundamentales de Akira, resaltando los principios éticos y la cultura empresarial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
+| EP-01<br>(##5176440) 	| US-07         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.                                                                                 	| Escenario 1: Sección de aliados asiáticos en la landing page<br><br>Dado que soy un usuario interesado en los aliados asiáticos de Lambders<br>Cuando visito la landing page de Lambders<br>Entonces espero encontrar una sección dedicada a los aliados asiáticos de la empresa<br>Y veo una lista de empresas asiáticas reconocidas con las que Lambders ha establecido colaboraciones o asociaciones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+| EP-01<br>(##5176440) 	| US-08         	| Accesibilidad de la página                          	| Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.                            	| Escenario: Sección de contacto en la landing page de Akira<br>Dado que soy un usuario interesado en contactar con el equipo de Lambders<br>Cuando visito la landing page de Akira<br>Entonces espero encontrar una sección claramente visible titulada "Contacto"<br>Y veo la información de contacto, como la dirección de correo electrónico y el número de teléfono del equipo de Akira<br>Y encuentro enlaces o botones que me permitan acceder a las redes sociales de Akira para obtener más opciones de contacto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+| EP-01<br>(##5176440) 	| US-09         	| Accesibilidad de la página                          	| Como usuario, quiero una interfaz intuitiva y fácil de navegar para poder encontrar rápidamente los productos y opciones que me interesan.                                                                                                                                    	| Escenario 1: Interfaz intuitiva y fácil de utilizar<br><br>Dado que soy un usuario nuevo en el sitio web de Akira<br>Cuando ingreso a la página de inicio<br>Entonces puedo ver de manera clara y concisa los productos que ofrecen<br>Y encuentro secciones o pestañas distribuidas para cada categoría de productos<br>Y puedo comprender rápidamente la navegación y la disposición de los elementos en la interfaz<br><br>Escenario 2: Información detallada y accesible<br><br>Dado que soy un usuario en el sitio web de Akira<br>Cuando navego por las diferentes secciones de la interfaz<br>Entonces encuentro información detallada sobre los productos <br>Y puedo visualizar descripciones claras y concisas de cada producto<br>Y puedo ver imágenes que ilustran los productos de manera visualmente atractiva                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-02<br>(##5176441) 	| US-10         	| Integración de sistema de registro/inicio de sesión 	| Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.                                                                                                                                                                        	| Escenario 1: Creando una nueva cuenta<br><br>Dado que soy un nuevo usuario en el sitio web de Akira<br>Cuando hago clic en el botón "Registrarse"<br>Entonces debería ser dirigido a la página de creación de cuenta<br>Y debería poder ingresar mis datos personales, como nombre, correo electrónico, contraseña<br>Y al enviar exitosamente, se debería crear mi cuenta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 	|
+| EP-02<br>(##5176441) 	| US-11         	| Integración de sistema de registro/inicio de sesión 	| Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira                                                                                                                                                                      	| Escenario 1: Iniciando sesión en la aplicación<br><br>Dado que soy un usuario registrado de Akira<br>Cuando hago clic en el botón "Iniciar sesión" e ingreso mis datos<br>Entonces la aplicación debería validar mis datos y otorgarme acceso a mi cuenta<br>Y debería ser redirigido al panel de control de mi cuenta o a la página principal de Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+| EP-03<br>(##5176442) 	| US-12         	| Implementación de perfil de usuario                 	| Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.                                                                                                                                                                      	| Escenario 1: Actualizando información de la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de configuración de la cuenta<br>Entonces debería ver un formulario con mi información actual prellenada<br>Y debería poder editar los campos correspondientes para actualizar mi información<br>Y al guardar los cambios, mi información                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-03<br>(##5176442) 	| US-13         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.                                                                                                                          	| Escenario 1: Accediendo a funciones importantes desde cualquier página<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego por cualquier página de la aplicación<br>Entonces debería tener acceso rápido a funciones importantes relacionadas con mi cuenta, como "Mi cuenta"<br>Y al hacer clic, debería ser redirigido a la página correspondiente sin problemas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-03<br>(##5176442) 	| US-14         	| Implementación de perfil de usuario                 	| Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma. 	| Escenario 1: Cerrando sesión en la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando hago clic en la opción "Cerrar sesión" en cualquier página de la aplicación<br>Entonces debería ser redirigido a la página de inicio de sesión<br>Y debería recibir una confirmación de que mi sesión se ha cerrado correctamente                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	|
+| EP-03<br>(##5176442) 	| US-15         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.                                                                                                                                                                                           	| Escenario 1: Visualizando información de la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de configuración de la cuenta o "Mi cuenta"<br>Entonces debería ver una página que muestre información detallada de mi cuenta, como nombre, dirección, información de contacto, etc.<br>Y la información debería ser precisa y reflejar los datos que he proporcionado durante la creación o actualización de mi cuenta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           	|
+| EP-03<br>(##5176442) 	| US-16         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.                                                                                                                                                                           	| Escenario 1: Cambiando la contraseña de la cuenta<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de configuración de la cuenta o "Mi cuenta"<br>Y selecciono la opción para cambiar mi contraseña<br>Entonces debería ver un formulario donde pueda ingresar mi contraseña actual y la nueva contraseña deseada<br>Y al guardar los cambios, mi contraseña debería actualizarse correctamente y ser válida para futuras sesiones de inicio de sesión                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	|
+| EP-03<br>(##5176442) 	| US-17         	| Implementación de perfil de usuario                 	| Como usuario, quiero poder ver mi historial de compras, pedidos pendientes visualizar el estado de mis pedidos en mi perfil.                                                                                                                                                  	| Escenario 1: Visualizando historial de compras y pedidos<br><br>Dado que soy un usuario con sesión iniciada en la aplicación<br>Cuando navego hacia la sección de historial de compras o pedidos en mi perfil<br>Entonces debería ver una lista de mis pedidos pendientes<br>Y para cada pedido, debería poder ver información relevante como el número de pedido, estado del pedido, detalles de los productos comprados, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|
+| EP-03<br>(##5176442) 	| US-18         	| Implementación de perfil de usuario                 	| Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.                                                                                                                                                	| Escenario 1: Eliminar permanentemente la cuenta<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y selecciono la opción de eliminar permanentemente mi cuenta<br>Entonces se me muestra una confirmación para asegurarme de mi decisión<br>Y al confirmar, mi cuenta y todos mis datos asociados se eliminan de forma permanente de Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-04<br>(##5176443) 	| US-19         	| Búsqueda de productos y filtrado                    	| Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.                                                                                                                        	| Escenario 1: Buscar un producto por su nombre<br><br>Dado que soy un usuario en la página principal de Akira<br>Cuando ingreso el nombre de un producto en la barra de búsqueda<br>Y presiono el botón de búsqueda<br>Entonces se muestran los resultados de búsqueda relacionados con el nombre del producto ingresado<br>Y puedo ver los productos que coinciden con el nombre buscado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| EP-04<br>(##5176443) 	| US-20         	| Búsqueda de productos y filtrado                    	| Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente                                                                                                                              	| Escenario 1: Filtrar productos por categoría<br>Dado que soy un usuario en la página principal de Akira<br>Cuando selecciono una categoría específica de productos<br>Entonces se muestran solo los productos que pertenecen a esa categoría<br>Y puedo ver los productos filtrados según la categoría seleccionada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-05<br>(##5176444) 	| US-21         	| Categorización de productos                         	| Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.                                                                                                                                                                                             	| Escenario 1: Ver disponibilidad de un producto<br><br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando visualizo la información del producto<br>Entonces puedo la cantidad de items disponibles por stock<br>Y puedo tomar una decisión informada sobre la compra en base a la disponibilidad mostrada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-05<br>(##5176444) 	| US-22         	| Categorización de productos                         	| Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.                                                               	| Escenario 1: Ver información detallada del producto<br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando visualizo la información del producto<br>Entonces puedo ver las especificaciones detalladas del producto <br>Y puedo ver fotos referenciales del producto para tener una idea clara de su apariencia, para tomar una decisión informada sobre la compra del producto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-06<br>(##5176445) 	| US-23         	| Proceso de compra                                   	| Como usuario, quiero poder agregar el producto a mi carrito de compras.                                                                                                                                                                                                       	| Escenario 1: Agregar producto al carrito<br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando selecciono la opción de agregar el producto al carrito<br>Entonces el producto se añade exitosamente a mi carrito de compras<br>Y se muestra un mensaje de confirmación indicando que el producto fue agregado correctamente<br><br><br>Escenario 2: Verificar producto en el carrito<br>Dado que soy un usuario en la página de un producto en Akira<br>Cuando selecciono la opción de agregar el producto al carrito<br>Entonces puedo acceder a mi carrito de compras para verificar que el producto se encuentra en él<br>Y puedo ver la cantidad de unidades del producto que he agregado al carrito                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-06<br>(##5176445) 	| US-24         	| Proceso de compra                                   	| Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.                                                                                                                                                          	| Escenario 1: Aumentar la cantidad de unidades del producto<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y selecciono la opción de aumentar la cantidad de unidades del producto<br>Entonces la cantidad de unidades del producto se incrementa en uno<br>Y el total del carrito de compras se actualiza automáticamente<br><br>Escenario 2: Disminuir la cantidad de unidades del producto<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y selecciono la opción de disminuir la cantidad de unidades del producto<br>Entonces la cantidad de unidades del producto se reduce en uno<br>Y el total del carrito de compras se actualiza automáticamente                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| EP-06<br>(##5176445) 	| US-25         	| Proceso de compra                                   	| Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.                                                                                                                                                                           	| Escenario 1: Ver resumen de productos en el carrito<br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando accedo a la página de resumen del carrito<br>Entonces se muestra un listado de todos los productos que he agregado al carrito<br>Y puedo ver detalles como el nombre del producto, la cantidad de unidades y el precio por unidad<br><br>Escenario 2: Calcular el total del carrito de compras<br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando accedo a la página de resumen del carrito<br>Entonces se muestra el total a pagar por todos los productos en el carrito<br>Y en costo de envío<br>Y puedo ver el total que debo pagar antes de proceder al pago                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 	|
+| EP-06<br>(##5176445) 	| US-26         	| Proceso de compra                                   	| Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.                       	| Escenario 1: Modificar la cantidad de unidades de un producto en el carrito<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y modifico la cantidad de unidades del producto<br>Entonces la cantidad de unidades del producto se actualiza según mi modificación<br>Y el total del carrito de compras se actualiza automáticamente<br><br>Escenario 2: Eliminar un producto del carrito<br><br>Dado que soy un usuario en la página de mi carrito de compras en Akira<br>Cuando encuentro un producto en el carrito<br>Y selecciono la opción de eliminar el producto<br>Entonces el producto se elimina por completo del carrito<br>Y el total del carrito de compras se actualiza automáticamente, excluyendo el producto eliminado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        	|
+| EP-06<br>(##5176445) 	| US-27         	| Proceso de compra                                   	| Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.                                                                                                                                                               	| Escenario 1: Modificar la dirección de envío<br><br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y selecciono la opción de modificar mi dirección de envío<br>Entonces se me permite editar mi dirección de envío<br>Y la dirección de envío en mi perfil se actualiza con la nueva dirección ingresada<br><br>Escenario 2: Verificar la dirección de envío modificada<br><br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y verifico la sección de dirección de envío<br>Entonces puedo confirmar que la dirección de envío se ha modificado correctamente<br>Y puedo asegurarme de que los futuros pedidos se enviarán a la nueva dirección especificada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-06<br>(##5176445) 	| US-28         	| Proceso de compra                                   	| Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.                                                                                                                                                           	| Escenario 1: Modificar el método de pago<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y selecciono la opción de modificar mi método de pago<br>Entonces se me permite editar mi tarjeta de crédito o débito<br>Y el método de pago en mi perfil se actualiza con la nueva tarjeta seleccionada<br><br><br>Escenario 2: Verificar el método de pago modificado<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la configuración de mi cuenta<br>Y verifico la sección de métodos de pago<br>Entonces puedo confirmar que el método de pago se ha modificado correctamente<br>Y puedo asegurarme de que los futuros pagos se realizarán con la nueva tarjeta especificada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          	|
+| EP-06<br>(##5176445) 	| US-29         	| Proceso de compra                                   	| Como usuario, quiero recibir una confirmación de compra exitosa.                                                                                                                                                                                                              	| Escenario 1: Confirmación de compra exitosa<br>Dado que soy un usuario que ha realizado una compra en Akira<br>Cuando finalizo el proceso de pago<br>Entonces se muestra un mensaje de confirmación de compra exitosa<br><br>Escenario 2: Verificar el historial de pedidos<br>Dado que soy un usuario autenticado en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Entonces puedo ver una lista de todos los pedidos que he realizado anteriormente<br>Y puedo seleccionar un pedido específico para ver los detalles y la confirmación de compra exitosa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	|
+| EP-06<br>(##5176445) 	| US-30         	| Proceso de compra                                   	| Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).                                                                                                                                   	| Escenario 1: Ver historial de pedidos<br>Dado que soy un usuario en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Entonces puedo ver una lista de todos los pedidos que he realizado anteriormente<br>Y puedo ver detalles como la fecha del pedido, los productos adquiridos, el precio por unidad y el total pagado<br><br>Escenario 2: Visualizar los detalles de un pedido específico<br><br>Dado que soy un usuario en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Y selecciono un pedido específico de la lista<br>Entonces se muestran los detalles completos del pedido, incluyendo los productos, las cantidades, el precio por unidad y el total pagado<br>Y puedo revisar los detalles del pedido para recordar la información y los productos adquiridos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
+| EP-06<br>(##5176445) 	| US-31         	| Proceso de compra                                   	| Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.                                                                                                                                                                                  	| Escenario 1: Seguimiento del envío<br>Dado que soy un usuario que ha realizado un pedido en Akira<br>Cuando accedo a la sección de seguimiento de envío en mi cuenta<br>Entonces puedo ver el estado actual del envío de mis productos<br><br>Escenario 2: Notificaciones de actualización de envío<br>Dado que soy un usuario que ha realizado un pedido en Akira<br>Cuando se produce una actualización en el estado de envío de mis productos<br>Entonces recibo notificaciones o correos electrónicos informativos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|
+| EP-07<br>(##5176446) 	| US-32         	| Contacto con Akira                                  	| Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.                                                                                             	| Escenario 1: Comunicación por correo electrónico<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando necesito ponerme en contacto con el servicio de atención al cliente<br>Entonces encuentro la dirección de correo electrónico proporcionada en la sección de contacto<br>Y envío un correo electrónico detallando mi consulta o problema<br><br>Escenario 2: Comunicación telefónica<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando necesito asistencia inmediata del servicio de atención al cliente<br>Entonces encuentro el número de teléfono proporcionado en la sección de contacto<br>Y llamo al número de teléfono para hablar directamente con un representante del servicio de atención al cliente<br>Y obtengo respuestas y soluciones a mis consultas o problemas de manera oportuna                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
+| EP-07<br>(##5176446) 	| US-33         	| Contacto con Akira                                  	| Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.                                                                                                                                                             	| Escenario 1: Acceso a las redes sociales<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando quiero encontrar las redes sociales de la tienda<br>Entonces encuentro los iconos de las redes sociales en la página principal o en el pie de página del sitio web<br>Y hago clic en los iconos para acceder a las páginas de redes sociales de Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
 
 
-EPIC ID relacionada	User Story ID	Título	Descripción	Criterios de Aceptación
-EP-01
-(##5176440)	US-01	Accesibilidad de la página
-	Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
-
-
-	Escenario 1: Landing page visualmente atractiva
-
-Dado que soy un usuario interesado en los productos de Lambders
-Cuando visito la landing page de Lambders por primera vez
-Entonces espero ver un diseño moderno y estéticamente agradable
-Y una combinación de colores armoniosa y coherente
-Y encuentro imágenes de alta calidad que representen los productos de manera visualmente atractiva
-Y percibo una disposición ordenada y equilibrada de los elementos en la página
-
-Escenario 2: Landing page profesional
-
-Dado que soy un usuario buscando información sobre Lambders
-Cuando ingreso a la landing page de Lambders
-Entonces espero encontrar una presentación profesional de la empresa y sus servicios
-Y una tipografía legible y adecuada para transmitir información de manera clara y profesional
-Y una navegación fluida y sin problemas en la página
-Y percibo consistencia en el diseño y alineación con los estándares de diseño y usabilidad actuales
-
-
-EP-01
-(##5176440)	US-02	Accesibilidad de la página
-	Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
-
-
-	Escenario 1: Interfaz intuitiva y fácil de utilizar
-
-Dado que soy un usuario nuevo en el landing page de Lambders
-Cuando ingreso a la página principal
-Entonces espero encontrar una interfaz clara y organizada
-Y veo una sección destacada que presenta de manera concisa lo que hace la empresa
-Y encuentro un menú de navegación visible y fácil de entender, que muestra las secciones principales del sitio
-Y noto que la información se presenta de forma descriptiva y fácil de comprender
-
-Escenario 2: Comprender rápidamente la propuesta de valor
-
-Dado que soy un potencial cliente interesado en los servicios de Lambders
-Cuando visito la página principal de Lambders
-Entonces espero encontrar una interfaz que destaque rápidamente la propuesta de valor de la empresa
-Y veo una sección destacada que resalta los beneficios y soluciones que Akira ofrece
-Y noto que la información sobre los productos se presentan de manera clara y fácil de comprender, evitando tecnicismos excesivos
-
-EP-01
-(##5176440)	US-03	Accesibilidad de la página
-	Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
-	Escenario 1: Landing page responsive en pantalla de escritorio
-
-Dado que soy un usuario que visita la landing page de Lambders desde mi computadora de escritorio
-Cuando accedo a la página principal
-Entonces espero que la landing page se adapte automáticamente a la resolución de mi pantalla
-Y veo que los elementos y secciones de la página se distribuyen de manera óptima en el espacio disponible
-Y noto que el contenido se muestra de forma legible y clara, sin requerir desplazamiento horizontal excesivo
-Y puedo interactuar con los elementos de la página, como botones y enlaces, de manera precisa y sin problemas
-
-Escenario 2: Landing page responsive en dispositivo móvil
-
-Dado que soy un usuario que visita la landing page de Lambders desde mi teléfono móvil
-Cuando ingreso a la página principal
-Entonces espero que la landing page se ajuste automáticamente a la resolución de mi pantalla móvil
-Y veo que los elementos y secciones de la página se adaptan y reorganizan de manera óptima para una visualización móvil
-Y el contenido se muestra de forma legible y clara, sin requerir zoom excesivo o desplazamiento horizontal
-Y puedo interactuar fácilmente con los elementos de la página mediante gestos táctiles, como deslizamientos y toques
-
-EP-01
-(##5176440)	US-04	Accesibilidad de la página
-	Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
-	Escenario 1: Sección destacada sobre el producto Akira
-
-Dado que soy un usuario interesado en el producto Akira de Lambders
-Cuando visito la landing page de Lambders
-Entonces espero encontrar una sección destacada que presente de manera atractiva y concisa el producto Akira
-Y encuentro imágenes o gráficos que ilustren visualmente a Akira 
-
-EP-01
-(##5176440)	US-05	Accesibilidad de la página
-	Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
-
-	Escenario 1: Sección de segmentos objetivos en la landing page
- 
-Dado que soy un usuario interesado en los productos de Lambders
-Cuando visito la landing page de Lambders
-Entonces espero encontrar una sección que presente de manera clara y concisa los segmentos objetivos de Lambders
-Y veo los diferentes segmentos con los que Lambders busca enfocar sus productos
-Y cada segmento objetivo está acompañado de una breve descripción que resalta los desafíos y necesidades específicas de ese segmento
-
-EP-01
-(##5176440)	US-06	Accesibilidad de la página
-	Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
-	Escenario 1: Sección "Acerca de nosotros" en la landing page
- 
-Dado que soy un usuario interesado en el startup Lambders 
-Cuando visito la landing page de Lambders
-Entonces espero encontrar una sección claramente visible titulada "Acerca de nosotros"
-Y veo una descripción completa de Lambders
-Y noto que se presentan los valores fundamentales de Akira, resaltando los principios éticos y la cultura empresarial
-
-
-EP-01
-(##5176440)	US-07	Accesibilidad de la página
-	Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
-	Escenario 1: Sección de aliados asiáticos en la landing page
-
-Dado que soy un usuario interesado en los aliados asiáticos de Lambders
-Cuando visito la landing page de Lambders
-Entonces espero encontrar una sección dedicada a los aliados asiáticos de la empresa
-Y veo una lista de empresas asiáticas reconocidas con las que Lambders ha establecido colaboraciones o asociaciones
-
-
-EP-01
-(##5176440)	US-08	Accesibilidad de la página
-	Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.	Escenario: Sección de contacto en la landing page de Akira
-Dado que soy un usuario interesado en contactar con el equipo de Lambders
-Cuando visito la landing page de Akira
-Entonces espero encontrar una sección claramente visible titulada "Contacto"
-Y veo la información de contacto, como la dirección de correo electrónico y el número de teléfono del equipo de Akira
-Y encuentro enlaces o botones que me permitan acceder a las redes sociales de Akira para obtener más opciones de contacto
-
-EP-01
-(##5176440)	US-09	Accesibilidad de la página
-	Como usuario, quiero una interfaz intuitiva y fácil de navegar para poder encontrar rápidamente los productos y opciones que me interesan.
-
-
-
-	Escenario 1: Interfaz intuitiva y fácil de utilizar
-
-Dado que soy un usuario nuevo en el sitio web de Akira
-Cuando ingreso a la página de inicio
-Entonces puedo ver de manera clara y concisa los productos que ofrecen
-Y encuentro secciones o pestañas distribuidas para cada categoría de productos
-Y puedo comprender rápidamente la navegación y la disposición de los elementos en la interfaz
-
-Escenario 2: Información detallada y accesible
-
-Dado que soy un usuario en el sitio web de Akira
-Cuando navego por las diferentes secciones de la interfaz
-Entonces encuentro información detallada sobre los productos 
-Y puedo visualizar descripciones claras y concisas de cada producto
-Y puedo ver imágenes que ilustran los productos de manera visualmente atractiva
-
-
-EP-02
-(##5176441)	US-10	Integración de sistema de registro/inicio de sesión
-	Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
-	Escenario 1: Creando una nueva cuenta
-
-Dado que soy un nuevo usuario en el sitio web de Akira
-Cuando hago clic en el botón "Registrarse"
-Entonces debería ser dirigido a la página de creación de cuenta
-Y debería poder ingresar mis datos personales, como nombre, correo electrónico, contraseña
-Y al enviar exitosamente, se debería crear mi cuenta
-EP-02
-(##5176441)	US-11	Integración de sistema de registro/inicio de sesión
-
-
-	Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
-
-	Escenario 1: Iniciando sesión en la aplicación
-
-Dado que soy un usuario registrado de Akira
-Cuando hago clic en el botón "Iniciar sesión" e ingreso mis datos
-Entonces la aplicación debería validar mis datos y otorgarme acceso a mi cuenta
-Y debería ser redirigido al panel de control de mi cuenta o a la página principal de Akira
-
-
-
-EP-03
-(##5176442)	US-12	Implementación de perfil de usuario
-	Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
-	Escenario 1: Actualizando información de la cuenta
-
-Dado que soy un usuario con sesión iniciada en la aplicación
-Cuando navego hacia la sección de configuración de la cuenta
-Entonces debería ver un formulario con mi información actual prellenada
-Y debería poder editar los campos correspondientes para actualizar mi información
-Y al guardar los cambios, mi información de cuenta debería actualizarse correctamente
-EP-03
-(##5176442)	US-13	Implementación de perfil de usuario
-	Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
-	Escenario 1: Accediendo a funciones importantes desde cualquier página
-
-Dado que soy un usuario con sesión iniciada en la aplicación
-Cuando navego por cualquier página de la aplicación
-Entonces debería tener acceso rápido a funciones importantes relacionadas con mi cuenta, como "Mi cuenta"
-Y al hacer clic, debería ser redirigido a la página correspondiente sin problemas
-
-
-EP-03
-(##5176442)	US-14	Implementación de perfil de usuario
-	Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
-	Escenario 1: Cerrando sesión en la cuenta
-
-Dado que soy un usuario con sesión iniciada en la aplicación
-Cuando hago clic en la opción "Cerrar sesión" en cualquier página de la aplicación
-Entonces debería ser redirigido a la página de inicio de sesión
-Y debería recibir una confirmación de que mi sesión se ha cerrado correctamente
-
-EP-03
-(##5176442)	US-15	Implementación de perfil de usuario
-	Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
-	Escenario 1: Visualizando información de la cuenta
-
-Dado que soy un usuario con sesión iniciada en la aplicación
-Cuando navego hacia la sección de configuración de la cuenta o "Mi cuenta"
-Entonces debería ver una página que muestre información detallada de mi cuenta, como nombre, dirección, información de contacto, etc.
-Y la información debería ser precisa y reflejar los datos que he proporcionado durante la creación o actualización de mi cuenta
-EP-03
-(##5176442)	US-16	Implementación de perfil de usuario
-	Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
-	Escenario 1: Cambiando la contraseña de la cuenta
-
-Dado que soy un usuario con sesión iniciada en la aplicación
-Cuando navego hacia la sección de configuración de la cuenta o "Mi cuenta"
-Y selecciono la opción para cambiar mi contraseña
-Entonces debería ver un formulario donde pueda ingresar mi contraseña actual y la nueva contraseña deseada
-Y al guardar los cambios, mi contraseña debería actualizarse correctamente y ser válida para futuras sesiones de inicio de sesión
-EP-03
-(##5176442)	US-17	Implementación de perfil de usuario
-	Como usuario, quiero poder ver mi historial de compras, pedidos pendientes visualizar el estado de mis pedidos en mi perfil.
-	Escenario 1: Visualizando historial de compras y pedidos
-
-Dado que soy un usuario con sesión iniciada en la aplicación
-Cuando navego hacia la sección de historial de compras o pedidos en mi perfil
-Entonces debería ver una lista de mis pedidos pendientes
-Y para cada pedido, debería poder ver información relevante como el número de pedido, estado del pedido, detalles de los productos comprados, etc.
-EP-03
-(##5176442)	US-18	Implementación de perfil de usuario
-	Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
-	Escenario 1: Eliminar permanentemente la cuenta
-Dado que soy un usuario autenticado en Akira
-Cuando accedo a la configuración de mi cuenta
-Y selecciono la opción de eliminar permanentemente mi cuenta
-Entonces se me muestra una confirmación para asegurarme de mi decisión
-Y al confirmar, mi cuenta y todos mis datos asociados se eliminan de forma permanente de Akira
-EP-04
-(##5176443)	US-19	Búsqueda de productos y filtrado
-	Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
-	Escenario 1: Buscar un producto por su nombre
-
-Dado que soy un usuario en la página principal de Akira
-Cuando ingreso el nombre de un producto en la barra de búsqueda
-Y presiono el botón de búsqueda
-Entonces se muestran los resultados de búsqueda relacionados con el nombre del producto ingresado
-Y puedo ver los productos que coinciden con el nombre buscado
-
-EP-04
-(##5176443)	US-20	Búsqueda de productos y filtrado
-	Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
-
-
-	Escenario 1: Filtrar productos por categoría
-Dado que soy un usuario en la página principal de Akira
-Cuando selecciono una categoría específica de productos
-Entonces se muestran solo los productos que pertenecen a esa categoría
-Y puedo ver los productos filtrados según la categoría seleccionada
-
-
-EP-05
-(##5176444)
-	US-21	Categorización de productos
-	Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
-	Escenario 1: Ver disponibilidad de un producto
-
-Dado que soy un usuario en la página de un producto en Akira
-Cuando visualizo la información del producto
-Entonces puedo la cantidad de items disponibles por stock
-Y puedo tomar una decisión informada sobre la compra en base a la disponibilidad mostrada
-
-EP-05
-(##5176444)
-
-	US-22	Categorización de productos
-	Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
-	Escenario 1: Ver información detallada del producto
-Dado que soy un usuario en la página de un producto en Akira
-Cuando visualizo la información del producto
-Entonces puedo ver las especificaciones detalladas del producto 
-Y puedo ver fotos referenciales del producto para tener una idea clara de su apariencia, para tomar una decisión informada sobre la compra del producto.
-
-
-EP-06
-(##5176445)
-	US-23	Proceso de compra
-	Como usuario, quiero poder agregar el producto a mi carrito de compras.
-	Escenario 1: Agregar producto al carrito
-Dado que soy un usuario en la página de un producto en Akira
-Cuando selecciono la opción de agregar el producto al carrito
-Entonces el producto se añade exitosamente a mi carrito de compras
-Y se muestra un mensaje de confirmación indicando que el producto fue agregado correctamente
-
-Escenario 2: Verificar producto en el carrito
-Dado que soy un usuario en la página de un producto en Akira
-Cuando selecciono la opción de agregar el producto al carrito
-Entonces puedo acceder a mi carrito de compras para verificar que el producto se encuentra en él
-Y puedo ver la cantidad de unidades del producto que he agregado al carrito
-
-
-EP-06
-(##5176445)	US-24	Proceso de compra
-	Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
-	Escenario 1: Aumentar la cantidad de unidades del producto
-
-Dado que soy un usuario en la página de mi carrito de compras en Akira
-Cuando encuentro un producto en el carrito
-Y selecciono la opción de aumentar la cantidad de unidades del producto
-Entonces la cantidad de unidades del producto se incrementa en uno
-Y el total del carrito de compras se actualiza automáticamente
-
-Escenario 2: Disminuir la cantidad de unidades del producto
-
-Dado que soy un usuario en la página de mi carrito de compras en Akira
-Cuando encuentro un producto en el carrito
-Y selecciono la opción de disminuir la cantidad de unidades del producto
-Entonces la cantidad de unidades del producto se reduce en uno
-Y el total del carrito de compras se actualiza automáticamente
-EP-06
-(##5176445)	US-25	Proceso de compra
-	Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
-	Escenario 1: Ver resumen de productos en el carrito
-Dado que soy un usuario en la página de mi carrito de compras en Akira
-Cuando accedo a la página de resumen del carrito
-Entonces se muestra un listado de todos los productos que he agregado al carrito
-Y puedo ver detalles como el nombre del producto, la cantidad de unidades y el precio por unidad
-
-Escenario 2: Calcular el total del carrito de compras
-Dado que soy un usuario en la página de mi carrito de compras en Akira
-Cuando accedo a la página de resumen del carrito
-Entonces se muestra el total a pagar por todos los productos en el carrito
-Y en costo de envío
-Y puedo ver el total que debo pagar antes de proceder al pago
-
-EP-06
-(##5176445)	US-26	Proceso de compra
-	Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
-	Escenario 1: Modificar la cantidad de unidades de un producto en el carrito
-
-Dado que soy un usuario en la página de mi carrito de compras en Akira
-Cuando encuentro un producto en el carrito
-Y modifico la cantidad de unidades del producto
-Entonces la cantidad de unidades del producto se actualiza según mi modificación
-Y el total del carrito de compras se actualiza automáticamente
-
-Escenario 2: Eliminar un producto del carrito
-
-Dado que soy un usuario en la página de mi carrito de compras en Akira
-Cuando encuentro un producto en el carrito
-Y selecciono la opción de eliminar el producto
-Entonces el producto se elimina por completo del carrito
-Y el total del carrito de compras se actualiza automáticamente, excluyendo el producto eliminado
-EP-06
-(##5176445)	US-27	Proceso de compra
-	
-Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
-
-	Escenario 1: Modificar la dirección de envío
-
-Dado que soy un usuario autenticado en Akira
-Cuando accedo a la configuración de mi cuenta
-Y selecciono la opción de modificar mi dirección de envío
-Entonces se me permite editar mi dirección de envío
-Y la dirección de envío en mi perfil se actualiza con la nueva dirección ingresada
-
-Escenario 2: Verificar la dirección de envío modificada
-
-Dado que soy un usuario autenticado en Akira
-Cuando accedo a la configuración de mi cuenta
-Y verifico la sección de dirección de envío
-Entonces puedo confirmar que la dirección de envío se ha modificado correctamente
-Y puedo asegurarme de que los futuros pedidos se enviarán a la nueva dirección especificada
-EP-06
-(##5176445)	US-28	Proceso de compra
-	Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
-	Escenario 1: Modificar el método de pago
-Dado que soy un usuario autenticado en Akira
-Cuando accedo a la configuración de mi cuenta
-Y selecciono la opción de modificar mi método de pago
-Entonces se me permite editar mi tarjeta de crédito o débito
-Y el método de pago en mi perfil se actualiza con la nueva tarjeta seleccionada
-
-Escenario 2: Verificar el método de pago modificado
-Dado que soy un usuario autenticado en Akira
-Cuando accedo a la configuración de mi cuenta
-Y verifico la sección de métodos de pago
-Entonces puedo confirmar que el método de pago se ha modificado correctamente
-Y puedo asegurarme de que los futuros pagos se realizarán con la nueva tarjeta especificada
-EP-06
-(##5176445)	US-29	Proceso de compra
-	Como usuario, quiero recibir una confirmación de compra exitosa.
-	Escenario 1: Confirmación de compra exitosa
-Dado que soy un usuario que ha realizado una compra en Akira
-Cuando finalizo el proceso de pago
-Entonces se muestra un mensaje de confirmación de compra exitosa
-
-Escenario 2: Verificar el historial de pedidos
-Dado que soy un usuario autenticado en Akira
-Cuando accedo a la sección de historial de pedidos en mi cuenta
-Entonces puedo ver una lista de todos los pedidos que he realizado anteriormente
-Y puedo seleccionar un pedido específico para ver los detalles y la confirmación de compra exitosa
-EP-06
-(##5176445)	US-30	Proceso de compra
-	Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
-	Escenario 1: Ver historial de pedidos
-Dado que soy un usuario en Akira
-Cuando accedo a la sección de historial de pedidos en mi cuenta
-Entonces puedo ver una lista de todos los pedidos que he realizado anteriormente
-Y puedo ver detalles como la fecha del pedido, los productos adquiridos, el precio por unidad y el total pagado
-
-Escenario 2: Visualizar los detalles de un pedido específico
-
-Dado que soy un usuario en Akira
-Cuando accedo a la sección de historial de pedidos en mi cuenta
-Y selecciono un pedido específico de la lista
-Entonces se muestran los detalles completos del pedido, incluyendo los productos, las cantidades, el precio por unidad y el total pagado
-Y puedo revisar los detalles del pedido para recordar la información y los productos adquiridos
-EP-06
-(##5176445)	US-31	Proceso de compra
-	Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
-	Escenario 1: Seguimiento del envío
-Dado que soy un usuario que ha realizado un pedido en Akira
-Cuando accedo a la sección de seguimiento de envío en mi cuenta
-Entonces puedo ver el estado actual del envío de mis productos
-
-Escenario 2: Notificaciones de actualización de envío
-Dado que soy un usuario que ha realizado un pedido en Akira
-Cuando se produce una actualización en el estado de envío de mis productos
-Entonces recibo notificaciones o correos electrónicos informativos
-EP-07
-(##5176446)
-	US-32	Contacto con Akira
-	Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
-	Escenario 1: Comunicación por correo electrónico
-Dado que soy un usuario en el sitio web de Akira
-Cuando necesito ponerme en contacto con el servicio de atención al cliente
-Entonces encuentro la dirección de correo electrónico proporcionada en la sección de contacto
-Y envío un correo electrónico detallando mi consulta o problema
-
-Escenario 2: Comunicación telefónica
-Dado que soy un usuario en el sitio web de Akira
-Cuando necesito asistencia inmediata del servicio de atención al cliente
-Entonces encuentro el número de teléfono proporcionado en la sección de contacto
-Y llamo al número de teléfono para hablar directamente con un representante del servicio de atención al cliente
-Y obtengo respuestas y soluciones a mis consultas o problemas de manera oportuna
-EP-07
-(##5176446)	US-33	Contacto con Akira
-	Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
-
-	Escenario 1: Acceso a las redes sociales
-Dado que soy un usuario en el sitio web de Akira
-Cuando quiero encontrar las redes sociales de la tienda
-Entonces encuentro los iconos de las redes sociales en la página principal o en el pie de página del sitio web
-Y hago clic en los iconos para acceder a las páginas de redes sociales de Akira
-
-
- 
 
 
 
@@ -4206,7 +3720,7 @@ Es un lenguaje de programación de alto nivel, interpretado y orientado a objeto
 - Evitar el uso de nombres de variables genéricos o ambiguos.
 - Utilizar comentarios para explicar el propósito y funcionalidad del código.
 - Utilizar indentación de 2 espacios para mejorar la legibilidad del código.
-- Utilizar operadores de comparación estricta (===) en lugar de la igualdad débil (==) cuando sea posible.
+- Utilizar operadores de comparación estricta (= ==) en lugar de la igualdad débil (= =) cuando sea posible.
 - Utilizar punto y coma al final de cada declaración.
 - Utilizar comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
 - Organizar el código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
@@ -4340,68 +3854,9 @@ ___
 
 ## 5.2.1.1. Sprint Planning 1
 
-| Sprint # | Sprint 1                                                     |
-|----------|-------------------------------------------------------------|
-| Sprint Planning Background | Velocity: 16 puntos                              |
-| Begin (Date) | 2023-09-02                                            |
-| Duration | 2023-09-02 to 2023-09-11                               |
-| Point | (Virtual) Lima, Perú / (Presencial) en la propia universidad |
-| Prepared by | Luis Enrique Aquije Quiroga                           |
-
-**Descripción**
-
-**Asistentes a la reunión**
-- Luis Enrique Aquije Quiroga
-- Gabriel Adrian Bernal Moreno
-- Nirvana Gabriela García Vásquez
-- Michelle Francesca Moreno Best
-- Marcelo Alejandro Scerpella Zarkovic
-
-**US y Metas para este Sprint**
-
-**US abarcados (Sprint 1)**
-- US-01 (2 us. points)
-  Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
-
-- US-02 (3 us. points)
-  Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
-
-- US-03 (3 us. points)
-  Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
-
-- US-04 (1 us. points)
-  Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
-
-- US-05 (1 us. points)
-  Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
-
-- US-06 (2 us. points)
-  Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
-
-- US-07 (2 us. points)
-  Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
-
-- US-08 (2 us. points)
-  Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
-
-**Metas a cumplir (Sprint 1)**
-- **Meta principal**
-  - Desarrollar una landing page sobre el startup de Lambders, la cual genere una buena primera impresión a los usuarios.
-
-- **Metas específicas**
-  - Implementar usabilidad, diseño responsive y una interfaz agradable e intuitiva.
-  - Implementar un navbar funcional.
-  - Mostrar una sección que te presente el producto de Lambders, Akira.
-  - Mostrar una sección que presente a la startup Lambders.
-  - Mostrar una sección que presente los segmentos objetivos con los que Akira genera un enfoque.
-  - Mostrar una sección de aliados (empresas asiáticas aliadas).
-  - Mostrar una sección de contacto con Akira.
-
-**Sprint 1 Velocity**
-- 16 Puntos
-
-**Sprint 1 Total US Points**
-- 16 Puntos
+![Alt text](img/image-219.png)
+![Alt text](img/image-220.png)
+![Alt text](img/image-221.png)
 
 
 
@@ -4424,6 +3879,8 @@ ___
 <br>
 
 ## 5.2.1.3. Development Evidence for Sprint Review
+
+En este primer Sprint, los avances en implementación sobre el producto (Landing Page) fueron satisfactorios, ya que se logró abordar las 8 US mencionadas en el Sprint Bakclog.
 
 **Repositorio Landing Page:**
 
@@ -4455,8 +3912,8 @@ ___
 
 En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el cual cuenta con el propósito de atraer a la clientela y mostrar de qué se trata nuestro startup y cuál es nuestro producto estrella.
 
-URL video evidencia implementación del sprint: 
-https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1
+URL video evidencia implementación del sprint: [Video Producto Sprint 1](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
+
 ![Alt text](img/image-133.png)
 
 
@@ -4531,6 +3988,16 @@ ___
 
 En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el cual cuenta con el propósito de atraer a la clientela y mostrar de qué se trata nuestro startup y cuál es nuestro producto estrella.
 Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
+
+En mención al Deployment de la landing page, empleamos Github Pages para su correcto despliegue.
+![Alt text](img/image-222.png)
+![Alt text](img/image-223.png)
+
+
+<br>
+
+**Implementación de los US Sprint 1**
+
 US-01 Accesibilidad de la página: Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
@@ -5143,20 +4610,29 @@ Ponce, J. (26 de enero del 2022). Mangas: el fenómeno editorial que sigue creci
 ___
 <br>
 
+
 # Anexos
 
 **Anexo A: Tabla con detalles de nuestros videos**
 
+Carpeta con todos los videos en Microsoft Steam: [Open Source](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source&ga=1)
+
 
 | Sección                                    | Descripción del video                                   | URL del video en Steam                                |
 | ------------------------------------------ | ------------------------------------------------------- | ----------------------------------------------------- |
-| Needfinding Interviews                     | Video de Entrevistas a segmentos objetivos               | upc-pre-202302-si729-ws52-lambders-needfinding-sprint-1.mp4 |
-| Prototypes Navigation / Product Navigation | Video Prototipo Web Akira (Sprint 1)                    | upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4 |
-| Prototypes Navigation / Product Navigation | Video Prototipo Mobile Akira (Sprint 1)                 | upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4 |
-| Prototypes Navigation / Product Navigation | Video Producto Landing Page (Sprint 1)                  | upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-1.mp4 |
-| Prototypes Navigation / Product Navigation | Video Producto Frontend Web App (Sprint 2)              | upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-2.mp4 |
-| Exposición                                 | Video Exposición TB1                                    | upc-pre-202302-si729-ws52-lambders-expo-tb1.mp4       |
+| Needfinding Interviews                     | Video de Entrevistas a segmentos objetivos               | [upc-pre-202302-si729-ws52-lambders-needfinding-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Prototipo Web Akira (Sprint 1)                    | [upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dweb%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Prototipo Mobile Akira (Sprint 1)                 | [upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dmobile%2Dprototype%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Producto Landing Page (Sprint 1)                  | [upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIuNzh9fQ%3D%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In0sInBsYXliYWNrT3B0aW9ucyI6eyJzdGFydFRpbWVJblNlY29uZHMiOjIuNzh9fQ==&ga=1) |
+| Prototypes Navigation / Product Navigation | Video Producto Frontend Web App (Sprint 2)              | [upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-2.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1) |
+| Exposición                                 | Video Exposición TB1                                    | [upc-pre-202302-si729-ws52-lambders-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dexpo%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)       |
+| Exposición                                 | Video Exposición TP1                                    | [upc-pre-202302-si729-ws52-lambders-expo-tp1.mp4]()       |
 
+
+
+<br><br>
+___
+<br>
 
 **Anexo B: URL´s dentro del Trabajo**
 
@@ -5167,7 +4643,14 @@ ___
 | Despliegue  | Frontend Web app desplegado         | [https://gabbrm.github.io/pruebaAngular/](https://gabbrm.github.io/pruebaAngular/)   |
 | Prototipado | Figma Akira                         | [https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design](https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design) |
 | Github      | Organización Grupo 2 en Github      | [https://github.com/orgs/SI729-Grupo2-WS52-Open-Source/repositories](https://github.com/orgs/SI729-Grupo2-WS52-Open-Source/repositories)   |
+| Pivotal Tracker      | Product Backlog, Epics y User Stories      | [https://www.pivotaltracker.com/n/projects/2678604](https://www.pivotaltracker.com/n/projects/2678604)   |
 
+
+
+
+<br><br>
+___
+<br>
 
 **Anexo C: Gráfica How Much**
 
@@ -5175,10 +4658,18 @@ Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria
 ![Alt text](img/image-213.png)
 
 
+<br><br>
+___
+<br>
+
 **Anexo D: Gráfica How Much**
 Comparación entre BTS y Ariana Grande a través de Google Trends
-![Alt text](img/img/image-214.png)
+![Alt text](img/image-214.png)
 
+
+<br><br>
+___
+<br>
 
 **Anexo E: User Journey Mapping**
 
