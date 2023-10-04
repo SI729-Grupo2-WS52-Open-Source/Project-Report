@@ -3930,14 +3930,14 @@ URL video evidencia implementación del sprint: [Video Producto Sprint 1](https:
 
 **Evidencia de implementación por cada US#**
 
-US-01 Accesibilidad de la página: Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
+**US-01 Creación de landing page atractiva:** Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
 ![Alt text](img/image-145.png)
 
  
 
-US-02 Accesibilidad de la página: Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
+**US-02 Interfaz intuitiva para comprender la propuesta de valor de Lambders:** Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
 ![Alt text](img/image-146.png)
@@ -3945,34 +3945,34 @@ Observamos la implementación de este user story, logrando realizar una landing 
 
   
 
-US-03 Accesibilidad de la página: Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
+**US-03 Implementación de landing page responsive:** Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
 ![Alt text](img/image-148.png)
 ![Alt text](img/image-149.png)
 ![Alt text](img/image-150.png)
 
 
-US-04 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
+**US-04 Sección sobre el producto Akira en la landing page:** Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
 ![Alt text](img/image-151.png)
 
 
-US-05 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
+**US-05 Sección de segmentos objetivos en landing page:** Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
  ![Alt text](img/image-137.png)
 
-US-06 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
+**US-06 Sección "Acerca de nosotros" en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
 ![Alt text](img/image-136.png)
  
 
-US-07 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
+**US-07 Sección de aliados en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
 ![Alt text](img/image-135.png)
  
-**US-08 Accesibilidad de la página:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
+**US-08 Sección de contacto Lambders en landing page:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
 ![Alt text](img/image-134.png)
@@ -4005,14 +4005,14 @@ En mención al Deployment de la landing page, empleamos Github Pages para su cor
 
 **Implementación de los US Sprint 1**
 
-US-01 Accesibilidad de la página: Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
+**US-01 Creación de landing page atractiva:** Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
 ![Alt text](img/image-145.png)
 
  
 
-US-02 Accesibilidad de la página: Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
+**US-02 Interfaz intuitiva para comprender la propuesta de valor de Lambders:** Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
 ![Alt text](img/image-146.png)
@@ -4020,34 +4020,34 @@ Observamos la implementación de este user story, logrando realizar una landing 
 
   
 
-US-03 Accesibilidad de la página: Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
+**US-03 Implementación de landing page responsive:** Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
 ![Alt text](img/image-148.png)
 ![Alt text](img/image-149.png)
 ![Alt text](img/image-150.png)
 
 
-US-04 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
+**US-04 Sección sobre el producto Akira en la landing page:** Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
 ![Alt text](img/image-151.png)
 
 
-US-05 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
+**US-05 Sección de segmentos objetivos en landing page:** Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
  ![Alt text](img/image-137.png)
 
-US-06 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
+**US-06 Sección "Acerca de nosotros" en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
 ![Alt text](img/image-136.png)
  
 
-US-07 Accesibilidad de la página: Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
+**US-07 Sección de aliados en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
 ![Alt text](img/image-135.png)
  
-**US-08 Accesibilidad de la página:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
+**US-08 Sección de contacto Lambders en landing page:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
 ![Alt text](img/image-134.png)
@@ -4184,134 +4184,134 @@ URL video evidencia implementación del sprint:
 https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
 ![Alt text](img/image-181.png)
 
+<BR><BR>
 
+**Evidencia de implementación por cada US#**
 
-Evidencia de implementación por cada US#
-
-US-10 Integración de sistema de registro/inicio de sesión
+**US-10 Creación de cuenta en la aplicación**
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
- ![Alt text](img/image-182.png)
- ![Alt text](img/image-183.png)
- ![Alt text](img/image-184.png)
- ![Alt text](img/image-185.png)
- ![Alt text](img/image-186.png)
- ![Alt text](img/image-187.png)
- ![Alt text](img/image-188.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-224.png)
+
 
  
-US-11 Integración de sistema de registro/inicio de sesión
+**US-11 Inicio de sesión en la aplicación**
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
- ![Alt text](img/image-189.png)
-![Alt text](img/image-190.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-225.png)
  
 
  
-US-12 Implementación de perfil de usuario
+**US-12 Gestión de cuenta del usuario en la aplicación**
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
-![Alt text](img/image-191.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-226.png)
 
  
 
 
-US-13 Implementación de perfil de usuario
+**US-13 Acceso rápido a funciones de cuenta desde cualquier lugar de la aplicación**
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
- ![Alt text](img/image-192.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-227.png)
 
  
-US-14 Implementación de perfil de usuario
+**US-14 Cierre de sesión en la aplicación**
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
- ![Alt text](img/image-193.png) 
- ![Alt text](img/image-194.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-228.png)
 
 
  
-US-15 Implementación de perfil de usuario
+**US-15 Visualización de información de cuenta del usuario en la aplicación**
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
-![Alt text](img/image-195.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-229.png)
  
 
 
-US-16 Implementación de perfil de usuario
+**US-16 Cambio de contraseña en la aplicación Akira**
 Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-230.png)
 
-
-US-17 Implementación de perfil de usuario
+**US-17 Historial de compras y estado de los pedidos en perfil del usuario dentro de la aplicación**
 Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-231.png)
 
 
-US-18 Implementación de perfil de usuario
+**US-18 Eliminar permanentemente la cuenta de Akira en la aplicación**
 Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
-
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-232.png)
 
  
-US-19 Búsqueda de productos y filtrado
+**US-19 Barra de búsqueda para filtrar productos por nombre en la aplicación**
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
-![Alt text](img/image-196.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-233.png)
  
 
 
-US-20 Búsqueda de productos y filtrado
+**US-20 Filtrado de productos por categorías en la aplicación**
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-234.png)
 
 
-US-21 Categorización de productos
+**US-21 Disponibilidad en tiempo real de los productos en la aplicación**
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
-![Alt text](img/image-197.png)
-![Alt text](img/image-198.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-235.png)
  
 
 
- 
 
-US-22 Categorización de productos
+**US-22 Visualización detallada del producto en la aplicación**
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
-![Alt text](img/image-199.png)
-![Alt text](img/image-200.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-236.png)
  
 
  
-US-23 Proceso de compra
+**US-23 Agregar productos al carrito de compras en la aplicación**
 Como usuario, quiero poder agregar el producto a mi carrito de compras.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-237.png)
 
 
-US-24 Proceso de compra
+**US-24 Modificar la cantidad de unidades de los productos a comprar en la aplicación**
 Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-238.png)
 
 
-US-25 Proceso de compra
+**US-25 Resumen de productos en el carrito antes de checkout en la aplicación**
 Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-239.png)
 
 
-US-26 Proceso de compra
+**US-26 Modificar cantidades y eliminar productos del carrito de compras en la aplicación**
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-240.png)
 
 
-US-27 Proceso de compra
+**US-27 Modificar la dirección de envío en la aplicación**
 Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-241.png)
 
 
-US-28 Proceso de compra
+**US-28 Modificar el método de pago en la aplicación**
 Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-242.png)
 
 
-US-29 Proceso de compra
+**US-29 Confirmación de compra exitosa en la aplicación**
 Como usuario, quiero recibir una confirmación de compra exitosa.
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-243.png)
 
 
-US-30 Proceso de compra
+**US-30 Registro de pedidos en el historial del usuario en la aplicación**
 Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-244.png)
 
-US-31 Proceso de compra
+**US-31 Seguimiento del progreso del envío en la aplicación**
 Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
-(Falta foto)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-245.png)
 
-US-32 Contacto con Akira
+**US-32 Comunicación con Akira en la aplicación**
 Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
-(Falta foto)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-246.png)
 
-US-33 Contacto con Akira
+**US-33 Visualización de las redes sociales de Akira en la aplicación**
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
-![Alt text](img/image-201.png)
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-247.png)
  
 
 
