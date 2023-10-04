@@ -4671,7 +4671,7 @@ ___
 **Anexo C: Gráfica How Much**
 
 Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria japonesa de animación procedentes de las emisiones de televisión entre 2002 y 2020”. Statista, 2022. (https://es.statista.com/estadisticas/592763/ingresos-de-las-series-televisivas-de-anime-japones/#:~:text=Esta%20estad%C3%ADstica%20refleja%20la%20evoluci%C3%B3n,millones%20de%20yenes%20en%202020.)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-213.png)
+![Anexo C](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-213.png)
 
 
 <br><br>
@@ -4680,7 +4680,7 @@ ___
 
 **Anexo D: Gráfica How Much**
 Comparación entre BTS y Ariana Grande a través de Google Trends
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-214.png)
+![Anexo D](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-214.png)
 
 
 <br><br>
@@ -4691,7 +4691,7 @@ ___
 
 Url para mejor visualización: 
 https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-215.png)
+![Prueba anexo E](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-215.png)
 
 
 
