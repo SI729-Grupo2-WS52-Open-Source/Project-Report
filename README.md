@@ -332,7 +332,7 @@ ___
 ![Alt text](img/image-37.png)
 ![Alt text](img/image-42.png)
 ![Alt text](img/image-39.png)
-![Alt text](img/image-40.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/5.%20Perfil%20Michelle.png)
 ![Alt text](img/image-41.png)
 
 
@@ -894,6 +894,10 @@ ___
     </tr>
   </tbody>
 </table>
+
+<br><br>
+___
+<br>
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
@@ -1762,11 +1766,13 @@ ___
 ## 4.2.2. Labeling Systems
 
 Nuestro sistema de etiquetado dentro del navbar consta de dos apartados, primero explicaremos la parte visual que el usuario puede ver directamente cuando entra a la página web. Está compuesta por un hamburger icon que desplegará el segundo apartado del sistema de etiquetado, una etiqueta de “Contáctanos” para que el usuario pueda acceder a nuestro número, correo y redes sociales, el carrito de compras del usuario y el botón de perfil de usuario. Además, en ciertas pestañas, se visualiza el input “Buscar”, para que el usuario pueda buscar un producto dentro de toda la plataforma Akira.
-![Alt text](img/image-104.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/36.%20Labeling%20System.png)
 <br>
 
 El segundo apartado se muestra cuando el usuario le da click al hamburger icon del navbar, el cual contiene las etiquetas K-Pop, Anime, Lectura, New Ingresos, Lo más Top, Preguntas Frecuentes y Contáctanos.
-![Alt text](img/image-105.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/37.%20Labeling%20System.png)
 
 <br><br>
 ___
@@ -1784,7 +1790,7 @@ Meta Description Tag
 
 - "Explora Akira, donde encontrarás una amplia selección de productos de entretenimiento asiático, desde kpop hasta anime y mangas. Encuentra tus artistas favoritos, los últimos lanzamientos y coleccionables exclusivos. ¡Explora el mundo del entretenimiento asiático con Akira, la tienda de Lambders.".
 
-![Alt text](img/image-106.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/38.%20SEO%20Tags%20and%20meta%20tags.png)
 
 Figura: Ejemplo de aplicación de los SEO Tags
 
@@ -1806,8 +1812,9 @@ ___
 
 El sistema de búsqueda se basa en un input de Buscar, donde el usuario podrá ingresar el nombre de algún producto que esté buscando o el nombre de algun anime, grupo de k-pop o relacionado, para luego proceder a darle la tecla enter o presionar la lupa en la zona derecha del input para proceder con la búsqueda. Asimismo, al realizar la búsqueda, se maneja un sistema de filtros de búsqueda, donde el usuario podrá seleccionar el tipo de producto que está buscando, o el artista de su interés. Este filtro se modificará dependiendo a qué rubro de Akira le pertenece la búsqueda del usuario (Anime, K-Pop o Lectura).
 
-![Alt text](img/image-107.png)
-![Alt text](img/image-108.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/39.%20Searching%20Systems.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/40.%20Searching%20Systems.png)
 
 <br><br>
 ___
@@ -3385,7 +3392,7 @@ Otra gran ventaja de Notion es su capacidad de integración con otras herramient
 URL: https://www.notion.so/
 
 
-![Alt text](img/image-112.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/235.%20Notion.png)
 
 
 ●	Pivotal Tracker: Es una herramienta de gestión de proyectos ágiles que ha ganado popularidad entre los equipos de desarrollo de software. Diseñado específicamente para implementar la metodología de desarrollo ágil, Pivotal Tracker ayuda a los equipos a planificar, rastrear y entregar proyectos de manera eficiente.
@@ -4314,76 +4321,75 @@ Como usuario, quiero visualizar las redes sociales de la tienda para poder encon
 
 En este Sprint (Sprint 2), se logró desarrollar el frontend web application del e-commerce Akira, el cual cuenta con el propósito de ser un producto intuitivo, agradable y que satisfaga la demanda actual de consumidores de productos del entretenimiento asiático.
 
+En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante Github Pages.
+ ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-248.png)
+  ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-249.png)
+
+
 US-10 Integración de sistema de registro/inicio de sesión
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
- ![Alt text](img/image-182.png)
- ![Alt text](img/image-183.png)
- ![Alt text](img/image-184.png)
- ![Alt text](img/image-185.png)
- ![Alt text](img/image-186.png)
- ![Alt text](img/image-187.png)
- ![Alt text](img/image-188.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-224.png)
+
 
  
 US-11 Integración de sistema de registro/inicio de sesión
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
- ![Alt text](img/image-189.png)
-![Alt text](img/image-190.png)
- 
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-225.png)
+
 
  
 US-12 Implementación de perfil de usuario
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
-![Alt text](img/image-191.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-226.png)
 
  
 
 
 US-13 Implementación de perfil de usuario
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
- ![Alt text](img/image-192.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-227.png)
 
  
 US-14 Implementación de perfil de usuario
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
- ![Alt text](img/image-193.png) 
- ![Alt text](img/image-194.png)
-
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-228.png)
 
  
 US-15 Implementación de perfil de usuario
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
-![Alt text](img/image-195.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-229.png)
  
 
 
 US-16 Implementación de perfil de usuario
 Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-230.png)
 
 
 US-17 Implementación de perfil de usuario
 Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-231.png)
 
 
 US-18 Implementación de perfil de usuario
 Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
-
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-232.png)
 
  
 US-19 Búsqueda de productos y filtrado
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
-![Alt text](img/image-196.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-233.png)
  
 
 
 US-20 Búsqueda de productos y filtrado
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-234.png)
 
 
 US-21 Categorización de productos
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
-![Alt text](img/image-197.png)
-![Alt text](img/image-198.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-235.png)
  
 
 
@@ -4391,53 +4397,63 @@ Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real
 
 US-22 Categorización de productos
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
-![Alt text](img/image-199.png)
-![Alt text](img/image-200.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-236.png)
  
 
  
 US-23 Proceso de compra
 Como usuario, quiero poder agregar el producto a mi carrito de compras.
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-237.png)
 
 
 US-24 Proceso de compra
 Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-238.png)
 
 
 US-25 Proceso de compra
 Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-239.png)
 
 
 US-26 Proceso de compra
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-240.png)
 
 
 US-27 Proceso de compra
 Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
-
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-241.png)
+ 
 
 US-28 Proceso de compra
 Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
-
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-242.png)
+ 
 
 US-29 Proceso de compra
 Como usuario, quiero recibir una confirmación de compra exitosa.
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-243.png)
 
 
 US-30 Proceso de compra
 Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-244.png)
+
 
 US-31 Proceso de compra
 Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
-(Falta foto)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-245.png)
+ 
 
 US-32 Contacto con Akira
 Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
-(Falta foto)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-246.png)
+
 
 US-33 Contacto con Akira
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
-![Alt text](img/image-201.png)
+ ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-247.png)
  
 
 
@@ -4484,11 +4500,11 @@ Agregué contenido del informe
 
 d. Michelle Moreno
 Agregué contenido del informe
-![Alt text](img/image-211.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-211.png)
  
-d. Luis Aquije
+e. Luis Aquije
 Agregué contenido del informe
- ![Alt text](img/image-212.png)
+ ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-212.png)
  
 
 
@@ -4655,7 +4671,7 @@ ___
 **Anexo C: Gráfica How Much**
 
 Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria japonesa de animación procedentes de las emisiones de televisión entre 2002 y 2020”. Statista, 2022. (https://es.statista.com/estadisticas/592763/ingresos-de-las-series-televisivas-de-anime-japones/#:~:text=Esta%20estad%C3%ADstica%20refleja%20la%20evoluci%C3%B3n,millones%20de%20yenes%20en%202020.)
-![Alt text](img/image-213.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-213.png)
 
 
 <br><br>
@@ -4664,7 +4680,7 @@ ___
 
 **Anexo D: Gráfica How Much**
 Comparación entre BTS y Ariana Grande a través de Google Trends
-![Alt text](img/image-214.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-214.png)
 
 
 <br><br>
@@ -4675,4 +4691,7 @@ ___
 
 Url para mejor visualización: 
 https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view
-![Alt text](img/image-215.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-215.png)
+
+
+
