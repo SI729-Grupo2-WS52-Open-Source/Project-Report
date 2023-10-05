@@ -3878,10 +3878,18 @@ ___
 
 ## 5.2.1.2. Sprint Backlog 1
 
-Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-124.png)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-125.png)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-126.png)
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story (Work-Item / Task)
+| EPIC ID             	| EPIC Title                 	| US ID 	| US Title                                                             	| Description                                                                                                                                                                                                                                        	| Estimation (Hours) 	| Assigned To       	| Status(To-Do/In Process/Done) 	|
+|---------------------	|----------------------------	|-------	|----------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------	|-------------------	|-------------------------------	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-01 	| Creación de landing page atractiva                                   	| Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.                                                                                                               	| 5 hours            	| Marcelo Scerpella 	| Done                          	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-02 	| Interfaz intuitiva para comprender la propuesta de valor de Lambders 	| Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.                                                                                                         	| 5 hours            	| Nirvana García    	| Done                          	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-03 	| Implementación de landing page responsive                            	| Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.                                                                                                                                   	| 3 hours            	| Nirvana García    	| Done                          	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-04 	| Sección sobre el producto Akira en la landing page                   	| Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.                                                                         	| 2 hours            	| Michelle Moreno   	| Done                          	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-05 	| Sección de segmentos objetivos en landing page                       	| Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.                	| 2 hours            	| Marcelo Scerpella 	| Done                          	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-06 	| Sección "Acerca de nosotros" en landing page                         	| Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.                      	| 2 hours            	| Gabriel Bernal    	| Done                          	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-07 	| Sección de aliados en landing page                                   	| Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.                                                      	| 2 hours            	| Gabriel Bernal    	| Done                          	|
+| EP-01<br>#185942721 	| Accesibilidad de la página 	| US-08 	| Sección de contacto Lambders en landing page                         	| Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas. 	| 2 hours            	| Michelle Moreno   	| Done                          	|
+
 
 
 
@@ -3897,6 +3905,7 @@ En este primer Sprint, los avances en implementación sobre el producto (Landing
 **Repositorio Landing Page:**
 
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-127.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-128.png)
 
 
@@ -3906,12 +3915,15 @@ En este primer Sprint, los avances en implementación sobre el producto (Landing
 **Repositorio Acceptance Test (Gherkin):**
 
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-129.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-130.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-131.png)
 
 <BR><BR>
 
 **Repositorio Project Statement:**
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-132.png)
 
 
@@ -3945,41 +3957,52 @@ Observamos la implementación de este user story, logrando realizar una landing 
 **US-02 Interfaz intuitiva para comprender la propuesta de valor de Lambders:** Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-146.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-147.png)
 
   
 
 **US-03 Implementación de landing page responsive:** Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-148.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-149.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-150.png)
 
 
 **US-04 Sección sobre el producto Akira en la landing page:** Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
+
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-151.png)
 
 
 **US-05 Sección de segmentos objetivos en landing page:** Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
+
  ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-137.png)
 
 **US-06 Sección "Acerca de nosotros" en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-136.png)
  
 
 **US-07 Sección de aliados en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-135.png)
  
 **US-08 Sección de contacto Lambders en landing page:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-134.png)
  
 
@@ -4002,7 +4025,9 @@ En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el 
 Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
 
 En mención al Deployment de la landing page, empleamos Github Pages para su correcto despliegue.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-222.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-223.png)
 
 
@@ -4013,6 +4038,7 @@ En mención al Deployment de la landing page, empleamos Github Pages para su cor
 **US-01 Creación de landing page atractiva:** Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-145.png)
 
  
@@ -4020,41 +4046,52 @@ Observamos la implementación de este user story, logrando realizar una landing 
 **US-02 Interfaz intuitiva para comprender la propuesta de valor de Lambders:** Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-146.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-147.png)
 
   
 
 **US-03 Implementación de landing page responsive:** Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-148.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-149.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-150.png)
 
 
 **US-04 Sección sobre el producto Akira en la landing page:** Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
+
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-151.png)
 
 
 **US-05 Sección de segmentos objetivos en landing page:** Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
+
  ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-137.png)
 
 **US-06 Sección "Acerca de nosotros" en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-136.png)
  
 
 **US-07 Sección de aliados en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-135.png)
  
 **US-08 Sección de contacto Lambders en landing page:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-134.png)
  
 
@@ -4069,12 +4106,15 @@ ___
 En repositorio Landing Page
 a. Nirvana García
 Creé las carpetas para cada versión de Landing Page (en cada rama correspondiente) y en cada carpeta, subí nuestra versión desarrollada. La rama master alberga la V1, la rama feature tiene la v1.1 (donde se implementa la funcionalidad de navbar y hover en imagenes) 
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-166.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-165.png)
   
 
 b. Michelle Moreno
 Subí la primera versión de landing page entregada en la TB1 del curso, posteriormente se resubió para colocarle la correcta nomenclatura de commits. El commit “clear” lo realicé para limpiar el repositorio y rehacerlo con la correcta nomenclatura de commits.
+
  ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-164.png)
 
 
@@ -4084,21 +4124,26 @@ Subí la primera versión de landing page entregada en la TB1 del curso, posteri
 En Acceptance Test (Gherkin) 
 a. Nirvana García
 Realicé el commit inicial del repositorio, el cual se general automáticamente.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-163.png)
  
 
 c. Marcelo Scerpella
 Realicé una limpieza de archivos erróneos en el repositorio.
+
  ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-162.png)
 
 d. Michelle Moreno
 Agregué los archivos .feature de los US-01  al US-10, dentro de la rama master.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-161.png)
  
  
 d. Luis Aquije
 Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-159.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-160.png)
 
   
@@ -4149,13 +4194,35 @@ ___
 
 ## 5.2.2.2. Sprint Backlog 2
 
-Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-172.png)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-173.png)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-174.png)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-175.png)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-176.png)
-![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-177.png)
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story (Work-Item / Task)
+
+| EPIC ID              	| EPIC Title                                          	| US ID 	| US Title                                                                                   	| Description                                                                                                                                                                                                                                                                   	| Estimation (Hours) 	| Assigned To       	| Status(To-Do/In Process/Done) 	|
+|----------------------	|-----------------------------------------------------	|-------	|--------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------	|-------------------	|-------------------------------	|
+| EP-01<br>#185942721  	| Accesibilidad de la página                          	| US-09 	| Interfaz intuitiva en la aplicación                                                        	| Como usuario, quiero una interfaz intuitiva y fácil de navegar para poder encontrar rápidamente los productos y opciones que me interesan.                                                                                                                                    	| 8 hours            	| Nirvana García    	| Done                          	|
+| EP-02<br>(##5176441) 	| Integración de sistema de registro/inicio de sesión 	| US-10 	| Creación de cuenta en la aplicación                                                        	| Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.                                                                                                                                                                        	| 5 hours            	| Michelle Moreno   	| Done                          	|
+| EP-02<br>(##5176441) 	| Integración de sistema de registro/inicio de sesión 	| US-11 	| Inicio de sesión en la aplicación                                                          	| Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira                                                                                                                                                                      	| 5 hours            	| Gabriel Bernal    	| Done                          	|
+| EP-03<br>(##5164492) 	| Implementación de perfil de usuario                 	| US-12 	| Gestión de cuenta del usuario en la aplicación                                             	| Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.                                                                                                                                                                      	| 3 hours            	| Marcelo Scerpella 	| Done                          	|
+| EP-03<br>(##5164492) 	| Implementación de perfil de usuario                 	| US-13 	| Acceso rápido a funciones de cuenta desde cualquier lugar de la aplicación                 	| Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.                                                                                                                          	| 2 hours            	| Nirvana García    	| Done                          	|
+| EP-03<br>(##5164492) 	| Implementación de perfil de usuario                 	| US-14 	| Cierre de sesión en la aplicación                                                          	| Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma. 	| 3 hours            	| Michelle Moreno   	| Done                          	|
+| EP-03<br>(##5164492) 	| Implementación de perfil de usuario                 	| US-15 	| Visualización de información de cuenta del usuario en la aplicación                        	| Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.                                                                                                                                                                                           	| 3 hours            	| Gabriel Bernal    	| Done                          	|
+| EP-03<br>(##5164492) 	| Implementación de perfil de usuario                 	| US-16 	| Cambio de contraseña en la aplicación Akira                                                	| Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.                                                                                                                                                                           	| 2 hours            	| Marcelo Scerpella 	| Done                          	|
+| EP-03<br>(##5164492) 	| Implementación de perfil de usuario                 	| US-17 	| Historial de compras y estado de los pedidos en perfil del usuario dentro de la aplicación 	| Como usuario, quiero poder ver mi historial de compras, pedidos pendientes visualizar el estado de mis pedidos en mi perfil.                                                                                                                                                  	| 5 hours            	| Gabriel Bernal    	| Done                          	|
+| EP-03<br>(##5164492) 	| Implementación de perfil de usuario                 	| US-18 	| Eliminar permanentemente la cuenta de Akira en la aplicación                               	| Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.                                                                                                                                                	| 3 hours            	| Luis Aquije       	| Done                          	|
+| EP-04<br>(##5176443) 	| Búsqueda de productos y filtrado                    	| US-19 	| Barra de búsqueda para filtrar productos por nombre en la aplicación                       	| Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.                                                                                                                        	| 5 hours            	| Michelle Moreno   	| Done                          	|
+| EP-04<br>(##5176443) 	| Búsqueda de productos y filtrado                    	| US-20 	| Filtrado de productos por categorías en la aplicación                                      	| Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente                                                                                                                              	| 5 hours            	| Luis Aquije       	| Done                          	|
+| EP-05<br>(##5176444) 	| Categorización de productos                         	| US-21 	| Disponibilidad en tiempo real de los productos en la aplicación                            	| Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.                                                                                                                                                                                             	| 2 hours            	| Nirvana García    	| Done                          	|
+| EP-05<br>(##5176444) 	| Categorización de productos                         	| US-22 	| Visualización detallada del producto en la aplicación                                      	| Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.                                                               	| 5 hours            	| Michelle Moreno   	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-23 	| Agregar productos al carrito de compras en la aplicación                                   	| Como usuario, quiero poder agregar el producto a mi carrito de compras.                                                                                                                                                                                                       	| 2 hours            	| Gabriel Bernal    	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-24 	| Modificar la cantidad de unidades de los productos a comprar en la aplicación              	| Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.                                                                                                                                                          	| 2 hours            	| Nirvana García    	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-25 	| Resumen de productos en el carrito antes de checkout en la aplicación                      	| Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.                                                                                                                                                                           	| 2 hours            	| Luis Aquije       	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-26 	| Modificar cantidades y eliminar productos del carrito de compras en la aplicación          	| Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.                                                                                                                                      	| 3 hours            	| Marcelo Scerpella 	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-27 	| Modificar la dirección de envío en la aplicación                                           	| Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.                                                                                                                                                               	| 2 hours            	| Michelle Moreno   	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-28 	| Modificar el método de pago en la aplicación                                               	| Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.                                                                                                                                                           	| 2 hours            	| Nirvana García    	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-29 	| Confirmación de compra exitosa en la aplicación                                            	| Como usuario, quiero recibir una confirmación de compra exitosa.                                                                                                                                                                                                              	| 2 hours            	| Luis Aquije       	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-30 	| Registro de pedidos en el historial del usuario en la aplicación                           	| Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).                                                                                                                                   	| 5 hours            	| Gabriel Bernal    	| Done                          	|
+| EP-06<br>(##5176445) 	| Proceso de compra                                   	| US-31 	| Seguimiento del progreso del envío en la aplicación                                        	| Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.                                                                                                                                                                                  	| 3 hours            	| Marcelo Scerpella 	| Done                          	|
+| EP-07<br>(##5176446) 	| Contacto con Akira                                  	| US-32 	| Comunicación con Akira en la aplicación                                                    	| Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.                                                                                             	| 3 hours            	| Michelle Moreno   	| Done                          	|
+| EP-07<br>(##5176446) 	| Contacto con Akira                                  	| US-33 	| Visualización de las redes sociales de Akira en la aplicación                              	| Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.                                                                                                                                                             	| 3 hours            	| Luis Aquije       	| Done                          	|
 
 
 
@@ -4167,10 +4234,13 @@ ___
 ## 5.2.2.3. Development Evidence for Sprint Review
 
 Repositorio Frontend Web Application:
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-178.png)
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-179.png)
 
 Repositorio Project Statement:
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-180.png)
 
 
@@ -4185,8 +4255,7 @@ ___
 
 En este Sprint (Sprint 2), se logró desarrollar el frontend web application del e-commerce Akira, el cual cuenta con el propósito de ser un producto intuitivo, agradable y que satisfaga la demanda actual de consumidores de productos del entretenimiento asiático.
 
-URL video evidencia implementación del sprint: 
-https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
+URL video evidencia implementación del sprint: [Video](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)
 
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-181.png)
 
