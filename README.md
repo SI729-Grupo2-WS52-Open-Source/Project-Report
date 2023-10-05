@@ -2653,7 +2653,7 @@ Mejor visualización en el link de LucidChart
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/214.%20Wireflow%20C.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/214.%20Wireflow%20C.png)
 
 
 <br><br>
@@ -2662,7 +2662,7 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/215.%20User%20goal%20D.PNG)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/215.%20User%20goal%20D.PNG)
 
 
 
@@ -2670,7 +2670,7 @@ Mejor visualización en el link de LucidChart
 *Happy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
 
 
 
@@ -2678,7 +2678,7 @@ Mejor visualización en el link de LucidChart
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/218.%20Wireflow%20D.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/218.%20Wireflow%20D.png)
 
 
 
@@ -2688,21 +2688,21 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/219.%20User%20Goal%20E.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/219.%20User%20Goal%20E.png)
 
 
 
 
 *Happy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
 
 
 *Visualización completa del Wireflow E:*
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/222.%20Wireflow%20%20E%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/222.%20Wireflow%20%20E%20.png)
 
 
 <br><br>
@@ -2711,21 +2711,21 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/223.%20User%20Goal%20F%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/223.%20User%20Goal%20F%20.png)
 
 
 
 
 *Happy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
 
 
 *Visualización completa del Wireflow F:* 
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/226.%20Wireflow%20F%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/226.%20Wireflow%20F%20.png)
 
 
 <br><br>
@@ -2738,7 +2738,7 @@ ___
 
 El usuario debe presionar la palabra “GO” antes de entrar a la aplicación de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/161.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/161.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2747,7 +2747,7 @@ El usuario debe presionar la palabra “GO” antes de entrar a la aplicación d
 
 El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesión con una cuenta ya existente o registrarse para crear una nueva cuenta.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/162.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/162.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2756,7 +2756,7 @@ El usuario, posterior al ingreso de AKIRA, tendrá que elegir entre iniciar sesi
 
 El usuario, al elegir iniciar sesión, tendrá que poner el correo y contraseña que registró anteriormente para poder continuar. En el caso de que el usuario no tenga una cuenta, para poder iniciar sesión, tendrá que registrar su Nombre, Apellido, Correo y Contraseña.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/163.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/163.%20Mobile%20MockUp.png)
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/164.%20Mobile%20MockUp.png)
 
@@ -2790,7 +2790,7 @@ Si el usuario desea editar alguna parte de la información de su cuenta, debe de
 Para el caso de editar la “Cuenta”.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/167.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/167.%20Mobile%20MockUp.png)
 
 
 
@@ -2804,7 +2804,7 @@ Si el usuario desea editar o agregar su dirección para que el paquete de compra
 
 Para el caso de editar la “Dirección”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/168.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/168.%20Mobile%20MockUp.png)
 
 
 
@@ -2818,7 +2818,7 @@ Si el usuario desea editar o agregar un método de pago para que el carrito de c
 Para el caso de “Tarjeta Vinculada”.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/169.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/169.%20Mobile%20MockUp.png)
 
 
 
@@ -2831,7 +2831,7 @@ Si el usuario desea editar visualizar cómo van sus pedidos (si es que ha realiz
 
 De esta manera, podrá acceder a la información del número de su envío en curso, donde verá a detalle los productos que compró dentro del paquete, el monto pagado y en qué etapa de envío se encuentra (en este caso, el paquete se encuentra en aduanas).
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/170.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/170.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2840,17 +2840,17 @@ De esta manera, podrá acceder a la información del número de su envío en cur
 
 Cuando el usuario presione el ícono “cart” en el tab bar, podrá visualizar los productos que ha agregado a su carrito, con una imagen de estos , su descripción, precio y cantidad a comprar. Además, debajo de estos, se encuentra un pequeño resumen de su compra como el precio de todos los productos, los gastos de envío y el total a pagar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/171.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/171.%20Mobile%20MockUp.png)
 
 
 Si el cliente decide proseguir con la compra y presionó “Ir a CheckOut”, se le redireccionará al “CheckOut” donde podrá visualizar la dirección donde se realizará la entrega, el método de pago que se utilizará para comprar los productos del carrito y el resumen de gastos. Si el usuario está conforme, presionará “Comprar”.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/172.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/172.%20Mobile%20MockUp.png)
 
 
 Si los datos de tarjeta son correctos, AKIRA agradecerá su compra y confirmará una compra exitosa.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/173.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/173.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2877,7 +2877,7 @@ Al bajar, el usuario al presionar cada rubro de las imágenes, podrá visualizar
 El usuario visualizará los nuevos ingresos de Akira en cuanto a productos por cada rubro.
 Para el rubro del K-pop:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/176.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/176.%20Mobile%20MockUp.png)
 
 
 
@@ -2916,7 +2916,7 @@ Cuando el usuario presione el ícono “Categories” en el tab bar, se desplega
 Y observamos las categorías principales desplegadas.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/181.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/181.%20Mobile%20MockUp.png)
 
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/182.%20Mobile%20MockUp.png)
@@ -2927,15 +2927,15 @@ Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artis
 
 ![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/183.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/184.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/184.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/185.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/185.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/186.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/186.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/187.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/187.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/189.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/189.%20Mobile%20MockUp.png)
 
 
 
@@ -2947,25 +2947,25 @@ Demostración de despliegue de opción dentro del rubro de Kpop, grupos de artis
 Al presionar el ícono de “Search”, el usuario tendrá que ingresar algún valor dentro del input de Buscar, le aparecerán los resultados relacionados a su búsqueda, en este caso, el usuario buscó al grupo de Kpop “Red Velvet”, por lo que le aparecieron los resultados de los productos de este grupo. Además, en la parte de arriba, hay un apartado de filtros de búsqueda, para perfeccionar su preferencia de búsqueda (en el caso de Kpop, dividiéndose en Álbumes, Lightsticks y Photobooks).
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/190.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/190.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/191.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/191.%20Mobile%20MockUp.png)
 
 
 Igualmente, para el rubro de ANIME:
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/192.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/192.%20Mobile%20MockUp.png)
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/193.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/193.%20Mobile%20MockUp.png)
 
 
 Y el rubro de Lectura:
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/194.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/194.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/195.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/195.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2976,14 +2976,14 @@ Y el rubro de Lectura:
 Cuando el usuario presione a algún producto de su interés, se redireccionará a una pantalla con los detalles del producto como el precio, stock disponible, imágenes de referencia y la cantidad que el usuario desee comprar. Además de botones para comprar o añadir al carrito.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/196.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/196.%20Mobile%20MockUp.png)
 
 Igualmente, para el rubro de ANIME y el rubro de Lectura.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/197.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/197.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/198.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/198.%20Mobile%20MockUp.png)
 
 
 <br><br>
@@ -2993,20 +2993,20 @@ Igualmente, para el rubro de ANIME y el rubro de Lectura.
 
 Cuando el usuario, esté en “Home”, le dé click a un rubro en particular, como muestra el siguiente wireframe: 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/199.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/199.%20Mobile%20MockUp.png)
 
 Se dirigirá al perfil del rubro, en este caso, de K-pop, el cual mostrará un carrusel con los nuevos productos de Kpop dentro de AKIRA.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/200.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/200.%20Mobile%20MockUp.png)
 
 
 
 De la misma forma para el rubro del ANIME y Lectura. Además, mostrará todos los artistas de los que existen productos dentro de AKIRA mediante carruseles con imágenes.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/201.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/201.%20Mobile%20MockUp.png)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/202.%20Mobile%20MockUp.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/202.%20Mobile%20MockUp.png)
 
 
 
@@ -3095,7 +3095,7 @@ Mejor visualización en el link de LucidChart
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/214.%20Wireflow%20C.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/214.%20Wireflow%20C.png)
 
 
 <br><br>
@@ -3104,7 +3104,7 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/215.%20User%20goal%20D.PNG)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/215.%20User%20goal%20D.PNG)
 
 
 
@@ -3112,12 +3112,12 @@ Mejor visualización en el link de LucidChart
 *Happy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
 
 *Unhappy Path D:* Cuando el usuario haya realizado una búsqueda desde el input “Buscar” dentro del navbar, podrá visualizar el campo de Filtros de búsqueda que ofrece AKIRA, los cuales variarán dependiendo a la/s categoría/s relacionadas a la búsqueda.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/216.%20Happy%20Path%20D.png)
 
 
 
@@ -3125,7 +3125,7 @@ Mejor visualización en el link de LucidChart
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/218.%20Wireflow%20D.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/218.%20Wireflow%20D.png)
 
 
 
@@ -3135,25 +3135,25 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/219.%20User%20Goal%20E.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/219.%20User%20Goal%20E.png)
 
 
 
 
 *Happy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
 
 *Unhappy Path E:* Cuando el usuario esté visualizando un producto de su interés y desee agregarlo a su carrito, solo deberá presionar el botón de Agregar al Carrito, asegurándose que la cantidad de producto que esté seleccionada, sea la que el usuario desee (por default, la cantidad de productos a comprar es “1 item”). Para visualizar su carrito, deberá presionar el botón de carrito dentro del navbar de AKIRA, y si desea comprar su carrito, solo deberá visualizar el carrito, presionar “Ir al CheckOut”, revisar que todos los datos de envío sean correctos, y presionar el botón de Comprar.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/220.%20Happy%20Path%20E.png)
 
 
 *Visualización completa del Wireflow E:*
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/222.%20Wireflow%20%20E%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/222.%20Wireflow%20%20E%20.png)
 
 
 <br><br>
@@ -3162,18 +3162,17 @@ Mejor visualización en el link de LucidChart
 
 *User Goals relacionados*
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/223.%20User%20Goal%20F%20.png)
-
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/223.%20User%20Goal%20F%20.png)
 
 
 
 *Happy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
 
 *Unhappy Path F:* Cuando el usuario desee contactar con AKIRA, es decir, el soporte técnico o alguien que maneje la página, podrá darle click a “Contáctanos”, opción ubicada dentro del navbar de AKIRA, o también ubicada dentro del Hamburger icon. Cuando acceda a la pantalla de Contactanos, podrá visualizar el correo, teléfono y redes sociales de AKIRA.
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/224.%20Happy%20Path%20F%20.png)
 
 
 
@@ -3181,7 +3180,7 @@ Mejor visualización en el link de LucidChart
 
 Mejor visualización en el link de LucidChart
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/226.%20Wireflow%20F%20.png)
+![Falla](https://github.com/nirvagarcia/PruebaMd/blob/main/img/226.%20Wireflow%20F%20.png)
 
 
 
@@ -3197,13 +3196,13 @@ Link de Figma
 
 https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 
 
-![Alt text](img/image-109.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-109.png)
 
 En el siguiente video, mostramos la visualización de nuestro prototipado Web, ejecutado en Figma. Apreciamos todas las funcionalidades de Akira.
 
 [upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EaAWfXkVraVKiB1JAaHffIwBFcuzi5YuXJJ6ZIPOnwvdpw?e=hzgQwh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![Alt text](img/image-110.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-110.png)
 
 
 En el siguiente video, mostramos una visualización de nuestro prototipado móvil, realizado en Figma. Apreciamos todas las funcionalidades de Akira.
@@ -3212,7 +3211,7 @@ URL video de prototipado Mobile Version:
 
 [upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EX7ihQI8gWhNtMnqskgYwbEB54X0uZlhPbw5uPp9_UyUow?e=W9H2wu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![Alt text](img/image-111.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-111.png)
 
 
 <br><br>
@@ -3583,7 +3582,9 @@ https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications
 <br><br>
 
 **Implementación del Gitflow**
-![Alt text](img/image-113.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-113.png)
+
 https://miro.com/app/board/uXjVP9nKvvY=/?share_link_id=718024690492 
 
 Git Flow es un modelo de flujo de trabajo para el control de versiones con el sistema de control de versiones Git. Para este proyecto, nuestra estructura de ramas está compuesta por tres branches: Master, Develop y Feature, que explicaremos a detalle a continuación.
@@ -3606,37 +3607,41 @@ La implementación de Git Flow en el proyecto nos proporcionará un flujo de tra
 
 
 Se crearon tres repositorios, Landing Page, Web Services y Frontend Web Applications
-![Alt text](img/image-123.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-123.png)
  
 Visualizamos la creación de las tres ramas por cada repositorio (master, develop y feature)
-![Alt text](img/image-121.png)
-![Alt text](img/image-122.png)
-![Alt text](img/image-120.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-121.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-122.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-120.png)
    
  
 Ahora, procedemos a mostrar el control de versiones por cada rama y por cada repositorio, iniciando con el Lading Page Repository
 En la rama master, observamos una versión estable y desplegada.
-![Alt text](img/image-119.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-119.png)
  
 En la rama develop, mostramos dos versiones que fueron subidas y probadas, en donde la v1.0 contiene toda la estructura del Landing Page (navbar no funcional, los productos, secciones, aliados y footer), y la v1.1 contiene el la agregación de funcionalidad en el navbar (hamburger icon) y del hover de los productos, que muestra detalles de estos.
-![Alt text](img/image-118.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-118.png)
  
 
 En la rama feature, se subió la v1.1, ya que aquí se presentó la agregación de una funcionalidad, la funcionalidad del navbar (hamburger icon) y la funcionalidad del hover en las imágenes de lo productos de Akira.
-![Alt text](img/image-117.png) 
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-117.png) 
  
 Continuamos mostrando el uso de Git Flow en Frontend Web Applications Repository:
 En la rama master, se visualizan las 4 versiones estables de Akira en cuanto a FrontEnd. La v1 se desarrolló la estructura básica del proyecto, la cual cuenta con un navbar, la ubicación responsive de los productos mostrados en home y el Login/Signup de usuarios. La v2 implementa la sección de búsqueda de productos. En la v3 se implementa la sección del carrito, órdenes y productos. En la v4, se implementan los estilos (css), el perfil de usuario, mejoras del navbar y despliegue de categorías (Hamburger icon en navbar).
-![Alt text](img/image-116.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-116.png)
  
 En cuanto a la rama develop, esta cuenta con 5 versiones, y cabe mencionar que la v1.0 contaba con fallas en el registro y login de usuario, fallas que se levantaron para la v1.1 (esta versión es la considerada v1 en la rama master). El resto de versiones ya fue explicado anteriormente.
- ![Alt text](img/image-115.png)
+ ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-115.png)
 
  
 En la rama feature, se especifican las características y funcionalidades agregadas, mostrando que en la v1.1 se implementa la sección de Login/SignUp, el buscador y el carrito. En la v2.0 se corrige la funcionalidad de Login/SignUp. En la versión 3.0 se implementa la sección de órdenes y productos. Y en la v4.0 se implementa la sección de user profile y categorías.
  
 
-![Alt text](img/image-114.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-114.png)
  
 
 
@@ -3861,9 +3866,9 @@ ___
 
 ## 5.2.1.1. Sprint Planning 1
 
-![Alt text](img/image-219.png)
-![Alt text](img/image-220.png)
-![Alt text](img/image-221.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-219.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-220.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-221.png)
 
 
 
@@ -3874,9 +3879,9 @@ ___
 ## 5.2.1.2. Sprint Backlog 1
 
 Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
-![Alt text](img/image-124.png)
-![Alt text](img/image-125.png)
-![Alt text](img/image-126.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-124.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-125.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-126.png)
 
 
 
@@ -3891,8 +3896,8 @@ En este primer Sprint, los avances en implementación sobre el producto (Landing
 
 **Repositorio Landing Page:**
 
-![Alt text](img/image-127.png)
-![Alt text](img/image-128.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-127.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-128.png)
 
 
 
@@ -3900,14 +3905,14 @@ En este primer Sprint, los avances en implementación sobre el producto (Landing
 
 **Repositorio Acceptance Test (Gherkin):**
 
-![Alt text](img/image-129.png)
-![Alt text](img/image-130.png)
-![Alt text](img/image-131.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-129.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-130.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-131.png)
 
 <BR><BR>
 
 **Repositorio Project Statement:**
-![Alt text](img/image-132.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-132.png)
 
 
 
@@ -3921,7 +3926,7 @@ En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el 
 
 URL video evidencia implementación del sprint: [Video Producto Sprint 1](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1)
 
-![Alt text](img/image-133.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-133.png)
 
 
 
@@ -3933,49 +3938,49 @@ URL video evidencia implementación del sprint: [Video Producto Sprint 1](https:
 **US-01 Creación de landing page atractiva:** Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
-![Alt text](img/image-145.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-145.png)
 
  
 
 **US-02 Interfaz intuitiva para comprender la propuesta de valor de Lambders:** Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
-![Alt text](img/image-146.png)
-![Alt text](img/image-147.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-146.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-147.png)
 
   
 
 **US-03 Implementación de landing page responsive:** Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
-![Alt text](img/image-148.png)
-![Alt text](img/image-149.png)
-![Alt text](img/image-150.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-148.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-149.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-150.png)
 
 
 **US-04 Sección sobre el producto Akira en la landing page:** Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
-![Alt text](img/image-151.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-151.png)
 
 
 **US-05 Sección de segmentos objetivos en landing page:** Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
- ![Alt text](img/image-137.png)
+ ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-137.png)
 
 **US-06 Sección "Acerca de nosotros" en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
-![Alt text](img/image-136.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-136.png)
  
 
 **US-07 Sección de aliados en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
-![Alt text](img/image-135.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-135.png)
  
 **US-08 Sección de contacto Lambders en landing page:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
-![Alt text](img/image-134.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-134.png)
  
 
 
@@ -3997,8 +4002,8 @@ En este Sprint (Sprint 1), se logró desarrollar el landing page de Lambers, el 
 Desarrollar la función de búsqueda y compra de productos en la página para segmento de compradores 
 
 En mención al Deployment de la landing page, empleamos Github Pages para su correcto despliegue.
-![Alt text](img/image-222.png)
-![Alt text](img/image-223.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-222.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-223.png)
 
 
 <br>
@@ -4008,49 +4013,49 @@ En mención al Deployment de la landing page, empleamos Github Pages para su cor
 **US-01 Creación de landing page atractiva:** Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.
 
 Observamos la implementación de este user story, logrando realizar una landing page visualmente atractiva.
-![Alt text](img/image-145.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-145.png)
 
  
 
 **US-02 Interfaz intuitiva para comprender la propuesta de valor de Lambders:** Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.
 
 Observamos la implementación de este user story, logrando realizar una landing page intuitiva en cuanto a botones, navbar, hamburger icon y secciones en toda la page.
-![Alt text](img/image-146.png)
-![Alt text](img/image-147.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-146.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-147.png)
 
   
 
 **US-03 Implementación de landing page responsive:** Como usuario, quiero interactuar con un landing page responsive, para que se adapte a mi resolución de pantalla.
-![Alt text](img/image-148.png)
-![Alt text](img/image-149.png)
-![Alt text](img/image-150.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-148.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-149.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-150.png)
 
 
 **US-04 Sección sobre el producto Akira en la landing page:** Como usuario, quiero que la landing page de Lambders me muestre una sección dando a conocer su producto Akira, para así poder generar mi atención y curiosidad hacia este.
 Se logró implementar esta user story, desarrollando una sección promocionando Akira.
-![Alt text](img/image-151.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-151.png)
 
 
 **US-05 Sección de segmentos objetivos en landing page:** Como usuario, quiero que la landing page de Lambders me muestre los segmentos objetivos con los que busca un enfoque para realizar sus productos, para poder descubrir si soy parte de este o simplemente informarme sobre aquello.
 
 Se implementó este user story, desarrollando una seción que muestre nuestros segmentos objetivos.
- ![Alt text](img/image-137.png)
+ ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-137.png)
 
 **US-06 Sección "Acerca de nosotros" en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección de "Acerca de nosotros" que presente la historia de la empresa, su misión y valores, para entender mejor su propósito y generar confianza en la marca.
 
 Se implementó este user story, desarrollando una seción de “Quienes son Lambders”, mostrando detalles de nuestro startup.
-![Alt text](img/image-136.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-136.png)
  
 
 **US-07 Sección de aliados en landing page:** Como usuario, quiero que la landing page de Lambders tenga una sección que me muestre a todos sus aliados en cuanto a Empresas Asiáticas con las que trabaja, para que me inspiren confianza.
 
 Se implementó este user story, desarrollando una sección que muestre todos nuestros aliados para importar productos asiáticos.
-![Alt text](img/image-135.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-135.png)
  
 **US-08 Sección de contacto Lambders en landing page:** Como usuario, quiero que la landing page de Akira tenga una sección de contacto claramente visible, con información de contacto como dirección de correo electrónico o número de teléfono, para poder comunicarme con el equipo o hacer consultas.
 
 Se implementó este user story, desarrollando una seción que muestre diversas maneras de contactar a el startup Lambders, dueños de Akira.
-![Alt text](img/image-134.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-134.png)
  
 
 
@@ -4064,13 +4069,13 @@ ___
 En repositorio Landing Page
 a. Nirvana García
 Creé las carpetas para cada versión de Landing Page (en cada rama correspondiente) y en cada carpeta, subí nuestra versión desarrollada. La rama master alberga la V1, la rama feature tiene la v1.1 (donde se implementa la funcionalidad de navbar y hover en imagenes) 
-![Alt text](img/image-166.png)
-![Alt text](img/image-165.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-166.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-165.png)
   
 
 b. Michelle Moreno
 Subí la primera versión de landing page entregada en la TB1 del curso, posteriormente se resubió para colocarle la correcta nomenclatura de commits. El commit “clear” lo realicé para limpiar el repositorio y rehacerlo con la correcta nomenclatura de commits.
- ![Alt text](img/image-164.png)
+ ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-164.png)
 
 
 
@@ -4079,22 +4084,22 @@ Subí la primera versión de landing page entregada en la TB1 del curso, posteri
 En Acceptance Test (Gherkin) 
 a. Nirvana García
 Realicé el commit inicial del repositorio, el cual se general automáticamente.
-![Alt text](img/image-163.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-163.png)
  
 
 c. Marcelo Scerpella
 Realicé una limpieza de archivos erróneos en el repositorio.
- ![Alt text](img/image-162.png)
+ ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-162.png)
 
 d. Michelle Moreno
 Agregué los archivos .feature de los US-01  al US-10, dentro de la rama master.
-![Alt text](img/image-161.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-161.png)
  
  
 d. Luis Aquije
 Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
-![Alt text](img/image-159.png)
-![Alt text](img/image-160.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-159.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-160.png)
 
   
 
@@ -4102,25 +4107,25 @@ Agregué los archivos .feature de los US-11  al US-31, dentro de la rama master.
 En Project Report
 a. Nirvana García
 Agregué contenido del informe
-![Alt text](img/image-157.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-157.png)
  
 
 b. Gabriel Bernal
 Agregué contenido del informe
-![Alt text](img/image-158.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-158.png)
  
 c. Marcelo Scerpella
 Agregué contenido del informe
-![Alt text](img/image-154.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-154.png)
  
 
 d. Michelle Moreno
 Agregué contenido del informe
-![Alt text](img/image-153.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-153.png)
  
 d. Luis Aquije
 Agregué contenido del informe
-![Alt text](img/image-152.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-152.png)
 
 
 
@@ -4131,11 +4136,11 @@ ___
 # 5.2.2 Sprint 2
 
 ## 5.2.2.1. Sprint Planning 2
-![Alt text](img/image-167.png)
-![Alt text](img/image-168.png)
-![Alt text](img/image-169.png)
-![Alt text](img/image-170.png)
-![Alt text](img/image-171.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-167.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-168.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-169.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-170.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-171.png)
 
 
 <br><br>
@@ -4145,12 +4150,12 @@ ___
 ## 5.2.2.2. Sprint Backlog 2
 
 Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
-![Alt text](img/image-172.png)
-![Alt text](img/image-173.png)
-![Alt text](img/image-174.png)
-![Alt text](img/image-175.png)
-![Alt text](img/image-176.png)
-![Alt text](img/image-177.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-172.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-173.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-174.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-175.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-176.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-177.png)
 
 
 
@@ -4162,11 +4167,11 @@ ___
 ## 5.2.2.3. Development Evidence for Sprint Review
 
 Repositorio Frontend Web Application:
-![Alt text](img/image-178.png)
-![Alt text](img/image-179.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-178.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-179.png)
 
 Repositorio Project Statement:
-![Alt text](img/image-180.png)
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-180.png)
 
 
 
@@ -4182,7 +4187,8 @@ En este Sprint (Sprint 2), se logró desarrollar el frontend web application del
 
 URL video evidencia implementación del sprint: 
 https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1
-![Alt text](img/image-181.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-181.png)
 
 <BR><BR>
 
@@ -4190,18 +4196,21 @@ https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/st
 
 **US-10 Creación de cuenta en la aplicación**
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-224.png)
 
 
  
 **US-11 Inicio de sesión en la aplicación**
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-225.png)
  
 
  
 **US-12 Gestión de cuenta del usuario en la aplicación**
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-226.png)
 
  
@@ -4209,48 +4218,57 @@ Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agrega
 
 **US-13 Acceso rápido a funciones de cuenta desde cualquier lugar de la aplicación**
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-227.png)
 
  
 **US-14 Cierre de sesión en la aplicación**
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-228.png)
 
 
  
 **US-15 Visualización de información de cuenta del usuario en la aplicación**
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-229.png)
  
 
 
 **US-16 Cambio de contraseña en la aplicación Akira**
 Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-230.png)
 
 **US-17 Historial de compras y estado de los pedidos en perfil del usuario dentro de la aplicación**
 Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-231.png)
 
 
 **US-18 Eliminar permanentemente la cuenta de Akira en la aplicación**
 Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-232.png)
 
  
 **US-19 Barra de búsqueda para filtrar productos por nombre en la aplicación**
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-233.png)
  
 
 
 **US-20 Filtrado de productos por categorías en la aplicación**
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
- ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-234.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-234.jpeg)
 
 
 **US-21 Disponibilidad en tiempo real de los productos en la aplicación**
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-235.png)
  
 
@@ -4258,59 +4276,71 @@ Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real
 
 **US-22 Visualización detallada del producto en la aplicación**
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-236.png)
  
 
  
 **US-23 Agregar productos al carrito de compras en la aplicación**
 Como usuario, quiero poder agregar el producto a mi carrito de compras.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-237.png)
 
 
 **US-24 Modificar la cantidad de unidades de los productos a comprar en la aplicación**
 Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-238.png)
 
 
 **US-25 Resumen de productos en el carrito antes de checkout en la aplicación**
 Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-239.png)
 
 
 **US-26 Modificar cantidades y eliminar productos del carrito de compras en la aplicación**
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
- ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-240.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-240.jpeg)
 
 
 **US-27 Modificar la dirección de envío en la aplicación**
 Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-241.png)
 
 
 **US-28 Modificar el método de pago en la aplicación**
 Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-242.png)
 
 
 **US-29 Confirmación de compra exitosa en la aplicación**
 Como usuario, quiero recibir una confirmación de compra exitosa.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-243.png)
 
 
 **US-30 Registro de pedidos en el historial del usuario en la aplicación**
 Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-244.png)
 
 **US-31 Seguimiento del progreso del envío en la aplicación**
 Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-245.png)
 
 **US-32 Comunicación con Akira en la aplicación**
 Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-246.png)
 
 **US-33 Visualización de las redes sociales de Akira en la aplicación**
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
+
  ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-247.png)
  
 
@@ -4322,139 +4352,162 @@ Como usuario, quiero visualizar las redes sociales de la tienda para poder encon
 En este Sprint (Sprint 2), se logró desarrollar el frontend web application del e-commerce Akira, el cual cuenta con el propósito de ser un producto intuitivo, agradable y que satisfaga la demanda actual de consumidores de productos del entretenimiento asiático.
 
 En cuanto al Deployment de este producto para el Sprint 2, se desplegó nuestro Frontend mediante Github Pages.
+
  ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-248.png)
+ 
   ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-249.png)
 
 
-US-10 Integración de sistema de registro/inicio de sesión
+**US-10 Creación de cuenta en la aplicación**
 Como usuario, quiero ser capaz de crear una cuenta para poder hacer compras en Akira de manera segura.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-224.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-224.png)
 
 
  
-US-11 Integración de sistema de registro/inicio de sesión
+**US-11 Inicio de sesión en la aplicación**
 Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los lo que ofrece Akira
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-225.png)
 
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-225.png)
+ 
 
  
-US-12 Implementación de perfil de usuario
+**US-12 Gestión de cuenta del usuario en la aplicación**
 Como usuario, quisiera poder gestionar mi cuenta, para poder actualizar o agregar mi información actual.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-226.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-226.png)
 
  
 
 
-US-13 Implementación de perfil de usuario
+**US-13 Acceso rápido a funciones de cuenta desde cualquier lugar de la aplicación**
 Como usuario, quiero poder tener un pequeño acceso a las funciones más importantes relacionadas a mi cuenta desde cualquier página de la aplicación.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-227.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-227.png)
 
  
-US-14 Implementación de perfil de usuario
+**US-14 Cierre de sesión en la aplicación**
 Como usuario quiero ser capaz de cerrar sesión en mi cuenta luego de haber usado la aplicación, para tener la certeza de que nadie que use la computadora después de mi pueda acceder a mis datos de la aplicación o a la información personal que le he brindado a la misma.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-228.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-228.png)
+
 
  
-US-15 Implementación de perfil de usuario
+**US-15 Visualización de información de cuenta del usuario en la aplicación**
 Como usuario, quiero poder visualizar información detallada los datos de mi cuenta.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-229.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-229.png)
  
 
 
-US-16 Implementación de perfil de usuario
+**US-16 Cambio de contraseña en la aplicación Akira**
 Como usuario, quiero poder cambiar mi contraseña por si deseo añadirle mayor seguridad a mi cuenta.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-230.png)
 
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-230.png)
 
-US-17 Implementación de perfil de usuario
+**US-17 Historial de compras y estado de los pedidos en perfil del usuario dentro de la aplicación**
 Como usuario, quiero poder ver mi historial de compras, pedidos pendientes y visualizar el estado de mis pedidos en mi perfil.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-231.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-231.png)
 
 
-US-18 Implementación de perfil de usuario
+**US-18 Eliminar permanentemente la cuenta de Akira en la aplicación**
 Como usuario, quiero tener la opción de eliminar permanentemente mi cuenta de Akira si decido dejar de utilizar la plataforma.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-232.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-232.png)
 
  
-US-19 Búsqueda de productos y filtrado
+**US-19 Barra de búsqueda para filtrar productos por nombre en la aplicación**
 Como usuario quiero una barra de búsqueda que me permita filtrar los productos por nombre para poder encontrar los productos que busco más fácilmente.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-233.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-233.png)
  
 
 
-US-20 Búsqueda de productos y filtrado
+**US-20 Filtrado de productos por categorías en la aplicación**
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-234.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-234.jpeg)
 
 
-US-21 Categorización de productos
+**US-21 Disponibilidad en tiempo real de los productos en la aplicación**
 Como usuario, quiero poder ver la disponibilidad de los productos en tiempo real.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-235.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-235.png)
  
 
 
- 
 
-US-22 Categorización de productos
+**US-22 Visualización detallada del producto en la aplicación**
 Como usuario, que me den funcionalidades de visualización del producto, tales como ver especificaciones de este, fotos referenciales del producto y demás, para poder tomar la decisión de comprar el producto.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-236.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-236.png)
  
 
  
-US-23 Proceso de compra
+**US-23 Agregar productos al carrito de compras en la aplicación**
 Como usuario, quiero poder agregar el producto a mi carrito de compras.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-237.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-237.png)
 
 
-US-24 Proceso de compra
+**US-24 Modificar la cantidad de unidades de los productos a comprar en la aplicación**
 Como usuario, quiero poder modificar (aumentar o disminuir) la cantidad de unidades que deseo adquirir por producto.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-238.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-238.png)
 
 
-US-25 Proceso de compra
+**US-25 Resumen de productos en el carrito antes de checkout en la aplicación**
 Como usuario, quiero poder ver un resumen de los productos en mi carrito antes de proceder al pago.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-239.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-239.png)
 
 
-US-26 Proceso de compra
+**US-26 Modificar cantidades y eliminar productos del carrito de compras en la aplicación**
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-240.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-240.jpeg)
 
 
-US-27 Proceso de compra
+**US-27 Modificar la dirección de envío en la aplicación**
 Como usuario, quiero tener la opción modificar mi dirección de envio por si deseo que este llegue a otro lugar.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-241.png)
- 
 
-US-28 Proceso de compra
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-241.png)
+
+
+**US-28 Modificar el método de pago en la aplicación**
 Como usuario, quiero tener la opción modificar mi método de pago, por si deseo realizar la compra con otra tarjeta.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-242.png)
- 
 
-US-29 Proceso de compra
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-242.png)
+
+
+**US-29 Confirmación de compra exitosa en la aplicación**
 Como usuario, quiero recibir una confirmación de compra exitosa.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-243.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-243.png)
 
 
-US-30 Proceso de compra
+**US-30 Registro de pedidos en el historial del usuario en la aplicación**
 Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-244.png)
 
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-244.png)
 
-US-31 Proceso de compra
+**US-31 Seguimiento del progreso del envío en la aplicación**
 Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-245.png)
- 
 
-US-32 Contacto con Akira
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-245.png)
+
+**US-32 Comunicación con Akira en la aplicación**
 Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-246.png)
 
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-246.png)
 
-US-33 Contacto con Akira
+**US-33 Visualización de las redes sociales de Akira en la aplicación**
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
- ![Alt text]( https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-247.png)
+
+ ![Alt text](https://github.com/SI729-Grupo2-WS52-Open-Source/Project-Report/blob/master/img/image-247.png)
  
+
 
 
 
@@ -4463,47 +4516,68 @@ Como usuario, quiero visualizar las redes sociales de la tienda para poder encon
 En FrontEnd Web Application
 
 a. Nirvana García
+
 Agregué las v1, v2 y v3 del frontend dentro de la rama master. Agregué la v1.0, v3.0 y v4.0 en la rama develop. Finalmente, agregué las nuevas secciones (4 en total) en la rama feature.
-![Alt text](img/image-202.png)
-![Alt text](img/image-203.png)
-![Alt text](img/image-204.png)   
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-202.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-203.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-204.png)   
  
 
 b. Gabriel Bernal
+
 Realicé un arreglo de cambio de interfaces en nuestra rama master.
-![Alt text](img/image-205.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-205.png)
  
 
  
 c. Marcelo Scerpella
+
 Agregué la v2.0 y v1.1 de la rama develop, además de eliminar versiones erróneamente subidas en esta rama.
-![Alt text](img/image-206.png) 
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-206.png) 
 
 d. Michelle Moreno
+
 Agregué la v4 del frontend en la rama master y limpié archivos.
-![Alt text](img/image-207.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-207.png)
   
 En Project Report
+
 a. Nirvana García
+
 Agregué contenido del informe
-![Alt text](img/image-208.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-208.png)
  
 
 b. Gabriel Bernal
+
 Agregué contenido del informe
-![Alt text](img/image-209.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-209.png)
  
 c. Marcelo Scerpella
+
 Agregué contenido del informe
-![Alt text](img/image-210.png)
+
+![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-210.png)
  
 
 d. Michelle Moreno
+
 Agregué contenido del informe
+
 ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-211.png)
  
 e. Luis Aquije
+
 Agregué contenido del informe
+
  ![Alt text](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-212.png)
  
 
@@ -4671,6 +4745,7 @@ ___
 **Anexo C: Gráfica How Much**
 
 Nota: Información del 21 de septiembre del 2022. De “Ingresos de la industria japonesa de animación procedentes de las emisiones de televisión entre 2002 y 2020”. Statista, 2022. (https://es.statista.com/estadisticas/592763/ingresos-de-las-series-televisivas-de-anime-japones/#:~:text=Esta%20estad%C3%ADstica%20refleja%20la%20evoluci%C3%B3n,millones%20de%20yenes%20en%202020.)
+
 ![Anexo C](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-213.png)
 
 
@@ -4680,6 +4755,7 @@ ___
 
 **Anexo D: Gráfica How Much**
 Comparación entre BTS y Ariana Grande a través de Google Trends
+
 ![Anexo D](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-214.png)
 
 
@@ -4691,6 +4767,7 @@ ___
 
 Url para mejor visualización: 
 https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view
+
 ![Prueba anexo E](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-215.png)
 
 
