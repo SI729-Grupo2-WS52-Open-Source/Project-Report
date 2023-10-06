@@ -3921,7 +3921,8 @@ Link de Figma
 
 https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-109.png)
+![image](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-109.png)
+
 
 *Imagen 272: Prototipado en Figma*
 <br>
@@ -3930,7 +3931,7 @@ En el siguiente video, mostramos la visualización de nuestro prototipado Web, e
 
 [upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EaAWfXkVraVKiB1JAaHffIwBFcuzi5YuXJJ6ZIPOnwvdpw?e=hzgQwh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-110.png)
+![image](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-110.png)
 
 
 
@@ -3944,7 +3945,8 @@ URL video de prototipado Mobile Version:
 
 [upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EX7ihQI8gWhNtMnqskgYwbEB54X0uZlhPbw5uPp9_UyUow?e=W9H2wu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![image](https://github.com/nirvagarcia/PruebaMd/blob/main/img/image-111.png)
+![image](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-111.png)
+
 
 *Imagen 274: Video de Prototipado Móvil*
 
@@ -4640,11 +4642,11 @@ ___
 
 En este caso usaremos Git y github
 Git: Es un sistema de control de versiones distribuido ampliamente utilizado en el desarrollo de software. Fue creado por Linus Torvalds en 2005 y se ha convertido en una herramienta fundamental para el trabajo colaborativo y el seguimiento de cambios en proyectos de código abierto y privados. Una de las principales ventajas de Git es su capacidad para realizar un seguimiento de los cambios realizados en los archivos de un proyecto a lo largo del tiempo. Utilizando Git, los desarrolladores pueden crear ramas, realizar cambios en ellas y fusionarlos de manera eficiente. Esto permite que múltiples desarrolladores trabajen en diferentes aspectos del proyecto al mismo tiempo, sin interferir entre sí.
-Git utiliza un modelo de sistema distribuido, lo que significa que cada desarrollador tiene una copia completa del repositorio, incluyendo todo el historial de cambios. Esto proporciona una mayor flexibilidad y seguridad, ya que cada desarrollador puede trabajar de manera independiente y realizar cambios en su propia copia local sin afectar el trabajo de los demás. Los cambios se pueden compartir y sincronizar a través de repositorios remotos, como GitHub, que facilita la colaboración en equipo. Además, Git ofrece una serie de características y comandos que facilitan la gestión de versiones. Por ejemplo, se pueden crear ramas para trabajar en nuevas funcionalidades o corregir errores sin afectar la rama principal del proyecto. También se pueden realizar fusiones para combinar los cambios de diferentes ramas y mantener un flujo de trabajo coherente. Otra característica destacada de Git es su capacidad para revertir cambios y realizar seguimiento de versiones anteriores. Esto permite a los desarrolladores retroceder en el tiempo y recuperar versiones anteriores del código, lo que resulta útil en caso de errores o necesidad de realizar cambios retrospectivos.
+Git utiliza un modelo de sistema distribuido, lo que significa que cada desarrollador tiene una copia completa del repositorio, incluyendo todo el historial de cambios. Esto proporciona una mayor flexibilidad y seguridad, ya que cada desarrollador puede trabajar de manera independiente y realizar cambios en su propia copia local sin afec227tar el trabajo de los demás. Los cambios se pueden compartir y sincronizar a través de repositorios remotos, como GitHub, que facilita la colaboración en equipo. Además, Git ofrece una serie de características y comandos que facilitan la gestión de versiones. Por ejemplo, se pueden crear ramas para trabajar en nuevas funcionalidades o corregir errores sin afectar la rama principal del proyecto. También se pueden realizar fusiones para combinar los cambios de diferentes ramas y mantener un flujo de trabajo coherente. Otra característica destacada de Git es su capacidad para revertir cambios y realizar seguimiento de versiones anteriores. Esto permite a los desarrolladores retroceder en el tiempo y recuperar versiones anteriores del código, lo que resulta útil en caso de errores o necesidad de realizar cambios retrospectivos.
 Su empleabilidad nos permitirá controlar las herramientas de nuestro software, vamos a guardar diferentes archivos o versiones a lo largo de las diferentes etapas en un proyecto. Esto nos permite como desarrolladores, hacer un seguimiento de lo que ya tenemos hecho y poder resolver algunos problemas o cambios que se decidan a lo largo del proyecto
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/raw/main/img/251.%20Git.png)
+![image](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/251.%20Git.png)
 
 *Imagen 304: Git*
 
@@ -4655,7 +4657,7 @@ GitHub también es conocido por su comunidad activa y su enfoque en el código a
 Esta herramienta que nos facilitará la colaboración con git, esta es una plataforma que puede mantener repositorio de códigos en almacenamiento basado en la nube y facilita que varios trabajadores puedan trabajar en un solo proyecto pudiendo ver las ediciones propias de cada integrante mejorando el trabajo en equipo para los trabajos por hacer.
 
 
-![image](https://github.com/nirvagarcia/PruebaMd/raw/main/img/252.%20Github%20logo.png)
+![image](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/252.%20Github%20logo.png)
 
 *Imagen 305: GitHub*
 
@@ -5281,7 +5283,7 @@ Como usuario quiero una barra de búsqueda que me permita filtrar los productos 
 **US-20 Filtrado de productos por categorías en la aplicación**
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-234.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-234.jpeg)
  
  *Imagen 355: Implementación US-20*
  <br><br>
@@ -5337,7 +5339,7 @@ Como usuario, quiero poder ver un resumen de los productos en mi carrito antes d
 **US-26 Modificar cantidades y eliminar productos del carrito de compras en la aplicación**
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-240.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-240.jpeg)
  
  *Imagen 361: Implementación US-26*
  <br><br>
@@ -5521,7 +5523,7 @@ Como usuario quiero una barra de búsqueda que me permita filtrar los productos 
 **US-20 Filtrado de productos por categorías en la aplicación**
 Como usuario, quiero poder filtrar los productos existentes de acuerdo a categorías, para poder encontrar los productos que busco más fácilmente
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-234.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-234.jpeg)
  
  *Imagen 381: Implementación US-20*
  <br><br>
@@ -5578,7 +5580,7 @@ Como usuario, quiero poder ver un resumen de los productos en mi carrito antes d
 **US-26 Modificar cantidades y eliminar productos del carrito de compras en la aplicación**
 Como usuario, quiero poder modificar las cantidades de los productos en mi carrito de compras y eliminar productos si cambio de opinión.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-240.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-240.jpeg)
  
  *Imagen 387: Implementación US-26*
  <br><br>
@@ -5638,7 +5640,7 @@ Como usuario, quiero tener la opción de comunicarme con el servicio de atenció
 **US-33 Visualización de las redes sociales de Akira en la aplicación**
 Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.
 
- ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-247png)
+ ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-227.png)
  
  *Imagen 394: Implementación US-33*
  
