@@ -5844,8 +5844,7 @@ Como recomendaciones para esta primera fase del proyecto, se declaran las siguie
 
 ●	Mantener la actualización de AngularJS y Angular Material, ya que mbas tecnologías están en constante evolución, por lo que es importante mantenerse actualizado con las versiones más recientes. Esto te permitirá aprovechar nuevas características, mejoras de rendimiento y correcciones de errores, garantizando una mejor experiencia para los usuarios y facilitando el mantenimiento del código.
 
-
-
+<br>
 
 <br><br>
 ___
