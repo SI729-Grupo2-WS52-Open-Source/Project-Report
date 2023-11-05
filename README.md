@@ -4624,7 +4624,7 @@ Es un lenguaje de programación orientado a objetos, desarrollado por Sun Micros
 - Descriptions: Se pueden colocar debajo de Example , Background o Scenario. Proporciona una descripción de los respectivos.
 - Rule: Se utiliza para agrupar varios Scenario que pertenecen a una misma  business rule  . Su propósito es representar una business rule que debe implementarse.
 - Example: Consiste en una lista de pasos, puede tener una cantidad de pasos como deseemos, pero lo recomendable es de 3 a 5 pasos, porque tener demasiados recaería en una reducción de poder expresivo como documentación y especificación. También es considerada como un Test. La estructura es:
-- Describir un contexto inicial ( Given-pasos)
+- Describir un contexto inicial ( Given-pasos).
 - Describir un evento ( When-pasos)
 - Describir un resultado esperado ( Then-pasos)
 - Steps: Estos comienzan con Given, When, Then, And o But. Se usan para describir los pasos que seguirá el usuario.
