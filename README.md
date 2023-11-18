@@ -12,7 +12,8 @@ ___
 |------------------	|------------	|----------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Revisión 1 (TB1) 	| 01/09/2023 	| Lambders 	| -Creación del documento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	|
 | Revisión 2 (TP)  	| 23/09/2023 	| Lambders 	| -Aumento de conclusiones en Student Outcome<br><br>-Cambio de fotos en Startup Profiles<br><br>-Agregación de cuadro estadístico de entrevistas a ambos segmentos objetivos<br><br>-Aumento de información en el capítulo 5<br><br>-Agregación de imagen de entrevistador al lado del entrevistado (Entrevistas 6 y 7)<br><br>-Aumento de conclusiones (enfatizando entrevistas)<br><br>-Agregación de información en git flow.<br><br>-Modificación de commits, estos se adaptaron al estándar de commits en github<br><br>-Documentación de la nomenclatura de creación de commits en github<br><br>-Agregación de gherkin de los Acceptance Test (User Stories)<br><br>-Modificación de Story Points en User Stories<br><br>-Agregación del velocity en Sprint Planning 1<br><br>-Se redactó la determinación de los User Stories correspondientes a cada Sprint 	|
-|                  	|            	|          	|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|
+| Revisión 3 (TB2) | 30/09/2023 | Lambders | -Se agregaron títulos únicos a cada User Story <br> -Se creó la rama release en Gitflow <br> -Se mejoró la modalidad Responsive del Frontend Web Application |
+
 
 <br><br>
 ___
@@ -276,23 +277,51 @@ Student Outcome
    
     5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-    5.2.2. [Sprint 2](#521-sprint-1)
+    5.2.2. [Sprint 2](#522-sprint-2)
    
-    5.2.2.1. [Sprint Planning 2](#5211-sprint-planning-1)
+    5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-1)
    
-    5.2.2.2. [Sprint Backlog 2](#5212-sprint-backlog-1)
+    5.2.2.2. [Sprint Backlog 2](#5222-sprint-backlog-1)
    
-    5.2.2.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    5.2.2.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
    
-    5.2.2.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
    
-    5.2.2.5. [Execution Evidence for Sprint Review](#5214-execution-evidence-for-sprint-review)
+    5.2.2.5. [Execution Evidence for Sprint Review](#5224-execution-evidence-for-sprint-review)
    
-    5.2.2.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
    
-    5.2.2.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
    
-    5.2.2.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
+    5.2.3. [Sprint 3](#523-sprint-3)
+   
+   5.2.3.1. [Sprint Planning 3](#5231-sprint-planning-3)
+   
+   5.2.3.2. [Sprint Backlog 3](#5232-sprint-backlog-3)
+   
+   5.2.3.3. [Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+   
+   5.2.3.4. [Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+   
+   5.2.3.5. [Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+   
+   5.2.3.6. [Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+   
+   5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+   
+   5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+5.3. [Validation Interviews](#53-validation-interviews)
+   
+   5.3.1. [Diseño de entrevistas](#531-diseño-de-entrevistas)
+   
+   5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)
+   
+   5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+
+5.4. [Video About the Product](#54)
 
 [Conclusiones y recomendaciones]() 
 
@@ -5086,7 +5115,7 @@ Agregué contenido del informe
 ___
 <br>
 
-# 5.2.2 Sprint 2
+## 5.2.2 Sprint 2
 
 ## 5.2.2.1. Sprint Planning 2
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-167.png)
@@ -5743,16 +5772,577 @@ Agregué contenido del informe
  *Imagen 403: Collaboration de Lui*
  
 
+## 5.2.3 Sprint 3
 
-
-
+## 5.2.3.1. Sprint Planning 3
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-250.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-251.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-252.png)
 
 
 <br><br>
 ___
 <br>
 
-# Conclusiones y recomendaciones 
+## 5.2.3.2. Sprint Backlog 3
+
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story (Work-Item / Task)
+
+| EPIC ID              	| EPIC Title                                          	| US ID 	| US Title                                                                                   	| Description                                                                                                                                                                                                                                                                   	 |Tasks             | Estimation (Hours) 	| Assigned To       	| Status(To-Do/In Process/Done) 	|
+|----------------------	|-----------------------------------------------------	|-------	|--------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------	|-------------------	|-------------------------------	|
+| EP-08<br>#5187299  	| Desarrollo de Backend                          	| -US-34 	| Correcto modelado de las clases en Java    	| Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos. | -Definir la estructura de la base de datos <br><br>-Mapeo objeto-relacional (ORM)<br><br>-Asegurar la coherencia entre el modelo y la base de datos| -3 hours<br><br>-4 hours<br><br>-2 hours            	| Michelle Moreno    	| Done                          	|
+|  	|                          	| US-35	| Visualización de la estructura adecuada de packages de backend con java    	| Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service). | Implementar métodos de acceso a datos         | 6 hours 	| Nirvana Garcia    	| Done    
+|  	|                          	| US-36	| Comunicación con el Frontend de Akira   	| Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación. | Realizar conectividad         | 7 hours 	| Gabriel Bernal    	| Done    
+<br><br>
+___
+<br>
+
+## 5.2.3.3. Development Evidence for Sprint Review
+
+**Repositorio Web Services:**
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-253.png)
+
+
+<br><br>
+
+**Repositorio Acceptance-Tests:**
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-254.png)
+
+**Repositorio Project Statement:**
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-255.png)
+
+**Repositorio Landing Page:**
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-256.png)
+
+
+<br><br>
+___
+<br>
+
+## 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+Incluimos el código de los .feature Files, explicando con qué User Stories de nuestro Sprint 3 se relacionan. 
+
+Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherkin. En particular, realizamos esto para los user stories 34, 35 y 36.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-257.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-258.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-259.png)
+
+Posteriormente, realizamos un git pull a estos .feature en su Repository correspondiente, el cual se llama “Acceptance Test (Gherkin)”.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-260.png)
+
+Podemos visualizar la correcta subida de los archivos .feature en el repository a continuación:
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-261.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-262.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-263.png)
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+
+En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en Angular JS, pueda comunicarse con él.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-264.png)
+
+
+URL video evidencia implementación del sprint: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EUhZamuD7SVOs-rlIogbYF4BT_3GhJzJXFzucRZ6iiAwOA?e=MiV5fV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+
+**Evidencia de implementación por cada US#**
+
+**US-34 Visualización de la estructura adecuada de packages de backend con java**
+Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-265.png)
+
+<br><br>
+
+**US-35 Correcto modelado de las clases en Java**
+Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
+
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-266.png)
+
+En esta imagen se visualiza en la carpeta model la clase de Cart donde van todos los campos para esta clase (id, name, surname, email, password, payment) y se está modelando el carrito de compras de una aplicación. La clase Cart está anotada con JPA para mapeo a base de datos utilizando @Entity y @Table, esto permitirá persistir los objetos de esta clase en la tabla "cart". Definimos un atributo id de tipo Long que será la llave primaria generada automáticamente con GenerationType.IDENTITY.
+Se incluyen atributos como quantity para llevar el control de cantidades, userId para vincular cada carrito a un usuario y los campos del producto que irá en cada ítem del carrito.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-267.png)
+
+ 
+En esta clase Order se está modelando la entidad para representar los pedidos realizados en la aplicación. El atributo id es la primary key generada automáticamente. También se incluyen campos como email, address, contact para almacenar datos de envío y se lleva registro del precio total con el campo totalPrice. Esta clase permite representar de forma normalizada los pedidos realizados en la tienda, almacenando la información de envío requerida y vinculando cada registro con el usuario comprador.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-268.png)
+
+En esta clase Product se está modelando la entidad que representa los productos disponibles en la tienda. Se definen distintos atributos como nameCategory, name, price, color, category, description e image, los cuales permitirán almacenar los datos necesarios de cada producto. Anotaciones como @Column indican el mapeo a columnas en la tabla junto con validaciones como longitud y si son nulas o no. Este modelo relacional de producto facilita escalar la aplicación de forma que se puedan gestionar y mostrar de manera eficiente un amplio catálogo de artículos. Asimismo, representa correctamente los atributos más usuales que definen un producto en el contexto de una tienda electrónica.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-269.png)
+
+En esta clase Shipping se está modelando la entidad que representará los métodos y direcciones de envío de una orden. Se definen atributos como address, district, province para almacenar los datos de dirección de envío. También se incluyen campos para el método de pago como paymentMethod y una tarjeta vinculada linkedCard. Esta entidad permite almacenar de forma normalizada la información necesaria para gestionar tanto el envío como la forma de pago de cada pedido. Las anotaciones como @Column definen claramente el mapeo a columnas.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-270.png)
+
+En esta clase User se está modelando la entidad para representar a los usuarios registrados en la aplicación. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. Además, se dispone de un campo payment opcional para almacenar información de pago del usuario. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. También se dispone de un campo payment opcional para almacenar información de pago del usuario.
+
+**US-36 Comunicación con el Frontend de Akira**
+Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-271.png)
+ 
+
+## 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint. Debe elaborarse una tabla en la que se incluya, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Indicar las acciones soportadas incluyendo para cada acción el verbo http (get, post, put, delete, patch), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response. Adicionalmente, debe incluirse y explicarse capturas en imágenes de la interacción, utilizando datos de muestra, con la documentación elaborada. Debe incluirse el URL del repositorio de Web Services, junto con los id de los commits relacionados con Documentación para este Sprint. 
+
+**Detalles de Endpoints**
+Tabla de Endpoints, en donde visualizamos todos los métodos que podemos realizar en nuestro Backend.
+
+| MÉTODO  | ENDPOINT                                     	    | DESCRIPTION 	         	         	         	             |
+|---------|---------------------------------------------------|----------------------------------------------------------|
+| GET  	  | http://20.55.32.254:8080/products/popular/anime   | Obtenemos todos los productos populares del rubro anime  |
+| GET  	  | http://20.55.32.254:8080/products/popular/kpop    | Obtenemos todos los productos populares del rubro kpop   |
+| GET  	  | http://20.55.32.254:8080/products/popular/lectura | Obtenemos todos los productos populares del rubro lectura|
+| GET  	  | http://20.55.32.254:8080/products/popular         | Obtenemos todos los productos populares                  |
+| POST  	| http://20.55.32.254:8080/products/{data}          | Publicamos las data de los productos                     |
+| GET  	  | http://20.55.32.254:8080/products                 | Obtenemos todos los productos                            |
+| DELETE 	| http://20.55.32.254:8080/products/{id}            | Eliminamos un producto por id                            |
+| POST  	| http://20.55.32.254:8080/shipping?=               | Posteamos el shipping                                    |
+| POST  	| http://20.55.32.254:8080/users?=                  | Posteamos la información de un nuevo usuario             |
+| GET  	  | http://20.55.32.254:8080/users?=                  | Obtenemos todos los usuarios                             |
+| GET  	  | http://20.55.32.254:8080/orders?=                 | Obtenemos todas las ordenes                              |
+| DELETE  | http://20.55.32.254:8080/cart/{cartId}            | Eliminamos un carrito por su id                          |
+| DELETE  | http://20.55.32.254:8080/orders/{orderId}         | Eliminamos una orden por su id                           |
+| POST    | http://20.55.32.254:8080/cart?=                   | Posteamos un carrito                                     |
+| PUT     | http://20.55.32.254:8080/users/${userId}          | Reemplazamos los datos de usuario por user id            |
+| DELETE  | http://20.55.32.254:8080/users/${userId}          | Eliminamos un usuario por su usuario id                  |
+| PUT     | http://20.55.32.254:8080/shipping/${idShipping}   | Reemplazamos los datos de shipping por el id del shipping|
+
+**Postman**
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products], y la acción GET.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-272.png)
+
+
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/anime], y la acción GET.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-273.png)
+
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/kpop], y la acción GET.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-274.png)
+
+Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/products/popular], y la acción GET.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-275.png)
+
+Visualizamos la creación de nuestra base de datos desde la consola de Linux, mostrando las respectivas tablas.
+
+Tabla de Productos:
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-276.png)
+
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-277.png)
+
+Tabla de usuarios:
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-278.png)
+
+
+Swagger
+Mostramos el uso de Swagger en el Backend
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-279.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-280.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-281.png)
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en Angular JS, pueda comunicarse con él.
+
+
+En cuanto al Deployment de este producto para el Sprint 3, se desplegó nuestro Frontend mediante Github Pages y el Backend mediante Microsoft Azure y Sprint Boot.
+
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-282.png)
+
+Empleo de Spring Boot Initializr para la creación de la estructura de backend. Nuestro proyecto se ha realizado con Maven, el lenguaje de programación Java, la versión de Spring Boot 3.1.5, la versión 17 de Java y las dependencias correspondientes.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-283.png)
+
+Utilizamos Microsoft Azure para el despliegue del Backend.
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-284.png)
+
+Por otro lado, empleamos Netlify para el despliegue del Frontend
+Utilizamos Microsoft Azure para el despliegue del Backend.
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-285.png)
+
+**Evidencia de implementación por cada US#**
+
+**US-34 Visualización de la estructura adecuada de packages de backend con java**
+Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-286.png)
+
+**US-35 Correcto modelado de las clases en Java**
+Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-287.png)
+
+En esta imagen se visualiza en la carpeta model la clase de Cart donde van todos los campos para esta clase (id, name, surname, email, password, payment) y se está modelando el carrito de compras de una aplicación. La clase Cart está anotada con JPA para mapeo a base de datos utilizando @Entity y @Table, esto permitirá persistir los objetos de esta clase en la tabla "cart". Definimos un atributo id de tipo Long que será la llave primaria generada automáticamente con GenerationType.IDENTITY.
+Se incluyen atributos como quantity para llevar el control de cantidades, userId para vincular cada carrito a un usuario y los campos del producto que irá en cada ítem del carrito.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-288.png)
+
+En esta clase Order se está modelando la entidad para representar los pedidos realizados en la aplicación. El atributo id es la primary key generada automáticamente. También se incluyen campos como email, address, contact para almacenar datos de envío y se lleva registro del precio total con el campo totalPrice. Esta clase permite representar de forma normalizada los pedidos realizados en la tienda, almacenando la información de envío requerida y vinculando cada registro con el usuario comprador.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-289.png)
+
+En esta clase Product se está modelando la entidad que representa los productos disponibles en la tienda. Se definen distintos atributos como nameCategory, name, price, color, category, description e image, los cuales permitirán almacenar los datos necesarios de cada producto. Anotaciones como @Column indican el mapeo a columnas en la tabla junto con validaciones como longitud y si son nulas o no. Este modelo relacional de producto facilita escalar la aplicación de forma que se puedan gestionar y mostrar de manera eficiente un amplio catálogo de artículos. Asimismo, representa correctamente los atributos más usuales que definen un producto en el contexto de una tienda electrónica.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-290.png)
+
+En esta clase Shipping se está modelando la entidad que representará los métodos y direcciones de envío de una orden. Se definen atributos como address, district, province para almacenar los datos de dirección de envío. También se incluyen campos para el método de pago como paymentMethod y una tarjeta vinculada linkedCard. Esta entidad permite almacenar de forma normalizada la información necesaria para gestionar tanto el envío como la forma de pago de cada pedido. Las anotaciones como @Column definen claramente el mapeo a columnas.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-291.png)
+
+En esta clase User se está modelando la entidad para representar a los usuarios registrados en la aplicación. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. Además, se dispone de un campo payment opcional para almacenar información de pago del usuario. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. También se dispone de un campo payment opcional para almacenar información de pago del usuario.
+
+**US-36 Comunicación con el Frontend de Akira**
+Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-292.png)
+
+## 5.2.3.8. Team Collaboration Insights during Sprint 
+
+**En Project Report**
+
+a. Nirvana García
+
+Agregué el apartado de Heurísticas en el informe, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-293.png)
+
+Agregué el apartado de video about the product dentro del Landing Page. (feature branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-294.png)
+
+Agregué la versión 3.1 dentro del Landing Page. (develop branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-295.png)
+
+Agrupe la versión 3 del Landing Page (release branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-296.png)
+
+b. Gabriel Bernal
+
+Agregué el backend de Akira (main branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-297.png)
+
+
+c. Michelle Moreno
+
+Agregué el apartado de Sprint 3, Sprint Backlog 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-298.png)
+
+Agregué la versión 3.1 completa dentro del Landing Page. (feature branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-299.png)
+
+Agregué la versión 3.1 dentro del Landing Page. (develop branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-300.png)
+
+d. Marcelo Scerpella
+
+Agregué el apartado de Diseño de entrevistas y Análisis de Entrevistas en Sprint 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-301.png)
+
+e. Luis Aquije
+Agregué los .feature para los US-34. US-35 y US-36 (master branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-302.png)
+
+
+## 5.3 Validation Interviews
+
+## 5.3.1 Diseño de entrevistas
+Para esta validación se incluirán los siguientes productos:
+
+**Landing Page**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-303.png)
+
+**FrontEnd Web Application**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-304.png)
+
+**User Flows a validar (En Landing Page)**
+
+f. User Flow Diagram F: Contactar con AKIRA
+
+**User Flows a validar (En Frontend Web Application)**
+
+a. User Flow Diagram A: Inicio de Sesión
+b. User Flow Diagram B: Visualizar Cuenta
+c. User Flow Diagram C: Buscar productos, artistas o géneros
+d. User Flow Diagram D: Filtrar búsqueda
+f. User Flow Diagram F: Contactar con AKIRA
+
+**Preguntas a realizar para ambos Segmentos Objetivos**
+
+a. ¿Qué tal te pareció la usabilidad de nuestros productos?
+b. ¿Lograste visualizar el apartado de contacto con el startup en ambos productos? ¿Qué tal te pareció el apartado?
+c. ¿Lograste visualizar el inicio de sesión en la página web de nuestra tienda virtual? ¿Qué tal te pareció el apartado?
+d. ¿Lograste visualizar la cuenta de usuario en la página web de nuestra tienda virtual? ¿Qué tal te pareció el apartado?
+e. ¿Lograste visualizar la funcionalidad de búsqueda y filtrado en la página web de nuestra tienda virtual? ¿Qué tal te pareció el apartado?
+f. ¿Nos podrías mencionar qué apartado o funcionalidad de nuestra tienda consideras que podría ser mejorada?
+
+## 5.3.2 Registro de Entrevistas
+
+Video de las entrevistas:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/Eeec5BPHF8BAgd0-MRJft-MBcYjShGBtbhYuB0Ei0fbsPA?e=3gvvLu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19]
+
+Realizamos 6 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el Landing Page como el Frontend Web Application.
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-305.png)
+
+**Entrevista N°1 (Fanática del entretenimiento asiático)**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-306.png)
+Entrevistador: Nirvana García Vásquez
+Entrevistada: Fiorella Tamariz Pantoja
+Tiempo en el video: [00:00:00] - [00:11:21]
+
+En esta entrevista se contactó con una fanática de Kpop, la cual se encontraba muy interesada en conocer nuestro Startup y producto principal, Akira. Junto a ella, navegamos entre nuestros dos productos generados en los tres primeros Sprints, el Landing Page y el Frontend Web Application. Luego de que Fiorella interactúe con todas las opciones, selecciones y funcionalidades disponibles, nos brindó un feedback, expresando de que le gustó mucho la estética de ambos productos, notó siempre la correcta funcionalidad de los apartados existentes, se impresionó con el uso de la barra de búsqueda para encontrar los productos vendidos en tienda. Como principal recomendación a mejorar, nos mencionó que al buscar productos, algunos productos tenían una inusual desproporción de tamaño de imagen, problema que como startup, pasamos por alto.
+
+**Entrevista N°2 (Vendedor de productos del entretenimiento asiático)**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-307.png)
+Entrevistador: Nirvana García Vásquez
+Entrevistado: Sebastian Delgado Del Castillo
+Tiempo en el video: [00:11:22] - [00:23:21]
+
+En esta entrevista, contactamos con un vendedor de productos del entretenimiento asiático, el cual nos comenta que es parte de una tienda de productos de anime y kpop en el centro comercial Arenales, ubicado en Lima, Perú. Junto a él, navegamos por los diferentes apartados de los productos desarrollados en las tres primeras entregas del curso, tanto el Landing Page como el Frontend Web Application. Cuando Sebastian terminó de interactuar con todas las funcionalidades y apartados de ambos productos mostrados, decidí consultarle qué tal le había parecido la experiencia. Él nos comenta que le gustó bastante la estética de ambas páginas, la tipografia, gama de colores limpia y homogenea, y que el fondo claro con los toques de color rojo lo hacian sentir como si estuviese leyendo un Manga.Tambien, aportó con una recomendación acerca de lo que podemos mejorar, la cual se enfocó en agregar algun modal cuando la edición de los datos dentro de la cuenta de usuario sea exitosa, ya que solo se actualiza de manera automática, sin dar algun aviso de que se cambió exitosamente.
+
+**Entrevista N°3 (Vendedor de productos del entretenimiento asiático)**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-308.png)
+Entrevistador: Michelle Moreno Best
+Entrevistada: Flavia Delgado Polo
+Tiempo en el video: [00:23:22] - [00:37:38]
+
+En la entrevista realizada, la entrevistada considera que las páginas web mostradas (landing page y frontend) tienen un diseño atractivo, sencillo y directo. Resalta como punto positivo que se puedan usar tanto para clientes como vendedores. Verifica que el apartado de contacto brinda varias opciones para comunicarse como correo, teléfono y redes sociales. Además. menciona que el proceso de registro y login es sencillo y fácil de usar, al igual que otras páginas web. Lo que le ha gustado de las páginas es que en el perfil de usuario, está toda la información y órdenes centralizada, facilitando la actualización de datos. Señala que la barra de búsqueda permite encontrar productos de forma rápida y sencilla. Sin embargo, nos menciona un error en la página del front end que es sobre la cancelación de una orden, y nos recomienda mejorar ese apartado ya que al actualizar la página recién se borra el producto visualmente, sugiere que el  informe de órdenes del perfil se cancele cuando se toque el botón correspondiente.
+
+
+**Entrevista N°4 (Vendedor de productos del entretenimiento asiático)**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-309.png)
+Entrevistador: Marcelo Scerpella Zarkovic
+Entrevistado: Fernando Díaz Silva
+Tiempo en el video: [00:37:38] - [00:46:58]
+
+En la entrevista realizada, el entrevistado considera que, tanto la landing page como el frontend, tienen un diseño atractivo, sencillo y directo. Resalta como punto positivo en el landing page que es bueno saber que la aplicación tiene aliados, porque le da más confianza saber que hay otras empresas respaldando la página web. 
+Verifica que el apartado de contacto brinda varias opciones para comunicarse como correo, teléfono y redes sociales. Sugiere que también sería bueno que se le agregara la opción de dejar un mensaje desde la propia página web.
+Menciona que el proceso de registro y login es sencillo, y que tiene la información justa y necesaria para hacer una compra, al igual que otras páginas web de compras. 
+Considera que la página de perfil de usuario está muy bien. También menciona que sería interesante que le permitiera subir una foto para reemplazar la imagen de perfil por defecto.
+Señala que la sección de categorías es una implementación bastante buena, porque permite filtrar de forma rápida y sencilla entre las diferentes categorías que existen. 
+Antes de finalizar la entrevista, menciona que el único inconveniente que tuvo con la página que le causó una molestia fué que la imagen de uno de los productos no cargó como debería, y menciona que es importante corregir este error antes de publicar la aplicación web.
+
+
+**Entrevista N°5 (Fanático del entretenimiento asiático)**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-310.png)
+Entrevistador: Luis Enrique Aquije Quiroga 
+Entrevistado: Jair Flores Vizcarra 
+Tiempo en el video: [00:46:59] - [00:54:35]
+
+En la entrevista realizada, el entrevistado considera que, se han implementado correctamente los distintos apartados que se tienen como lo vienen a ser productos y manejo de la cuenta. Sin embargo, también sugiere que se debería colocar un título en específico que permita identificar de mejor forma la funcionalidad a la que el usuario desea acceder para que este sea más intuitivo. También en la entrevista nos comenta que el apartado contactos está muy bien implementado y considera que si les envía un correo será atendido correctamente. Reitera en el apartado de inicio de sesión que se deberían colocar títulos o subtítulos de modo que pueda diferenciar el módulo no solo dependiendo del icono. Nos comenta que el apartado de información de usuario está bien logrado ya que muestra la suficiente información de la cuenta diferenciándose de otras aplicaciones que no son muy específicas en este apartado, destacando el lado de órdenes realizadas. En cuanto a la funcionalidad de búsqueda y filtrado, considera que al hacer click en cada categoría debería desplegarse el submenú al lado para que sea mejor para la vista. El apartado que considera que debería someterse a una mejora sería el apartado de inicio de sesión el cual necesitaría mayor información visual como algún subtítulo haciéndola más intuitiva, en categorías o filtros una modificación a la forma de presentar los submenús.
+
+**Entrevista N°5 (Fanático del entretenimiento asiático)**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-311.png)
+Entrevistador: Diego Sánchez Ramírez
+Entrevistado: Manuel Castro
+Tiempo en el video: [00:46:59] - [00:54:35]
+
+En esta entrevista, se muestran los artefactos de software como es el landing page y el apartado del front-end de nuestra página principal al entrevistado llamado Manuel Castro, fanatico de la cultura asiática, sobre todo las mangas y manhwas. Su edad es de 19 años y reside en Lima. Durante la entrevista, mostró diferentes puntos de vista y una en especial que es la del diseño responsivo de las imágenes, las cuales tomaremos en cuenta en un futuro sprint.
+
+**Entrevista N°6 (Fanático del entretenimiento asiático)**
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-312.png)
+Entrevistador: Diego Sánchez Ramírez
+Entrevistado: José Alberto Ponte
+Tiempo en el video: [00:54:35] - [01:04:12]
+
+Jose Alberto Ponte Avan, es un estudiante de 4to ciclo de la carrera de Ingeniería Industrial, residente del Callao. El es consumidor de la cultura del anime, sobre todo los animes de genero shounen. Durante la entrevista, navegó a través del Landing Page y el frontend de nuestro proyecto y le agrade el apartado minimalista y las alianzas que tendremos para ofrecer una gran variedad de productos en la startup.El muestra un gran interés en la misión de la startup y ofrece un feedback importante para mejorar el frontend en un siguiente sprint o ciclo de vida del artefacto de software.
+
+## 5.3.3 Evaluaciones según heurísticas
+
+**UX Heuristics & Principles Evaluation**
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA**: Ingeniería de Software
+**CURSO** : Desarrollo de Aplicaciones Open Source
+**SECCIÓN** : WS52
+**PROFESORES** : Todos
+**AUDITOR** : Lambders
+**CLIENTE(S)** : Fiorella Tamariz, Sebastian Delgado, Flavia Delgado, Manuel Castro, José Alberto Ponte, Fernando Díaz Silva
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+**SITE o APP A EVALUAR:**
+AKIRA
+
+**TAREAS A EVALUAR:** 
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+-Iniciar sesión en Akira
+-Edición de datos de cuenta usuario
+-Búsqueda de productos en barra de búsqueda
+-Agregar/Eliminar  productos al carrito
+-Realizar compra
+-Visualización de Contacto con Lambders/Akira
+
+
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:** 
+
+Todas las tareas han sido incluidas y evaluadas
+
+
+**ESCALA DE SEVERIDAD:** 
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Nivel Descripción                                 |
+|-------|---------------------------------------------------|
+|   1 	| Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+|   2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase  | 
+|   3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.    | 
+|   4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento  |
+
+**TABLA RESUMEN (Problemas):**
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o)|
+|---|----------|---------------------|--------------------------------|
+| 1 |Problema con la eliminación de productos de “mis órdenes” ya que si se borran pero cuando actualizas la página| 3 | Usability: Usabilidad y control del usuario|
+| 2 |Desnivelación de tamaños con imágenes mostradas en apartados de bùsqueda de productos| 2 | Usability: Consistencia y estándares |
+| 3 |Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario| 1 |Inclusive Design: Proporciona experiencias comparables|
+| 4 |Falta de adaptación de las imágenes, en relación al tamaño de la pantalla del dispositivo| 1 |Inclusive Design: Adaptación y escalado de imágenes|
+| 5 |alta de subcategorías en el menu hambuerguer de la izquierda| 2 |Information Architecture: Is it usable?|
+| 6 |Error al mostrar una de las imágenes de uno de los productos en la aplicación| 1 |Inclusive Design: Proporciona experiencias comparables|
+| 7 |Claridad en las Opciones de Acceso y Funcionalidad| 1 |Inclusive Design: Proporciona experiencias comparables|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:**
+Problema con la eliminación de productos de “mis órdenes” ya que si se borran pero cuando actualizas la página
+
+**Severidad:** 3 
+**Heurística violada:** Usability: Usabilidad y control del usuario
+
+**Problema:**
+Al momento de eliminar el producto en el perfil de “mis órdenes”, visualmente se queda pero cuando se actualiza la página, ya se ve que se ha borrado por completo por lo que ese es un problema para los usuarios que no saben qué hacer en esas situaciones.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-313.png)
+
+**Recomendación:** 
+Lo mejor para solucionar este problema es revisar el json donde se guarda la información y ver como solucionar ese problema para que el usuario al presionar el botón de “cancelar orden”, pueda ver que si se está cancelando y no tenga que recargar la pagina para ver si en verdad se ha borrado.
+
+
+**PROBLEMA #2:**
+Desnivelación de tamaños con imágenes mostradas en apartados de bùsqueda de productos
+
+**Severidad:** 2 
+**Heurística violada:** Usability: Consistencia y estándares
+
+**Problema:** 
+Cuando el usuario le da click al botón de buscar, luego de haber ingresado un valor dentro de la barra de búsqueda, cuando aparece la lista de resultados de búsqueda, las imágenes de los productos no siguen un estándar en cuanto a tamaños, y la manera en la que se presentan está desorganizada.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-314.png)
+
+**Recomendación:**
+Lo más adecuado para solucionar este inconveniente es modificar el tamaño de la imagen de los productos, a un estándar, y estilar mejor los resultados de búsqueda.
+
+**PROBLEMA #3:**
+Falta de modal de confirmación a cambios de edición de datos en cuenta de usuario
+
+**Severidad:** 1 
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:** 
+Al momento de editar datos dentro de los campos de información personal o dirección de envío, el usuario debe presionar el botón en forma de lápiz para editar algún dato en particular. El problema recae en que cuando se modifican datos y se presiona el botón de actualizar, no aparece ninguna confirmación de guardado de datos exitoso, por lo que el usuario podría quedar con la duda de si sus modificaciones de guardaron.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-315.png)
+
+**Recomendación:**
+Para solucionar este problema de diseño inclusivo, debemos agregar un modal o notificación que le confirme al usuario que sus datos han sido modificados satisfactoriamente.
+
+
+**PROBLEMA #4:**
+Falta de adaptación de las imágenes, en relación al tamaño de la pantalla del dispositivo
+
+**Severidad:** 1 
+**Heurística violada:** Inclusive Design: Adaptación y escalado de imágenes
+
+**Problema:** Falta de adaptación de las imágenes, en relación al tamaño de la pantalla del dispositivo
+
+Al momento de visualizar las imágenes en el lobby principal del front-end, se puede visualizar un desperfecto en el tamaño de las imágenes contenidas en los marcos que las contienen.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-316.png)
+
+**Recomendación:**  Configurar propiedades para las imágenes que permitan definir su tamaño o proporcionar URL's de diferentes tamaños de la misma imagen, dependiendo del dispositivo. Además,utilizar la etiqueta < img > de Vue para mostrar las imágenes. Añade los atributos “width” y “height” con valores relativos (porcentajes, vw o vh en CSS) para que las imágenes se ajustan dinámicamente al tamaño del contenedor o la pantalla.
+
+**PROBLEMA #5:**
+Falta de subcategorías en el menu hamburger de la izquierda
+
+**Severidad:** 2
+**Heurística violada:** Information Architecture: Is it usable?
+
+
+**Problema:** Falta de subcategorías en el menu hamburger de la izquierda
+
+Esta heurística se centra en cómo la información se organiza y se presenta para el usuario. Proporciona directrices sobre cómo organizar los contenidos de manera lógica y clara para facilitar la navegación y la identificación de la información por parte del usuario.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-317.png)
+
+**Recomendaciones:** 
+
+**Etiquetas descriptivas:** Utiliza etiquetas claras para indicar los tipos de contenido en cada sección del menú.
+
+**Facilidad de navegación:** Asegúrate de que la organización del menú facilite la navegación, permitiendo a los usuarios encontrar rápidamente lo que buscan.
+
+**PROBLEMA #6:**
+Error al mostrar una de las imágenes de uno de los productos en la aplicación
+
+**Severidad:** 1 
+Heurística violada: Inclusive Design: Proporciona experiencias comparables
+
+**Problema:** 
+Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del producto no se mostró como debería haberlo hecho, lo que ocasionó que se mostrara el ícono de “Imagen no encontrada”, seguido por el texto “Products_images”. El problema recae en que cuando se carga la página, la imagen de ese producto específicamente no es mostrada, por lo que el usuario podría perder confianza en la aplicación, y pensar que no está funcionando correctamente
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-318.png)
+
+**Recomendación:** 
+Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestion no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestren apropiadamente antes de enviar la aplicación a producción.
+
+**PROBLEMA #7:**
+Claridad en las Opciones de Acceso y Funcionalidad
+
+**Severidad:** 1 
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:**
+Al momento de buscar alguna opción como lo pueda ser inicio de sesión, el usuario no tiene claro a que icono hacer click o algo que indique al usuario el tipo de funcionalidad a la cual desea acceder, el entrevistado sugiere usar algún subtítulo.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-319.png)
+
+**Recomendación:** 
+Para solucionar este problema, tenemos colocar o implementar un subtítulo desplegable o estático que permita identificar mejor la funcionalidad y no depender tanto de los íconos, haciendo más intuitivo el encontrar dicha funcionalidad.
+
+## 5.4 Video About the Product
+Presentamos nuestro Video About the Product para el Sprint 3, el cual busca promocionar el producto que el Startup Lambders ha desarrollado, Akira.
+
+Video en Microsoft Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EQgWoYEE7ThKp4VrZw7J6s0BDFGrS-JbIj28WdtDrSVSIg?e=0bpk1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19]
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-320.png)
+
+Video enYoutube: [https://youtu.be/jZVbVFD9XBs]
+
+
+## Conclusiones y recomendaciones 
 
 ## Conclusiones (TB1) 
 Como primera conclusión de esta etapa del proyecto AKIRA, hemos conseguido alcanzar los siguientes hitos:
@@ -5806,6 +6396,17 @@ Se desarrollaron las siguientes conclusiones relacionadas a esta segunda entrega
  
  <br><br>
 
+## Conclusiones (TB2)
+
+Para esta 3ra entrega, se tuvieran las siguientes conclusiones:
+
+ ● Se llevaron a cabo entrevistas con una variedad de usuarios representativos del público objetivo, los cuales nos dieron una retroalimentación muy fructífera para ver otros puntos de vistas, principalmente de nuestro segmentos objetivos que estamos apuntando.
+
+ ● Con las entrevistas de validación, tuvimos que utilizar las heurísticas de usabilidad. Con ellas, se identificaron violaciones en las heurísticas que requieren mejoras en el diseño y la experiencia del usuario.
+
+ ● Organizar tu código siguiendo el patrón MVC para separar las preocupaciones y mejorar la mantenibilidad. Además, la buena práctica de utilizar el patrón de diseño Repository para la jerarquía de carpetas.
+
+
 ## Recomendaciones (TB1)
 
 Como recomendaciones para esta primera fase del proyecto, se declaran las siguientes:
@@ -5847,10 +6448,33 @@ Como recomendaciones para esta primera fase del proyecto, se declaran las siguie
 <br>
 
 <br><br>
+
+## Recomendaciones (TB2)
+Serían, sobre todo, mejorar los errores o implementar las sugerencias que tuvieron nuestros invitados a interactuar con los artefactos de software presentados en esta entrevista de validaciones de nuestro producto.
+
+Por otra parte, también sería seguir investigando posibles atajos o buenas practicas que nos permitan realizar un código más limpio y estandarizado para que no se tenga confusiones al momento de programador nuestro back-end
+
+**Mejoras basadas en la entrevista de validación:**
+
+Serían, sobre todo, mejorar los errores o implementar las sugerencias que tuvieron nuestros invitados a interactuar con los artefactos de software presentados en esta entrevista de validaciones de nuestro producto.
+
+  - Análisis de Feedback: Realizar un análisis detallado del feedback recibido durante la entrevista de validación.Además, identificar patrones comunes en los comentarios y sugerencias de los invitados para priorizar mejoras.
+
+  - Iteración y Actualizaciones: Implementar cambios iterativos basados en las recomendaciones de los invitados para mejorar la experiencia del usuario.
+
+
+**Mejoras en la limpieza y estandarización del código del backend:**
+
+Por otra parte, también sería seguir investigando posibles atajos o buenas prácticas que nos permitan realizar un código más limpio y estandarizado para que no se tenga confusiones al momento de programador nuestro back-end
+
+  - Revisión y Refactorización: Realizar revisiones periódicas del código para identificar secciones confusas o poco legibles.
+
+   - Seguir Estándares de Codificación: Adhiérete a estándares de codificación establecidos, como naming conventions, indentación y organización de directorios y archivos.
+
 ___
 <br>
 
-# Bibliografía 
+## Bibliografía 
 
 Chavez, L. (30 de mayo del 2023) Anime: El boom de este fenómeno en Perú. Punto Seguido - UPC. [https://puntoseguido.upc.edu.pe/anime-el-boom-de-este-fenomeno-en-el-peru/] 
 
@@ -5867,7 +6491,7 @@ ___
 <br>
 
 
-# Anexos
+## Anexos
 
 **Anexo A: Tabla con detalles de nuestros videos**
 
@@ -5942,6 +6566,3 @@ https://drive.google.com/file/d/13KpXZZPZRLUD8ieEOCAHu6t4qbogwjdp/view
 ![image](https://github.com/nirvagarcia/PruebaMd/raw/main/img/image-215.png)
 
 *Imagen 406: User Journey Mapping*
-
-
-
