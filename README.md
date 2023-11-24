@@ -269,7 +269,7 @@ Student Outcome
    
     5.2.1.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
    
-    5.2.1.5. [Execution Evidence for Sprint Review](#5214-execution-evidence-for-sprint-review)
+    5.2.1.5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
    
     5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
    
@@ -313,15 +313,23 @@ Student Outcome
    
    5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
-5.3. [Validation Interviews](#53-validation-interviews)
+    5.3. [Validation Interviews](#53-validation-interviews)
+  
+    5.3.1. [Diseño de entrevistas](#531-diseño-de-entrevistas)
    
-   5.3.1. [Diseño de entrevistas](#531-diseño-de-entrevistas)
+    5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)
    
-   5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas)
-   
-   5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+    5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
-5.4. [Video About the Product](#54)
+    5.4. [Video About the Product](#54)
+    5.2.4. [Sprint 4](#524-spring-4)
+    5.2.4.1. [Sprint Planning 4](#5241-spring-planning-4)
+    5.2.4.2. [Sprint Backlog 4](#5242-spring-backlog-4)
+    5.2.4.3. [Development Evidence for Sprint Review](#5243-development-evidence-for-sprint)
+    5.2.4.4. [Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    5.2.4.5. [Execution Evidence for Sprint Review ](#5245-execution-evidence-for-sprint-review)
+    5.2.4.6. [Software Deployment Evidence for Sprint Review](#5246-software-deployment-evidence-for-sprint-review)
+
 
 [Conclusiones y recomendaciones]() 
 
@@ -1037,7 +1045,7 @@ ___
 
 ### **2.2.1. Diseño de entrevistas.**
 
-**Segmento Uno: Jóvenes entre 16 a 30 años fanáticos de la cultura asiática**
+**Segmento Uno: Jóvenes fanáticos del entretenimiento asiático**
 
 **Kpopers**
 
@@ -1113,7 +1121,7 @@ ___
 
 ### **2.2.2. Registro de entrevistas**
 
-Video de las entrevistas: [Needfingind Interview](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)
+Video de las entrevistas: [Needfinding Interview](https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2D%20needfinding%2Dsprint%2D1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1)
 
 
 ![Alt text](img/image-45.png)
@@ -1135,7 +1143,7 @@ Video de las entrevistas: [Needfingind Interview](https://upcedupe-my.sharepoint
 <br>
 
 Entrevistador: Marcelo Scerpella Zarkovic
-Entrevistada: Rizi
+Entrevistada: Rizi Godoy
 Tiempo en el video: [00:00:00] - [00:03:52]
 
 Rizi es una influencer y streamer relacionada con el mundo del ánime y la cultura otaku. En sus propias palabras, se dedica a varios oficios para ganarse la vida. Sus géneros favoritos son el shonen y el josei, lo que se evidencia en sus animes favoritos, Full Metal Alchemist (Shonen) y Nana (Josei). Le gusta comprar artículos relacionados al mundo del ánime, en concreto figuras, ropa, y arte independiente. Su salario se reparte en tres rubros: alquiler de su departamento, comida, y artículos de anime. En sus propias palabras, gasta todo lo que puede en este rubro. Ha importado productos de anime del extranjero, y considera que el precio de importación es un problema al comprarlos, ya que si costara menos, podría comprar más artículos. Cuando ha comprado artículos por internet, la han intentado estafar algunas veces, pero pudo percatarse a tiempo y evitar ser estafada. Al comprar artículos de ánime, prioriza la marca, el precio, y la calidad de las figuras. Dice que, en el tiempo que lleva comprando, hasta ahora no ha recibido un producto defectuoso, pero que se moriría si le llegara a pasar. Recomienda tiendas del mundo del ánime a sus amigos, y sus amigos también le recomiendan tiendas a ella, lo que es bueno, porque significa que hay mucho marketing en el medio. También va frecuentemente a eventos relacionados con el medio, lo que significa que publicitarnos en estos eventos sería una buena estrategia de marketing.
@@ -1358,18 +1366,18 @@ La mayoría de los entrevistados (80%) gastan más de 100 soles al mes en produc
 
 **Segmento Dos: Vendedores de productos asiáticos**
 
-| **Rubricas** | **Giancarlos Viñal** | **Fernando Alquino** |
-|--------------|----------------------|----------------------|
-|Presentan distribuidores asiáticos|X| |
-|Cuentan con canales de comunicación como redes sociales|X|X|
-|Disfrutan de trabajar en la industria|X|X|
-|Presentan problemas al importar productos del extranjero| | |
-|Colaboran con influencers| |X|
-|Brindan reemplazos o reembolsos de productos en caso de errores de fabricación|X| |
-|Participan en eventos y ferias|X| |
-|Hacen descuentos en fechas importantes|X|X|
-|Sienten limitantes al querer adquirir algún producto|X|X|
-|Conocimiento en los productos que ofrecen|X|X|
+| Rúbricas                                                                       | Giancarlos Viñal | Fernando Alquino | Juan Gomez |
+|--------------------------------------------------------------------------------|------------------|------------------|------------|
+| Presentan distribuidores asiáticos                                             | X                |                  | X          |
+| Cuentan con canales de comunicación como redes sociales                        | X                | X                | X          |
+| Disfrutan de trabajar en la industria                                          | X                | X                | X          |
+| Presentan problemas al importar productos del extranjero                       | X                |                  | X          |
+| Colaboran con influencers                                                      |                  | X                |            |
+| Brindan reemplazos o reembolsos de productos en caso de errores de fabricación | X                |                  |            |
+| Participan en eventos y ferias                                                 | X                |                  | X          |
+| Hacen descuentos en fechas importantes                                         | X                | X                | X          |
+| Sienten limitantes al querer adquirir algún producto                           | X                | X                | X          |
+| Conocimiento en los productos que ofrecen                                      | X                | X                | X          |
 
 <br><br>
 En el cuadro anterior se puede destacar que la mayoría de los entrevistados cuentan con canales de comunicación, dos de nuestros entrevistados tienen distribuidores asiáticos, el cual les son útiles a la hora de demostrar que sus productos son originales. Solo uno de nuestros entrevistados ha tenido colaboraciones con influencers de su rubro. política de reembolso si es que el producto está dañado de fábrica y participación en eventos o ferias. Además, dos de nuestros entrevistados sienten limitantes al querer adquirir algunos productos y el 100% saben sobre los productos que están ofreciendo en sus tiendas.
@@ -1501,7 +1509,7 @@ A partir de los datos obtenidos en estas entrevistas, hemos creado un User Perso
 
  <br><br>
 
-**User Persona: “Vendedores de productos asiáticos”**
+**User Persona: Vendedores de productos asiáticos**
 
 ![Alt text](img/image-74.png)
 
@@ -1586,7 +1594,7 @@ Esta matriz de tareas refleja las actividades que Alejandro Cruz Rodríquez, el 
       <td>High</td>
     </tr>
     <tr>
-      <td>ISolicitar información sobre la fecha de llegada de los nuevos productos.</td>
+      <td>Solicitar información sobre la fecha de llegada de los nuevos productos.</td>
       <td>Often</td>
       <td>High</td>
     </tr>
@@ -1664,13 +1672,13 @@ ___
 
 Fiorella Castillo quiere conseguir merchandising de Asia.
 
-|**FASES**|**BUSCAR LOS ARTICULOS DE COLECCION**|**ENCARGAR LA COMPRA DE LOS PRODUCTOS**|**REALIZAR EL PAGO**|**RECIBIR EL PRODUCTO**|
-|-----|---------------------------------|-----------------------------------|----------------|-------------------|
+|**FASES**|**BUSCAR LOS ARTÍCULOS DE COLECCIÓN**|**ENCARGAR LA COMPRA DE LOS PRODUCTOS**|**REALIZAR EL PAGO**|**RECIBIR EL PRODUCTO**|
+|-----|   ---------------------------------|-----------------------------------|----------------|-------------------|
 |**DOING**|<br> • Busco en muchos grupos de facebook los productos que deseo conseguir.<br> • Busco en perfiles de instagram si alguno vende productos de anime que deseo comprar en mi país.<br> • Busco en tiendas físicas si alguna vende el producto que quiero comprar, o si me permite importarlo.|<br> • Negocio el precio del producto con el vendedor.<br> • Encargo el producto que quiero comprar al vendedor que haya elegido.|<br> • Pago el producto por cuotas o el precio total.<br> • Espero la confirmación del vendedor.<br> • Sigo atentamente las actualizaciones de estado de mi pedido.<br> • Le pregunto al vendedor en donde va mi pedido.<br> • Encargo el producto que quiero comprar al vendedor que haya elegido.|<br> • Recibo el producto que solicité.<br> • Reviso que el producto no esté adulterado y sea oficial, en caso no este como el vendedor me dijo, hacer mi reclamo.<br> • Realizo el reclamo correspondiente con el vendedor en caso de ser necesario.|
 |**THINKING**|<br> • No puede ser otra vez esta cuenta es de otro país. <br> • Tendré que encargar que lo traigan del extranjero o conformarme con lo que venden aquí.<br> • Otra vez tendré que gastar un dineral por mis figuras.<br> • Ojalá no me intenten vender un fanmade como si fuera producto oficial.|<br> • Espero que el producto no salga muy caro.<br> • No puedo creer que estos productos estén tan caros.<br> • Ojalá los vendedores tengan precios más asequibles.|<br> • Ojalá no me estafen y me envíen el producto en buen estado, no usado.<br> • Ojalá no se queden con mi dinero y no me traigan nada.<br> • Ojalá mi producto llegue en buen estado y a tiempo.|<br> • Al fin llegó la figura por la que tanto tiempo estuve esperando.<br> • No hay mucho que pueda hacer si el producto llegó en mal estado, pues el vendedor no querrá asumir la perdida y yo ya le pagué.<br> • Pienso que podría existir alguna app o página web para poder pedir mis productos de forma segura, y con garantía por si llegan en mal estado.|
 |**FEELING**|<br> • Frustración al no saber si encontraré el producto que estoy buscando.<br> • Estrés por el tiempo que conlleva realizar la búsqueda del producto.<br> • Preocupación porque me vayan a estafar y me vendan un producto no oficial como oficial.|<br> • Ansiedad por averiguar el precio del producto y las comisiones del vendedor.<br> • Frustración al no encontrar una opción más accesible para comprar el producto.<br> • Inseguridad al no saber cómo llegará el producto, y al no contar con una garantía para este.|<br> • Ansiedad por descubrir si el proveedor que elegí sea bueno y haga que mi producto llegue bien y a tiempo.<br> • Preocupación de que el vendedor vaya a quedarse con mi dinero y no me llegue nada.<br> • Tristeza por no haber encontrado una opción más barata y menos usurera.|<br> • Alegría por al fin haber recibido el producto por el que estuve esperando tanto tiempo.<br> • Preocupación de que realmente sea un producto oficial y nuevo.<br> • Incertidumbre al no saber si encontraré los siguientes productos que desee en el futuro, o de que el proveedor pueda enfrentar problemas en aduanas.|
 
-**As - Is Scenario Map – Segmento Vendedores de productos del entretenimiento asiático**
+**As - Is Scenario Map – Segmento Vendedores de productos asiático**
 
 Alejandro Cruz Rodriguez quiere importar productos de japón
 
@@ -1690,28 +1698,28 @@ ___
 
 ## 3.1. To-Be Scenario Mapping
 
-**Segmento Objetivo: Jóvenes fanáticos**
+**Segmento Objetivo: Jóvenes fanáticos del entretenimiento asiático**
 
 Fiorella Castillo quiere conseguir merchandising asiático
 
 | FASES    | BUSCAR LOS ARTÍCULOS DE COLECCIÓN                                                                                                                                                                                          | ENCARGAR LA COMPRA DE LOS PRODUCTOS                                                                                                                                                                                                         | REALIZAR EL PAGO                                                                                                                                                                                                                                              | RECIBIR EL PRODUCTO                                                                                                                                               |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DOING    | - Abro la página web de Akira.<br>- Busco los productos que deseo encontrar.<br>- Filtro los productos que deseo por artista o franquicia, por categoría, o por precio.                                                    | - Agrego los artículos que deseo al carrito.<br>- Fijo la cantidad de unidades del producto que deseo comprar.<br>- Reviso los productos en el carrito antes de realizar la compra.<br>- Fijo la dirección de destino de mis productos.<br> | - Agrego un método de pago para mis productos, o utilizo un código QR para pagar con una billetera virtual.<br>- Realizo el pago del pedido.<br>- Recibo un correo con la confirmación de mi compra de forma automática e instantánea.                        | - Recibo el producto en óptimas condiciones, en el tiempo pactado, y en caso de ser necesario, ejerzo la garantía de envío para reponerlo si llegó en mal estado. |
-| THINKING | -¡Al fin! Alguien que vende todos los productos que quiero en un mismo sitio!<br>-Ya no tendré que volver a buscar 20 proveedores para hacer mis compras.                                                                  | - ¡Qué buenos precios! ¡Ahora puedo comprar más productos que antes!<br>- Ojalá el envío y las comisiones no sean tan caros como pasa con los otros proveedores.<br>                                                                        | - Qué bueno que el precio de envío y las comisiones sean tan bajas.<br>- Que bueno saber que tengo un servicio de garantía que me protege en caso mis productos lleguen en mal estado.                                                                        | - Que bueno que mis productos llegaron bien y en tan poco tiempo.<br>- De ahora en adelante compraré mis productos en este sitio                                  |
-| FEELING  | - Felicidad por haber encontrado los productos que estaba buscando desde hace mucho tiempo.<br>- Alivio al saber que no tendré que volver a buscar otra vez en 200 páginas de facebook o instagram el producto que quiero. | - Tranquilidad al ver que los precios base de los productos son baratos y asequibles.<br>- Alegría al ver que los productos pueden enviarse a cualquier dirección.                                                                          | - Tranquilidad al saber que el pedido se realizó con éxito.<br>- Confianza al recibir el correo de confirmación de la compra.<br><br>- Tranquilidad al saber que si ocurre un percance durante el envío, podré reemplazar o reembolsar los productos dañados. | - Satisfacción al recibir los productos que esperé por tanto tiempo.<br>- Alegría al ver que mis productos llegaron en buen estado.<br>                           |
+| **DOING**    | - Abro la página web de Akira.<br>- Busco los productos que deseo encontrar.<br>- Filtro los productos que deseo por artista o franquicia, por categoría, o por precio.                                                    | - Agrego los artículos que deseo al carrito.<br>- Fijo la cantidad de unidades del producto que deseo comprar.<br>- Reviso los productos en el carrito antes de realizar la compra.<br>- Fijo la dirección de destino de mis productos.<br> | - Agrego un método de pago para mis productos, o utilizo un código QR para pagar con una billetera virtual.<br>- Realizo el pago del pedido.<br>- Recibo un correo con la confirmación de mi compra de forma automática e instantánea.                        | - Recibo el producto en óptimas condiciones, en el tiempo pactado, y en caso de ser necesario, ejerzo la garantía de envío para reponerlo si llegó en mal estado. |
+| **THINKING** | -¡Al fin! Alguien que vende todos los productos que quiero en un mismo sitio!<br>-Ya no tendré que volver a buscar 20 proveedores para hacer mis compras.                                                                  | - ¡Qué buenos precios! ¡Ahora puedo comprar más productos que antes!<br>- Ojalá el envío y las comisiones no sean tan caros como pasa con los otros proveedores.<br>                                                                        | - Qué bueno que el precio de envío y las comisiones sean tan bajas.<br>- Que bueno saber que tengo un servicio de garantía que me protege en caso mis productos lleguen en mal estado.                                                                        | - Que bueno que mis productos llegaron bien y en tan poco tiempo.<br>- De ahora en adelante compraré mis productos en este sitio                                  |
+| **FEELING**  | - Felicidad por haber encontrado los productos que estaba buscando desde hace mucho tiempo.<br>- Alivio al saber que no tendré que volver a buscar otra vez en 200 páginas de facebook o instagram el producto que quiero. | - Tranquilidad al ver que los precios base de los productos son baratos y asequibles.<br>- Alegría al ver que los productos pueden enviarse a cualquier dirección.                                                                          | - Tranquilidad al saber que el pedido se realizó con éxito.<br>- Confianza al recibir el correo de confirmación de la compra.<br><br>- Tranquilidad al saber que si ocurre un percance durante el envío, podré reemplazar o reembolsar los productos dañados. | - Satisfacción al recibir los productos que esperé por tanto tiempo.<br>- Alegría al ver que mis productos llegaron en buen estado.<br>                           |
 
 
 <br><br>
 
-**Segmento Objetivo: Jóvenes fanáticos**
+**Segmento Objetivo: Segmento Vendedores de productos del entretenimiento asiático**
 
 Alejandro Cruz Rodriguez quiere importar productos de japón
 
 | FASES    | IDENTIFICAR PRODUCTOS A IMPORTAR                                                                                                                                                                                                                                                         | ESTABLECER CONTACTOS Y NEGOCIACIONES                                                                                                                                                                                                                 | REALIZAR PEDIDOS Y COORDINAR ENVÍOS                                                                                                                                                                                                                                          | RECIBIR EL PRODUCTO                                                                                                                                                                       |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DOING    | - Abro la página web de Akira<br>- Busco los productos que deseo vender<br>- Filtro los productos que deseo por artista o franquicia, por categoría, o por precio                                                                                                                        | - Envío un mensaje a través del sitio web de Akira para iniciar el contacto.<br>- Espero su respuesta y me preparo para establecer una conversación más detallada.<br>- Comparto mis requisitos y expectativas para la importación de productos.<br> | -Selecciono los productos específicos que se acordaron durante las negociaciones.<br>- Coordinando los detalles de envío, incluidos los métodos de transporte y las fechas estimadas de entrega.<br>- Realizo los pagos iniciales de acuerdo con los términos acordados.<br> | - Inspecciono minuciosamente los paquetes al momento de la entrega para verificar su estado exterior.<br>- Abro el paquete y reviso que el producto coincida con los detalles del pedido. |
-| THINKING | - Por fin encontré una plataforma que vende todos los productos que quiero en un mismo sitio.<br>- Las reseñas de las personas recomiendan importar productos de Akira.                                                                                                                  | - Siento seguridad al saber que Akira ha brindado recomendaciones y transparencia en sus operaciones.<br>- Pienso en cómo mantener un equilibrio entre obtener buenos precios y asegurarse de la calidad de los productos                            | - Considero cómo mantener una comunicación constante con los proveedores para asegurarme de que todo marche como lo esperado.<br>- Pienso en la presentación de los productos durante el proceso de entrega para mantener la calidad percibida.                              | - El producto se encuentra en óptimas condiciones.<br>- El proveedor cumplió con lo acordado.<br>                                                                                         |
-| FEELING  | - Siento confianza de encontrar una aplicación que me brinde información resumida en reseñas con filtros de seguridad y verificación de su objetividad y veracidad constantemente.<br>- Confianza gracias a la transparencia que Akira manifiesta respecto al traslado de sus productos. | - Experimento confianza al mantener una comunicación fluida y transparente con el proveedor.<br>- Felicidad por lograr acuerdos beneficiosos para mi.<br>                                                                                            | - Confianza en que la coordinación de envíos se llevará a cabo de manera eficiente y confiable.<br>- Emoción al avanzar desde las negociaciones a la etapa concreta de realizar pedidos.                                                                                     | - Emoción y alivio al recibir finalmente los productos importados.<br>- Satisfacción al verificar que los productos coinciden con las descripciones y las expectativas.                   |
+| **DOING**    | - Abro la página web de Akira<br>- Busco los productos que deseo vender<br>- Filtro los productos que deseo por artista o franquicia, por categoría, o por precio                                                                                                                        | - Envío un mensaje a través del sitio web de Akira para iniciar el contacto.<br>- Espero su respuesta y me preparo para establecer una conversación más detallada.<br>- Comparto mis requisitos y expectativas para la importación de productos.<br> | -Selecciono los productos específicos que se acordaron durante las negociaciones.<br>- Coordinando los detalles de envío, incluidos los métodos de transporte y las fechas estimadas de entrega.<br>- Realizo los pagos iniciales de acuerdo con los términos acordados.<br> | - Inspecciono minuciosamente los paquetes al momento de la entrega para verificar su estado exterior.<br>- Abro el paquete y reviso que el producto coincida con los detalles del pedido. |
+| **THINKING** | - Por fin encontré una plataforma que vende todos los productos que quiero en un mismo sitio.<br>- Las reseñas de las personas recomiendan importar productos de Akira.                                                                                                                  | - Siento seguridad al saber que Akira ha brindado recomendaciones y transparencia en sus operaciones.<br>- Pienso en cómo mantener un equilibrio entre obtener buenos precios y asegurarse de la calidad de los productos                            | - Considero cómo mantener una comunicación constante con los proveedores para asegurarme de que todo marche como lo esperado.<br>- Pienso en la presentación de los productos durante el proceso de entrega para mantener la calidad percibida.                              | - El producto se encuentra en óptimas condiciones.<br>- El proveedor cumplió con lo acordado.<br>                                                                                         |
+| **FEELING**  | - Siento confianza de encontrar una aplicación que me brinde información resumida en reseñas con filtros de seguridad y verificación de su objetividad y veracidad constantemente.<br>- Confianza gracias a la transparencia que Akira manifiesta respecto al traslado de sus productos. | - Experimento confianza al mantener una comunicación fluida y transparente con el proveedor.<br>- Felicidad por lograr acuerdos beneficiosos para mi.<br>                                                                                            | - Confianza en que la coordinación de envíos se llevará a cabo de manera eficiente y confiable.<br>- Emoción al avanzar desde las negociaciones a la etapa concreta de realizar pedidos.                                                                                     | - Emoción y alivio al recibir finalmente los productos importados.<br>- Satisfacción al verificar que los productos coinciden con las descripciones y las expectativas.                   |
 
 
 
@@ -1757,7 +1765,10 @@ ___
 | EP-06<br>(##5176445) 	| US-30         	| Registro de pedidos en el historial del usuario en la aplicación                                   	| Como usuario, quisiera tener un registro de mis pedidos, para recordar los detalles de este (productos, precio, total pagado, entre otros).                                                                                                                                   	| Escenario 1: Ver historial de pedidos<br>Dado que soy un usuario en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Entonces puedo ver una lista de todos los pedidos que he realizado anteriormente<br>Y puedo ver detalles como la fecha del pedido, los productos adquiridos, el precio por unidad y el total pagado<br><br>Escenario 2: Visualizar los detalles de un pedido específico<br><br>Dado que soy un usuario en Akira<br>Cuando accedo a la sección de historial de pedidos en mi cuenta<br>Y selecciono un pedido específico de la lista<br>Entonces se muestran los detalles completos del pedido, incluyendo los productos, las cantidades, el precio por unidad y el total pagado<br>Y puedo revisar los detalles del pedido para recordar la información y los productos adquiridos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         	|
 | EP-06<br>(##5176445) 	| US-31         	| Seguimiento del progreso del envío en la aplicación                                   	| Como usuario, quiero poder revisar el progreso del envío de los productos que he solicitado.                                                                                                                                                                                  	| Escenario 1: Seguimiento del envío<br>Dado que soy un usuario que ha realizado un pedido en Akira<br>Cuando accedo a la sección de seguimiento de envío en mi cuenta<br>Entonces puedo ver el estado actual del envío de mis productos<br><br>Escenario 2: Notificaciones de actualización de envío<br>Dado que soy un usuario que ha realizado un pedido en Akira<br>Cuando se produce una actualización en el estado de envío de mis productos<br>Entonces recibo notificaciones o correos electrónicos informativos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|
 | EP-07<br>(##5176446) 	| US-32         	| Comunicación con Akira en la aplicación                                  	| Como usuario, quiero tener la opción de comunicarme con el servicio de atención al cliente de Akira a través de diferentes canales, como correo electrónico o número de teléfono.                                                                                             	| Escenario 1: Comunicación por correo electrónico<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando necesito ponerme en contacto con el servicio de atención al cliente<br>Entonces encuentro la dirección de correo electrónico proporcionada en la sección de contacto<br>Y envío un correo electrónico detallando mi consulta o problema<br><br>Escenario 2: Comunicación telefónica<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando necesito asistencia inmediata del servicio de atención al cliente<br>Entonces encuentro el número de teléfono proporcionado en la sección de contacto<br>Y llamo al número de teléfono para hablar directamente con un representante del servicio de atención al cliente<br>Y obtengo respuestas y soluciones a mis consultas o problemas de manera oportuna                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	|
-| EP-07<br>(##5176446) 	| US-33         	| Visualización de las redes sociales de Akira en la aplicación                                  	| Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.                                                                                                                                                             	| Escenario 1: Acceso a las redes sociales<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando quiero encontrar las redes sociales de la tienda<br>Entonces encuentro los iconos de las redes sociales en la página principal o en el pie de página del sitio web<br>Y hago clic en los iconos para acceder a las páginas de redes sociales de Akira                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| EP-07<br>(##5176446) 	| US-33         	| Visualización de las redes sociales de Akira en la aplicación                                  	| Como usuario, quiero visualizar las redes sociales de la tienda para poder encontrarme al tanto de sus novedades.                                                                                                                                                             	| Escenario 1: Acceso a las redes sociales<br>Dado que soy un usuario en el sitio web de Akira<br>Cuando quiero encontrar las redes sociales de la tienda<br>Entonces encuentro los iconos de las redes sociales en la página principal o en el pie de página del sitio web<br>Y hago clic en los iconos para acceder a las páginas de redes sociales de Akira                                                                       |             |       |                                                                         |                                                                                                                                                                  |                                                                                                                 |
+| EP-08<br>(##5187299)      | US-34 | Visualización de la estructura adecuada de packages de backend con java | Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service). | Escenario 1: Navegar por la estructura Dado que soy un desarrollador trabajando en un proyecto backend con Java<br><br> Cuando abro el proyecto en un IDE como JetBrains IntelliJ IDEA <br>Entonces puedo ver la correcta estructura de packages en la ventana del proyecto <br> Y puedo examinar el código fuente de las clases para comprender su funcionalidad y relaciones.                  |                                                                                       |             |       |                                                                         |                                                                                                                                                                  |                                                                                                                 |
+| EP-08<br>(##5187299)      | US-35 | Correcto modelado de las clases en Java | Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos. | Escenario 1: Organización de clases en el package "model" <br><br> Dado que soy un desarrollador trabajando en un proyecto backend con Java <br>Cuando abro el proyecto en JetBrains IntelliJ IDEA <br>Entonces puedo ver que todas las clases dentro del package "model" están correctamente estructuradas <br> Y puedo identificar claramente la organización de los datos en cada una de las clases.  |                                                                    |             |       |                                                                         |                                                                                                                                                                  |                                                                                                                 |
+| EP-08<br>(##5187299)      | US-36 | Comunicación con el Frontend de Akira | Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación. | Escenario 1: Configuración de la comunicación entre el backend y el frontend de Akira <br><br> Dado que soy un desarrollador trabajando en el proyecto de backend de Akira con tecnologías como Node.js y Express,<br> Cuando abro el código fuente en JetBrains WebStorm <br> Entonces puedo verificar que se han configurado correctamente las rutas y controladores en el backend para manejar las solicitudes provenientes del frontend.                                                                                                                                                                                                 	|
 
 
 
@@ -1793,7 +1804,7 @@ Visualizamos la creación de nuestros 7 Epics y 36 User Stories.
 <br><br>
 
 
-Con el transcurso del desarollo de los sprints, se fueron iniciando todos los user stories
+Con el transcurso del desarrollo de los sprints, se fueron iniciando todos los user stories
 
 ![Alt text](img/image-80.png)
 
@@ -1818,7 +1829,7 @@ Vemos un total de 71 Story Points y un velocity aproximado de 10 pts (Lambders t
 
 Se muestra la tabla generada de Product Backlog:
 
-| Orden | User Story ID | Título                                    | Descripción                                                                                                                                                                                           | Story Points |
+| Orden | User Story ID | Título                                    | Descripción                                                                                                                                                                                           | Story Points <br> (1,2,3) |
 |-------|--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 1     | US-01        | Creación de landing page atractiva               | Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.                                                                  | 2            |
 | 2     | US-02        | Interfaz intuitiva para comprender la propuesta de valor de Lambders               | Como usuario, quiero una interfaz intuitiva y fácil de utilizar para comprender rápidamente qué hace la empresa y qué es lo que me ofrece.                                                          | 3            |
@@ -1987,7 +1998,7 @@ Referencia de tamaño: 1440 x 1024
 
 <br><br>
 
-**Adicionales:**
+**Elementos extras:**
 ![Alt text](img/image-102.png)
 
 *Imagen 63: Elementos Adicionales*
@@ -2001,7 +2012,7 @@ ___
 
 ## 4.2.1. Organization Systems
 
-Link para mejor visualización de los organization systems: 
+**Link para mejor visualización de los organization systems:** 
 
 https://miro.com/app/board/uXjVPTYasuY=/#tpicker-content 
 
@@ -2058,10 +2069,10 @@ Figura: Ejemplo de aplicación de los SEO Tags
 **b. Meta Tags**
 
 Meta Robots Tag: Empleamos index y follow para que AKIRA pueda ser mostrada en los motores de búsqueda:
-- <meta name = " robots " content = " index , follow " >
+- `<meta name = " robots " content = " index , follow " >`
 
 Meta Author Tag: Ya que el nombre del startup es Lamders, colocamos lo siguiente:
-- <meta name="author" content="Lambders Inc.">
+- `<meta name="author" content="Lambders Inc.">`
 
 <br><br>
 ___
@@ -3949,7 +3960,7 @@ ___
 
 Desarrollamos nuestros prototipados en la herramienta Figma, la cual también nos ayudó a diseñar Wireframes y Mock-Ups de la vista Web y Móvil.
 
-Link de Figma
+**Link de Figma**
 
 https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145-2&mode=design 
 
@@ -3960,6 +3971,8 @@ https://www.figma.com/file/tZlAFtQt2w3gPUFGJdxAYu/AKIRA?type=design&node-id=2145
 <br>
 
 En el siguiente video, mostramos la visualización de nuestro prototipado Web, ejecutado en Figma. Apreciamos todas las funcionalidades de Akira.
+
+**URL video de prototipado Web:**
 
 [upc-pre-202302-si729-ws52-lambders-web-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EaAWfXkVraVKiB1JAaHffIwBFcuzi5YuXJJ6ZIPOnwvdpw?e=hzgQwh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
@@ -3974,6 +3987,7 @@ En el siguiente video, mostramos la visualización de nuestro prototipado Web, e
 En el siguiente video, mostramos una visualización de nuestro prototipado móvil, realizado en Figma. Apreciamos todas las funcionalidades de Akira.
 URL video de prototipado Mobile Version:
 
+**URL video de prototipado Mobile Version:**
 
 [upc-pre-202302-si729-ws52-lambders-mobile-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EX7ihQI8gWhNtMnqskgYwbEB54X0uZlhPbw5uPp9_UyUow?e=W9H2wu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
@@ -4039,7 +4053,8 @@ ___
 
 ## 4.7.1. Class Diagrams 
 
-URL de LucidChard: https://lucid.app/lucidchart/e121f465-3395-4342-bc0b-d0ef6b2c9f91/edit?invitationId=inv_7ff8d82a-54fb-4e4d-8d9d-be9f7531afe3&page=0_0# 
+URL de LucidChard:
+ https://lucid.app/lucidchart/e121f465-3395-4342-bc0b-d0ef6b2c9f91/edit?invitationId=inv_7ff8d82a-54fb-4e4d-8d9d-be9f7531afe3&page=0_0# 
 
 Nuestro diagrama de clases está conformado por 13 clases:
 
@@ -4058,7 +4073,7 @@ ___
 A continuación, se presenta en la siguiente tabla, las clases más relevantes.
 
 
-| User                                                                                                                                       |                                                                                                                                                            |
+| User |                                                                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | La clase User representa los datos que el usuario debe de completar con su información para registrarse y utilizar los servicios de Akira. |                                                                                                                                                            |
 | Atributo                                                                                                                                   | Descripción                                                                                                                                                |
@@ -4145,7 +4160,8 @@ ___
 
 ## 4.8.1. Database Diagram 
 
-Link Vertabelo: https://my.vertabelo.com/public-model-view/ZnJaPxrKLsaEZjUsf8SIdOzL41eWWrKFl5oObYkr5a3b5hJYsuXLci3bzCQK1VXL?x=13218&y=13276&zoom=1.9571 
+Link Vertabelo: 
+https://my.vertabelo.com/public-model-view/ZnJaPxrKLsaEZjUsf8SIdOzL41eWWrKFl5oObYkr5a3b5hJYsuXLci3bzCQK1VXL?x=13218&y=13276&zoom=1.9571 
 
 Se diagramó una base de datos relacional con SQL y la herramienta Vertabelo, para almacenar y gestionar la información relacionada de los productos, usuarios, carritos de compras, direcciones de envío, filtros y tarjetas de crédito. Nuestra DB está compuesta por 9 tablas: producto, carritos, productos_por_carrito, usuario, tarjeta, direccion, categoria y  filtro, categorias_por_filtro, permitiendo almacenar la información personal del usuario, datos de tarjeta, de dirección, detalles de los productos de Akira, los detalles de filtros de búsqueda y las categorías de Akira.
 
@@ -4216,7 +4232,7 @@ URL:  https://cucumber.io/
 
 **Product UX/UI Design:**
 
-●	Figma: Es una herramienta líder en diseño de interfaces de usuario (UI) y experiencia de usuario (UX) que ha ganado popularidad entre los profesionales del diseño. Esta plataforma está basada en la nube que permite a los equipos colaborar y crear diseños de alta calidad de manera eficiente.
+●	**Figma:** Es una herramienta líder en diseño de interfaces de usuario (UI) y experiencia de usuario (UX) que ha ganado popularidad entre los profesionales del diseño. Esta plataforma está basada en la nube que permite a los equipos colaborar y crear diseños de alta calidad de manera eficiente.
 Una de las características destacadas de Figma es su enfoque en la colaboración en tiempo real. Varios diseñadores pueden trabajar en un mismo proyecto simultáneamente, lo que facilita la comunicación y la iteración rápida. Además, los equipos pueden compartir fácilmente sus diseños con otros miembros del equipo y recibir comentarios y sugerencias en tiempo real.
 La herramienta en mención ofrece una amplia gama de herramientas y funcionalidades que permiten a los diseñadores crear y prototipar interfaces de usuario interactivas. Desde la creación de componentes reutilizables hasta la creación de animaciones y transiciones, Figma proporciona todas las herramientas necesarias para diseñar experiencias de usuario atractivas y funcionales.
 Otra ventaja es su capacidad para integrarse con otras herramientas y servicios populares. Puede conectarse con aplicaciones de diseño, como Sketch y Adobe XD, lo que permite una fácil migración de proyectos y colaboración con diseñadores que utilizan diferentes plataformas.
@@ -4231,7 +4247,7 @@ URL: https://www.figma.com/
 <br><br>
 
 
-●	UXPressia: Es una plataforma en línea que ofrece soluciones para el mapeo y diseño de experiencias de usuario (UX) de manera colaborativa. Con una variedad de herramientas y plantillas, UXPressia se enfoca en ayudar a los profesionales de UX a visualizar, analizar y comunicar de manera efectiva las experiencias de usuario.
+●	**UXPressia:** Es una plataforma en línea que ofrece soluciones para el mapeo y diseño de experiencias de usuario (UX) de manera colaborativa. Con una variedad de herramientas y plantillas, UXPressia se enfoca en ayudar a los profesionales de UX a visualizar, analizar y comunicar de manera efectiva las experiencias de usuario.
 Una de las características destacadas de UXPressia es su capacidad para crear mapas de empatía, customer journey maps, personas, diagramas de servicio y otros artefactos de UX. Estas herramientas permiten a los equipos de UX comprender mejor a los usuarios y sus necesidades, identificar oportunidades de mejora y diseñar soluciones centradas en el usuario.
 La plataforma de UXPressia también facilita la colaboración en tiempo real, lo que significa que los equipos pueden trabajar juntos en proyectos, realizar revisiones y comentarios, y mantenerse actualizados sobre los cambios realizados. Esto promueve una mayor eficiencia y mejora la comunicación entre los miembros del equipo, incluso si están geográficamente dispersos.
 Además, UXPressia ofrece integraciones con otras herramientas populares de diseño y colaboración, como Slack y Trello, lo que facilita la sincronización y el intercambio de datos entre diferentes plataformas.
@@ -4245,7 +4261,7 @@ URL: https://uxpressia.com/
 <br><br>
 
 
-●	Adobe Illustrator: Es una herramienta de diseño gráfico y creación de ilustraciones vectoriales ampliamente utilizada en la industria creativa. Es parte de la suite de software de Adobe Creative Cloud y se destaca por su amplia gama de herramientas y capacidades de diseño.
+●	**Adobe Illustrator:** Es una herramienta de diseño gráfico y creación de ilustraciones vectoriales ampliamente utilizada en la industria creativa. Es parte de la suite de software de Adobe Creative Cloud y se destaca por su amplia gama de herramientas y capacidades de diseño.
 Con Adobe Illustrator, los diseñadores pueden crear gráficos vectoriales escalables, lo que significa que las ilustraciones pueden ampliarse o reducirse sin perder calidad. Esto es especialmente útil para logotipos, iconos, ilustraciones y otros elementos gráficos que deben adaptarse a diferentes tamaños y resoluciones.
 La interfaz de Adobe Illustrator es intuitiva y ofrece una amplia gama de herramientas de dibujo, edición y manipulación de formas. Los diseñadores pueden crear formas personalizadas, aplicar gradientes, utilizar pinceles y trazos, agregar efectos y mucho más. También se pueden importar y editar imágenes y fotografías en Illustrator.
 Otra característica destacada de Adobe Illustrator es su capacidad para trabajar con capas, lo que permite a los diseñadores organizar y editar elementos de forma independiente. Esto facilita la manipulación y modificación de diseños complejos.
@@ -4263,7 +4279,7 @@ URL: https://www.adobe.com/la/products/illustrator.html
 
 **Software Development:**
 
-●	IDE: Visual Studio Code: Es un editor de código fuente desarrollado por Microsoft. Es una herramienta muy popular entre los desarrolladores debido a su gran versatilidad, extensibilidad y facilidad de uso.
+●	IDE: **Visual Studio Code:** Es un editor de código fuente desarrollado por Microsoft. Es una herramienta muy popular entre los desarrolladores debido a su gran versatilidad, extensibilidad y facilidad de uso.
 Este editor es bastante conocido por su amplia gama de características y extensiones, que permiten a los desarrolladores personalizar su experiencia de codificación de acuerdo a sus necesidades específicas.
 Una de las características destacadas de VS Code es el resaltado de sintaxis. Ofrece soporte para una amplia variedad de lenguajes de programación y proporciona resaltado de sintaxis para facilitar la lectura y comprensión del código. Además, VS Code ofrece autocompletado inteligente, lo que significa que sugiere código basado en el contexto, ayudando a los desarrolladores a escribir código más rápido y sin errores.
 La herramienta de depuración integrada es otra característica clave de VS Code. Permite a los desarrolladores ejecutar y depurar su código directamente desde el editor, lo que facilita la identificación y corrección de errores. VS Code también ofrece integración con control de versiones, como Git, lo que permite a los desarrolladores realizar seguimiento de cambios, realizar confirmaciones y fusiones, y colaborar en proyectos fácilmente. El editor también incluye una terminal integrada que permite ejecutar comandos y scripts directamente desde el editor, eliminando la necesidad de cambiar entre ventanas y herramientas.
@@ -4278,7 +4294,7 @@ URL: https://code.visualstudio.com/
 
 <br><br>
 
-●	Framework AngularJS: Es  un framework de JavaScript desarrollado por Google que se utiliza para construir aplicaciones web de una sola página (SPA). Es ampliamente conocido por su capacidad para crear aplicaciones web dinámicas y altamente interactivas.
+●	**Framework AngularJS:** Es  un framework de JavaScript desarrollado por Google que se utiliza para construir aplicaciones web de una sola página (SPA). Es ampliamente conocido por su capacidad para crear aplicaciones web dinámicas y altamente interactivas.
 Una de las características más destacadas de AngularJS es su enfoque en la arquitectura Model-View-Controller (MVC), que permite separar la lógica de negocio, la presentación y la manipulación de datos. Esto facilita la estructuración y el mantenimiento del código, lo que a su vez mejora la escalabilidad y la legibilidad del proyecto.
 AngularJS también utiliza el enlace de datos bidireccional, lo que significa que cualquier cambio en el modelo de datos se reflejará automáticamente en la vista y viceversa. Esto simplifica la manipulación y actualización de los datos en tiempo real, sin necesidad de escribir código adicional.
 Además, AngularJS proporciona una amplia gama de directivas predefinidas que permiten extender HTML y agregar funcionalidades adicionales a los elementos de la página. Estas directivas facilitan la implementación de interacciones complejas y la manipulación del DOM de una manera más declarativa. Otra característica clave de AngularJS es su sistema de inyección de dependencias. Permite a los desarrolladores definir y administrar las dependencias de manera eficiente, lo que facilita la reutilización del código y mejora la modularidad de la aplicación.
@@ -4292,7 +4308,7 @@ URL: https://angularjs.org/
 
 <br><br>
 
-●	Html: Es un lenguaje de marcado estándar utilizado para crear y estructurar el contenido de las páginas web. Es la base fundamental de cualquier sitio web y se utiliza para definir la estructura y el diseño de los elementos en una página.
+●	**Html:** Es un lenguaje de marcado estándar utilizado para crear y estructurar el contenido de las páginas web. Es la base fundamental de cualquier sitio web y se utiliza para definir la estructura y el diseño de los elementos en una página.
 En HTML, los elementos se definen utilizando etiquetas, que están delimitadas por los símbolos "<" y ">". Cada etiqueta describe un elemento específico, como encabezados, párrafos, imágenes, enlaces, formularios, entre otros.
 Una de las características clave de HTML es su capacidad para organizar el contenido en una estructura jerárquica utilizando elementos de encabezado (h1, h2, h3, etc.) y párrafos (p). Esto ayuda a los motores de búsqueda y a los lectores de pantalla a comprender la jerarquía y la importancia del contenido.
 HTML también permite la inclusión de enlaces (a) para conectar diferentes páginas y recursos, imágenes (img) para mostrar gráficos y multimedia, y formularios (form) para recopilar información de los usuarios.
@@ -4307,7 +4323,7 @@ URL: https://html.com
 <br><br>
 
 
-●	CSS: Es un lenguaje utilizado para definir el aspecto y el diseño de los elementos en una página web. Se utiliza en conjunto con HTML para dar estilo y personalidad a los elementos y mejorar la apariencia visual de un sitio web.
+●	**CSS:** Es un lenguaje utilizado para definir el aspecto y el diseño de los elementos en una página web. Se utiliza en conjunto con HTML para dar estilo y personalidad a los elementos y mejorar la apariencia visual de un sitio web.
 En CSS, se pueden aplicar estilos a los elementos HTML utilizando selectores. Los selectores permiten identificar los elementos a los que se les aplicará un estilo específico. Por ejemplo, el selector de etiqueta se utiliza para aplicar estilos a todos los elementos de una etiqueta específica, como "p" para párrafos o "h1" para encabezados de nivel 1.
 CSS ofrece una amplia variedad de propiedades para controlar el aspecto visual de los elementos. Algunas de las propiedades más comunes incluyen:
 ●	Color: permite especificar el color del texto o del fondo de un elemento.
@@ -4329,7 +4345,7 @@ URL: https://lenguajecss.com/
 <br><br>
 
 
-●	JavaScript: Es un lenguaje de programación orientado a objetos, utilizado principalmente para crear interactividad en páginas web. Es un lenguaje interpretado que se ejecuta en el lado del cliente, lo que significa que se ejecuta en el navegador web del usuario.
+●	**JavaScript:** Es un lenguaje de programación orientado a objetos, utilizado principalmente para crear interactividad en páginas web. Es un lenguaje interpretado que se ejecuta en el lado del cliente, lo que significa que se ejecuta en el navegador web del usuario.
 Una de las características clave de JavaScript es su capacidad para manipular y modificar el contenido de una página web en tiempo real. Esto permite crear efectos visuales, validar formularios, realizar solicitudes a servidores y muchas otras interacciones dinámicas.
 JavaScript también es un lenguaje versátil que se puede utilizar tanto en el lado del cliente como en el lado del servidor. En el lado del cliente, se utiliza para interactuar con el DOM (Document Object Model) y manipular elementos HTML, CSS y eventos. En el lado del servidor, se utiliza con frameworks como Node.js para desarrollar aplicaciones web y APIs.
 Además, JavaScript es un lenguaje basado en eventos, lo que significa que se pueden definir acciones que se ejecutan en respuesta a eventos del usuario, como hacer clic en un botón o mover el mouse. Esto permite crear experiencias interactivas y mejorar la usabilidad de una página web.
@@ -4380,7 +4396,10 @@ URL Landing Page desplegada:
 https://si729-grupo2-ws52-open-source.github.io/Landing-Page/ 
 
 URL Frontend desplegada:
-https://gabbrm.github.io/pruebaAngular/ 
+https://akira-ecommerce.netlify.app/ 
+
+URL Backend desplegada:
+http://20.55.32.254:8080/swagger-ui/index.html#/ 
 
 **Repositorios**
 URL del repositorio de Landing Page
@@ -4396,7 +4415,7 @@ https://github.com/SI729-Grupo2-WS52-Open-Source/Frontend-Web-Applications
 
 **Implementación del Gitflow**
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-113.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-gitflow.png)
 
 *Imagen 292: Gitflow*
 
@@ -4428,7 +4447,7 @@ Se crearon tres repositorios, Landing Page, Web Services y Frontend Web Applicat
 *Imagen 293: Repositorios*
 <br><br>
  
-Visualizamos la creación de las cuatro ramas por cada repositorio (master, realease, develop y feature)
+Visualizamos la creación de las cuatro ramas por cada repositorio (master, release, develop y feature)
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-121.png)
 
@@ -4445,7 +4464,12 @@ Visualizamos la creación de las cuatro ramas por cada repositorio (master, real
 *Imagen 296: Github Branches*
 <br><br>
    
- 
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-branches.png)
+
+*Imagen 297: Github Branches*
+<br><br>
+    
+
 Ahora, procedemos a mostrar el control de versiones por cada rama y por cada repositorio, iniciando con el Lading Page Repository
 En la rama master, observamos una versión estable y desplegada.
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-119.png)
@@ -4508,18 +4532,18 @@ ___
 
 **Convenciones de HTML:**
 
-- Siempre declarar el tipo de documento en la primera línea del documento, para HTML es "<!DOCTYPE html>”.
+- Siempre declarar el tipo de documento en la primera línea del documento, para HTML es "`<!DOCTYPE html>`”.
 - Usar nombres de elementos en minúsculas, aunque HTML te permite mezclar letras en mayúsculas y minúsculas en los nombres de los elementos, se nos recomienda usar elementos en minúscula porque se ve mal si mezclamos nombres en mayúsculas con minúsculas, los desarrolladores usan nombres en minúsculas, las minúsculas se ven más limpias y es más fácil de escribir.
-- En HTML, no tiene que cerrar todos los elementos (Por ejemplo <p>), pero se nos recomienda cerrar todos los elementos.
+- En HTML, no tiene que cerrar todos los elementos (Por ejemplo `<p>`), pero se nos recomienda cerrar todos los elementos.
 - Se nos recomienda también escribir los atributos en minúsculas porque es el estándar y para que nuestro código sea entendible. 
 - Se nos recomienda citar siempre valores de atributo, aunque se permita escribir sin comillas, se ha estandarizado entre los desarrolladores hacerlo siempre, para una mejor lectura.
 - Se nos recomienda especificar el alt, ancho y altura para las imágenes. Siempre hay que definir el width y height de las imágenes para reducir el parpadeo.
 - Se nos recomienda no usar el espacio al momento de utilizar los signos porque es más fácil de leerlo de esta forma
 - Se recomienda evitar líneas de código largas, no agregar líneas en blanco, espacios o sangrías sin razón. Sin embargo, podemos utilizar las líneas en blanco para separar bloques de código grandes o lógicos. Adicionalmente, podemos agregar 2 espacios de sangría para facilitar la lectura sin utilizar la tabulación.
-- Nunca se debe omitir el elemento title porque el contenido del título de una página siempre es muy importante
-- No omitir las etiquetas <html>, <body> y <cabeza>.
-- Se nos recomienda agregar el atributo lang dentro del atributo de la <html> etiqueta, para declarar el idioma de la página
-- Incluir siempre el elemento <meta> en todas las páginas para la configuración de la ventana gráfica.
+- Nunca se debe omitir el elemento `<title>` porque el contenido del título de una página siempre es muy importante
+- No omitir las etiquetas `<html>`, `<body>` y `<cabeza>`.
+- Se nos recomienda agregar el atributo lang dentro del atributo de la `<html>` etiqueta, para declarar el idioma de la página
+- Incluir siempre el elemento `<meta>` en todas las páginas para la configuración de la ventana gráfica.
 Escribir en una línea los comentarios cortos
 
 <br><br>
@@ -4566,7 +4590,7 @@ Es un lenguaje de programación de alto nivel, interpretado y orientado a objeto
 - Evitar el uso de nombres de variables genéricos o ambiguos.
 - Utilizar comentarios para explicar el propósito y funcionalidad del código.
 - Utilizar indentación de 2 espacios para mejorar la legibilidad del código.
-- Utilizar operadores de comparación estricta (= ==) en lugar de la igualdad débil (= =) cuando sea posible.
+- Utilizar operadores de comparación estricta (===) en lugar de la igualdad débil (= =) cuando sea posible.
 - Utilizar punto y coma al final de cada declaración.
 - Utilizar comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
 - Organizar el código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
@@ -4716,7 +4740,10 @@ ___
 
 ## 5.2.1.2. Sprint Backlog 1
 
-Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story (Work-Item / Task)
+Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el user story
+
+
+
 | EPIC ID             	| EPIC Title                 	| US ID 	| US Title                                                             	| Description                                                                                                                                                                                                                                        	| Estimation (Hours) 	| Assigned To       	| Status(To-Do/In Process/Done) 	|
 |---------------------	|----------------------------	|-------	|----------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------	|-------------------	|-------------------------------	|
 | EP-01<br>#185942721 	| Accesibilidad de la página 	| US-01 	| Creación de landing page atractiva                                   	| Como usuario, quiero ver un landing page visualmente atractiva y profesional para obtener una buena primera impresión de la empresa.                                                                                                               	| 5 hours            	| Marcelo Scerpella 	| Done                          	|
@@ -5778,9 +5805,9 @@ Agregué contenido del informe
 ## 5.2.3 Sprint 3
 
 ## 5.2.3.1. Sprint Planning 3
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-250.png)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-251.png)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-252.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-253.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-254.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-255.png)
 
 
 <br><br>
@@ -5796,31 +5823,21 @@ Mediante la siguiente tabla, estableceremos las tareas que se relacionan con el 
 | EP-08<br>#5187299  	| Desarrollo de Backend                          	| -US-34 	| Correcto modelado de las clases en Java    	| Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos. | -Definir la estructura de la base de datos <br><br>-Mapeo objeto-relacional (ORM)<br><br>-Asegurar la coherencia entre el modelo y la base de datos| -3 hours<br><br>-4 hours<br><br>-2 hours            	| Michelle Moreno    	| Done                          	|
 |  	|                          	| US-35	| Visualización de la estructura adecuada de packages de backend con java    	| Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service). | Implementar métodos de acceso a datos         | 6 hours 	| Nirvana Garcia    	| Done    
 |  	|                          	| US-36	| Comunicación con el Frontend de Akira   	| Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación. | Realizar conectividad         | 7 hours 	| Gabriel Bernal    	| Done    
-<br><br>
 ___
 <br>
 
 ## 5.2.3.3. Development Evidence for Sprint Review
 
-**Repositorio Web Services:**
+**Repositorio Web Services y Acceptance-Test:**
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-253.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-256.png)
 
 
 <br><br>
 
-**Repositorio Acceptance-Tests:**
+**Repositorio Project Statement y Landing Page:**
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-254.png)
-
-**Repositorio Project Statement:**
-
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-255.png)
-
-**Repositorio Landing Page:**
-
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-256.png)
-
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-257.png)
 
 <br><br>
 ___
@@ -5832,33 +5849,33 @@ Incluimos el código de los .feature Files, explicando con qué User Stories de 
 
 Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherkin. En particular, realizamos esto para los user stories 34, 35 y 36.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-257.png)
-
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-258.png)
-
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-259.png)
-
-Posteriormente, realizamos un git pull a estos .feature en su Repository correspondiente, el cual se llama “Acceptance Test (Gherkin)”.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-260.png)
 
-Podemos visualizar la correcta subida de los archivos .feature en el repository a continuación:
-
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-261.png)
+
+Posteriormente, realizamos un git pull a estos .feature en su Repository correspondiente, el cual se llama “Acceptance Test (Gherkin)”.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-262.png)
 
+Podemos visualizar la correcta subida de los archivos .feature en el repository a continuación:
+
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-263.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-264.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-265.png)
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
 
 
 En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en Angular JS, pueda comunicarse con él.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-264.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-266.png)
 
 
-URL video evidencia implementación del sprint: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EUhZamuD7SVOs-rlIogbYF4BT_3GhJzJXFzucRZ6iiAwOA?e=MiV5fV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+URL video evidencia implementación del sprint: [upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EUhZamuD7SVOs-rlIogbYF4BT_3GhJzJXFzucRZ6iiAwOA?e=MiV5fV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 
 **Evidencia de implementación por cada US#**
@@ -5866,7 +5883,7 @@ URL video evidencia implementación del sprint: [Video](https://upcedupe-my.shar
 **US-34 Visualización de la estructura adecuada de packages de backend con java**
 Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-265.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-267.png)
 
 <br><br>
 
@@ -5874,32 +5891,32 @@ Como desarrollador, quiero visualizar correctamente la estructura convencional d
 Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
 
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-266.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-268.png)
 
 En esta imagen se visualiza en la carpeta model la clase de Cart donde van todos los campos para esta clase (id, name, surname, email, password, payment) y se está modelando el carrito de compras de una aplicación. La clase Cart está anotada con JPA para mapeo a base de datos utilizando @Entity y @Table, esto permitirá persistir los objetos de esta clase en la tabla "cart". Definimos un atributo id de tipo Long que será la llave primaria generada automáticamente con GenerationType.IDENTITY.
 Se incluyen atributos como quantity para llevar el control de cantidades, userId para vincular cada carrito a un usuario y los campos del producto que irá en cada ítem del carrito.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-267.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-269.png)
 
  
 En esta clase Order se está modelando la entidad para representar los pedidos realizados en la aplicación. El atributo id es la primary key generada automáticamente. También se incluyen campos como email, address, contact para almacenar datos de envío y se lleva registro del precio total con el campo totalPrice. Esta clase permite representar de forma normalizada los pedidos realizados en la tienda, almacenando la información de envío requerida y vinculando cada registro con el usuario comprador.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-268.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-270.png)
 
 En esta clase Product se está modelando la entidad que representa los productos disponibles en la tienda. Se definen distintos atributos como nameCategory, name, price, color, category, description e image, los cuales permitirán almacenar los datos necesarios de cada producto. Anotaciones como @Column indican el mapeo a columnas en la tabla junto con validaciones como longitud y si son nulas o no. Este modelo relacional de producto facilita escalar la aplicación de forma que se puedan gestionar y mostrar de manera eficiente un amplio catálogo de artículos. Asimismo, representa correctamente los atributos más usuales que definen un producto en el contexto de una tienda electrónica.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-269.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-271.png)
 
 En esta clase Shipping se está modelando la entidad que representará los métodos y direcciones de envío de una orden. Se definen atributos como address, district, province para almacenar los datos de dirección de envío. También se incluyen campos para el método de pago como paymentMethod y una tarjeta vinculada linkedCard. Esta entidad permite almacenar de forma normalizada la información necesaria para gestionar tanto el envío como la forma de pago de cada pedido. Las anotaciones como @Column definen claramente el mapeo a columnas.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-270.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-272.png)
 
 En esta clase User se está modelando la entidad para representar a los usuarios registrados en la aplicación. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. Además, se dispone de un campo payment opcional para almacenar información de pago del usuario. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. También se dispone de un campo payment opcional para almacenar información de pago del usuario.
 
 **US-36 Comunicación con el Frontend de Akira**
 Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-271.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-273.png)
  
 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
@@ -5932,42 +5949,42 @@ Tabla de Endpoints, en donde visualizamos todos los métodos que podemos realiza
 **Postman**
 Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products], y la acción GET.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-272.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-274.png)
 
 
 Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/anime], y la acción GET.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-273.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-275.png)
 
 Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/kpop], y la acción GET.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-274.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-276.png)
 
 Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/products/popular], y la acción GET.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-275.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-277.png)
 
 Visualizamos la creación de nuestra base de datos desde la consola de Linux, mostrando las respectivas tablas.
 
 Tabla de Productos:
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-276.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-278.png)
 
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-277.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-279.png)
 
 Tabla de usuarios:
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-278.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-280.png)
 
 
 Swagger
 Mostramos el uso de Swagger en el Backend
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-279.png)
-
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-280.png)
-
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-281.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-282.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-283.png)
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -5977,53 +5994,53 @@ En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce 
 En cuanto al Deployment de este producto para el Sprint 3, se desplegó nuestro Frontend mediante Github Pages y el Backend mediante Microsoft Azure y Sprint Boot.
 
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-282.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-284.png)
 
 Empleo de Spring Boot Initializr para la creación de la estructura de backend. Nuestro proyecto se ha realizado con Maven, el lenguaje de programación Java, la versión de Spring Boot 3.1.5, la versión 17 de Java y las dependencias correspondientes.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-283.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-285.png)
 
 Utilizamos Microsoft Azure para el despliegue del Backend.
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-284.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-286.png)
 
 Por otro lado, empleamos Netlify para el despliegue del Frontend
 Utilizamos Microsoft Azure para el despliegue del Backend.
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-285.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-287.png)
 
 **Evidencia de implementación por cada US#**
 
 **US-34 Visualización de la estructura adecuada de packages de backend con java**
 Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-286.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-288.png)
 
 **US-35 Correcto modelado de las clases en Java**
 Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-287.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-289.png)
 
 En esta imagen se visualiza en la carpeta model la clase de Cart donde van todos los campos para esta clase (id, name, surname, email, password, payment) y se está modelando el carrito de compras de una aplicación. La clase Cart está anotada con JPA para mapeo a base de datos utilizando @Entity y @Table, esto permitirá persistir los objetos de esta clase en la tabla "cart". Definimos un atributo id de tipo Long que será la llave primaria generada automáticamente con GenerationType.IDENTITY.
 Se incluyen atributos como quantity para llevar el control de cantidades, userId para vincular cada carrito a un usuario y los campos del producto que irá en cada ítem del carrito.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-288.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-290.png)
 
 En esta clase Order se está modelando la entidad para representar los pedidos realizados en la aplicación. El atributo id es la primary key generada automáticamente. También se incluyen campos como email, address, contact para almacenar datos de envío y se lleva registro del precio total con el campo totalPrice. Esta clase permite representar de forma normalizada los pedidos realizados en la tienda, almacenando la información de envío requerida y vinculando cada registro con el usuario comprador.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-289.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-291.png)
 
 En esta clase Product se está modelando la entidad que representa los productos disponibles en la tienda. Se definen distintos atributos como nameCategory, name, price, color, category, description e image, los cuales permitirán almacenar los datos necesarios de cada producto. Anotaciones como @Column indican el mapeo a columnas en la tabla junto con validaciones como longitud y si son nulas o no. Este modelo relacional de producto facilita escalar la aplicación de forma que se puedan gestionar y mostrar de manera eficiente un amplio catálogo de artículos. Asimismo, representa correctamente los atributos más usuales que definen un producto en el contexto de una tienda electrónica.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-290.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-292.png)
 
 En esta clase Shipping se está modelando la entidad que representará los métodos y direcciones de envío de una orden. Se definen atributos como address, district, province para almacenar los datos de dirección de envío. También se incluyen campos para el método de pago como paymentMethod y una tarjeta vinculada linkedCard. Esta entidad permite almacenar de forma normalizada la información necesaria para gestionar tanto el envío como la forma de pago de cada pedido. Las anotaciones como @Column definen claramente el mapeo a columnas.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-291.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-293.png)
 
 En esta clase User se está modelando la entidad para representar a los usuarios registrados en la aplicación. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. Además, se dispone de un campo payment opcional para almacenar información de pago del usuario. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. También se dispone de un campo payment opcional para almacenar información de pago del usuario.
 
 **US-36 Comunicación con el Frontend de Akira**
 Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-292.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-294.png)
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint 
 
@@ -6033,43 +6050,43 @@ a. Nirvana García
 
 Agregué el apartado de Heurísticas en el informe, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-293.png)
-
-Agregué el apartado de video about the product dentro del Landing Page. (feature branch)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-294.png)
-
-Agregué la versión 3.1 dentro del Landing Page. (develop branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-295.png)
 
-Agrupe la versión 3 del Landing Page (release branch)
+Agregué el apartado de video about the product dentro del Landing Page. (feature branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-296.png)
+
+Agregué la versión 3.1 dentro del Landing Page. (develop branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-297.png)
+
+Agrupe la versión 3 del Landing Page (release branch)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-298.png)
 
 b. Gabriel Bernal
 
 Agregué el backend de Akira (main branch)
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-297.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-299.png)
 
 
 c. Michelle Moreno
 
 Agregué el apartado de Sprint 3, Sprint Backlog 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-298.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-300.png)
 
 Agregué la versión 3.1 completa dentro del Landing Page. (feature branch)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-299.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-301.png)
 
 Agregué la versión 3.1 dentro del Landing Page. (develop branch)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-300.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-302.png)
 
 d. Marcelo Scerpella
 
 Agregué el apartado de Diseño de entrevistas y Análisis de Entrevistas en Sprint 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-301.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-303.png)
 
 e. Luis Aquije
 Agregué los .feature para los US-34. US-35 y US-36 (master branch)
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-302.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-304.png)
 
 
 ## 5.3 Validation Interviews
@@ -6078,10 +6095,10 @@ Agregué los .feature para los US-34. US-35 y US-36 (master branch)
 Para esta validación se incluirán los siguientes productos:
 
 **Landing Page**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-303.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-305.png)
 
 **FrontEnd Web Application**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-304.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-306.png)
 
 **User Flows a validar (En Landing Page)**
 
@@ -6110,10 +6127,10 @@ Video de las entrevistas:
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/Eeec5BPHF8BAgd0-MRJft-MBcYjShGBtbhYuB0Ei0fbsPA?e=3gvvLu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19]
 
 Realizamos 6 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el Landing Page como el Frontend Web Application.
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-305.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-307.png)
 
 **Entrevista N°1 (Fanática del entretenimiento asiático)**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-306.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-308.png)
 Entrevistador: Nirvana García Vásquez
 Entrevistada: Fiorella Tamariz Pantoja
 Tiempo en el video: [00:00:00] - [00:11:21]
@@ -6121,7 +6138,7 @@ Tiempo en el video: [00:00:00] - [00:11:21]
 En esta entrevista se contactó con una fanática de Kpop, la cual se encontraba muy interesada en conocer nuestro Startup y producto principal, Akira. Junto a ella, navegamos entre nuestros dos productos generados en los tres primeros Sprints, el Landing Page y el Frontend Web Application. Luego de que Fiorella interactúe con todas las opciones, selecciones y funcionalidades disponibles, nos brindó un feedback, expresando de que le gustó mucho la estética de ambos productos, notó siempre la correcta funcionalidad de los apartados existentes, se impresionó con el uso de la barra de búsqueda para encontrar los productos vendidos en tienda. Como principal recomendación a mejorar, nos mencionó que al buscar productos, algunos productos tenían una inusual desproporción de tamaño de imagen, problema que como startup, pasamos por alto.
 
 **Entrevista N°2 (Vendedor de productos del entretenimiento asiático)**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-307.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-309.png)
 Entrevistador: Nirvana García Vásquez
 Entrevistado: Sebastian Delgado Del Castillo
 Tiempo en el video: [00:11:22] - [00:23:21]
@@ -6129,7 +6146,7 @@ Tiempo en el video: [00:11:22] - [00:23:21]
 En esta entrevista, contactamos con un vendedor de productos del entretenimiento asiático, el cual nos comenta que es parte de una tienda de productos de anime y kpop en el centro comercial Arenales, ubicado en Lima, Perú. Junto a él, navegamos por los diferentes apartados de los productos desarrollados en las tres primeras entregas del curso, tanto el Landing Page como el Frontend Web Application. Cuando Sebastian terminó de interactuar con todas las funcionalidades y apartados de ambos productos mostrados, decidí consultarle qué tal le había parecido la experiencia. Él nos comenta que le gustó bastante la estética de ambas páginas, la tipografia, gama de colores limpia y homogenea, y que el fondo claro con los toques de color rojo lo hacian sentir como si estuviese leyendo un Manga.Tambien, aportó con una recomendación acerca de lo que podemos mejorar, la cual se enfocó en agregar algun modal cuando la edición de los datos dentro de la cuenta de usuario sea exitosa, ya que solo se actualiza de manera automática, sin dar algun aviso de que se cambió exitosamente.
 
 **Entrevista N°3 (Vendedor de productos del entretenimiento asiático)**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-308.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-310.png)
 Entrevistador: Michelle Moreno Best
 Entrevistada: Flavia Delgado Polo
 Tiempo en el video: [00:23:22] - [00:37:38]
@@ -6138,7 +6155,7 @@ En la entrevista realizada, la entrevistada considera que las páginas web mostr
 
 
 **Entrevista N°4 (Vendedor de productos del entretenimiento asiático)**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-309.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-311.png)
 Entrevistador: Marcelo Scerpella Zarkovic
 Entrevistado: Fernando Díaz Silva
 Tiempo en el video: [00:37:38] - [00:46:58]
@@ -6152,7 +6169,7 @@ Antes de finalizar la entrevista, menciona que el único inconveniente que tuvo 
 
 
 **Entrevista N°5 (Fanático del entretenimiento asiático)**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-310.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-312.png)
 Entrevistador: Luis Enrique Aquije Quiroga 
 Entrevistado: Jair Flores Vizcarra 
 Tiempo en el video: [00:46:59] - [00:54:35]
@@ -6160,7 +6177,7 @@ Tiempo en el video: [00:46:59] - [00:54:35]
 En la entrevista realizada, el entrevistado considera que, se han implementado correctamente los distintos apartados que se tienen como lo vienen a ser productos y manejo de la cuenta. Sin embargo, también sugiere que se debería colocar un título en específico que permita identificar de mejor forma la funcionalidad a la que el usuario desea acceder para que este sea más intuitivo. También en la entrevista nos comenta que el apartado contactos está muy bien implementado y considera que si les envía un correo será atendido correctamente. Reitera en el apartado de inicio de sesión que se deberían colocar títulos o subtítulos de modo que pueda diferenciar el módulo no solo dependiendo del icono. Nos comenta que el apartado de información de usuario está bien logrado ya que muestra la suficiente información de la cuenta diferenciándose de otras aplicaciones que no son muy específicas en este apartado, destacando el lado de órdenes realizadas. En cuanto a la funcionalidad de búsqueda y filtrado, considera que al hacer click en cada categoría debería desplegarse el submenú al lado para que sea mejor para la vista. El apartado que considera que debería someterse a una mejora sería el apartado de inicio de sesión el cual necesitaría mayor información visual como algún subtítulo haciéndola más intuitiva, en categorías o filtros una modificación a la forma de presentar los submenús.
 
 **Entrevista N°5 (Fanático del entretenimiento asiático)**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-311.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-313.png)
 Entrevistador: Diego Sánchez Ramírez
 Entrevistado: Manuel Castro
 Tiempo en el video: [00:46:59] - [00:54:35]
@@ -6168,7 +6185,7 @@ Tiempo en el video: [00:46:59] - [00:54:35]
 En esta entrevista, se muestran los artefactos de software como es el landing page y el apartado del front-end de nuestra página principal al entrevistado llamado Manuel Castro, fanatico de la cultura asiática, sobre todo las mangas y manhwas. Su edad es de 19 años y reside en Lima. Durante la entrevista, mostró diferentes puntos de vista y una en especial que es la del diseño responsivo de las imágenes, las cuales tomaremos en cuenta en un futuro sprint.
 
 **Entrevista N°6 (Fanático del entretenimiento asiático)**
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-312.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-314.png)
 Entrevistador: Diego Sánchez Ramírez
 Entrevistado: José Alberto Ponte
 Tiempo en el video: [00:54:35] - [01:04:12]
@@ -6239,7 +6256,7 @@ Problema con la eliminación de productos de “mis órdenes” ya que si se bor
 **Problema:**
 Al momento de eliminar el producto en el perfil de “mis órdenes”, visualmente se queda pero cuando se actualiza la página, ya se ve que se ha borrado por completo por lo que ese es un problema para los usuarios que no saben qué hacer en esas situaciones.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-313.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-315.png)
 
 **Recomendación:** 
 Lo mejor para solucionar este problema es revisar el json donde se guarda la información y ver como solucionar ese problema para que el usuario al presionar el botón de “cancelar orden”, pueda ver que si se está cancelando y no tenga que recargar la pagina para ver si en verdad se ha borrado.
@@ -6254,7 +6271,7 @@ Desnivelación de tamaños con imágenes mostradas en apartados de bùsqueda de 
 **Problema:** 
 Cuando el usuario le da click al botón de buscar, luego de haber ingresado un valor dentro de la barra de búsqueda, cuando aparece la lista de resultados de búsqueda, las imágenes de los productos no siguen un estándar en cuanto a tamaños, y la manera en la que se presentan está desorganizada.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-314.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-316.png)
 
 **Recomendación:**
 Lo más adecuado para solucionar este inconveniente es modificar el tamaño de la imagen de los productos, a un estándar, y estilar mejor los resultados de búsqueda.
@@ -6268,7 +6285,7 @@ Falta de modal de confirmación a cambios de edición de datos en cuenta de usua
 **Problema:** 
 Al momento de editar datos dentro de los campos de información personal o dirección de envío, el usuario debe presionar el botón en forma de lápiz para editar algún dato en particular. El problema recae en que cuando se modifican datos y se presiona el botón de actualizar, no aparece ninguna confirmación de guardado de datos exitoso, por lo que el usuario podría quedar con la duda de si sus modificaciones de guardaron.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-315.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-317.png)
 
 **Recomendación:**
 Para solucionar este problema de diseño inclusivo, debemos agregar un modal o notificación que le confirme al usuario que sus datos han sido modificados satisfactoriamente.
@@ -6284,7 +6301,7 @@ Falta de adaptación de las imágenes, en relación al tamaño de la pantalla de
 
 Al momento de visualizar las imágenes en el lobby principal del front-end, se puede visualizar un desperfecto en el tamaño de las imágenes contenidas en los marcos que las contienen.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-316.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-318.png)
 
 **Recomendación:**  Configurar propiedades para las imágenes que permitan definir su tamaño o proporcionar URL's de diferentes tamaños de la misma imagen, dependiendo del dispositivo. Además,utilizar la etiqueta < img > de Vue para mostrar las imágenes. Añade los atributos “width” y “height” con valores relativos (porcentajes, vw o vh en CSS) para que las imágenes se ajustan dinámicamente al tamaño del contenedor o la pantalla.
 
@@ -6299,7 +6316,7 @@ Falta de subcategorías en el menu hamburger de la izquierda
 
 Esta heurística se centra en cómo la información se organiza y se presenta para el usuario. Proporciona directrices sobre cómo organizar los contenidos de manera lógica y clara para facilitar la navegación y la identificación de la información por parte del usuario.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-317.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-319.png)
 
 **Recomendaciones:** 
 
@@ -6316,7 +6333,7 @@ Heurística violada: Inclusive Design: Proporciona experiencias comparables
 **Problema:** 
 Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del producto no se mostró como debería haberlo hecho, lo que ocasionó que se mostrara el ícono de “Imagen no encontrada”, seguido por el texto “Products_images”. El problema recae en que cuando se carga la página, la imagen de ese producto específicamente no es mostrada, por lo que el usuario podría perder confianza en la aplicación, y pensar que no está funcionando correctamente
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-318.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-320.png)
 
 **Recomendación:** 
 Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestion no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestren apropiadamente antes de enviar la aplicación a producción.
@@ -6330,7 +6347,7 @@ Claridad en las Opciones de Acceso y Funcionalidad
 **Problema:**
 Al momento de buscar alguna opción como lo pueda ser inicio de sesión, el usuario no tiene claro a que icono hacer click o algo que indique al usuario el tipo de funcionalidad a la cual desea acceder, el entrevistado sugiere usar algún subtítulo.
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-319.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-321.png)
 
 **Recomendación:** 
 Para solucionar este problema, tenemos colocar o implementar un subtítulo desplegable o estático que permita identificar mejor la funcionalidad y no depender tanto de los íconos, haciendo más intuitivo el encontrar dicha funcionalidad.
@@ -6340,7 +6357,7 @@ Presentamos nuestro Video About the Product para el Sprint 3, el cual busca prom
 
 Video en Microsoft Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EQgWoYEE7ThKp4VrZw7J6s0BDFGrS-JbIj28WdtDrSVSIg?e=0bpk1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19]
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-320.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-322.png)
 
 Video enYoutube: [https://youtu.be/jZVbVFD9XBs]
 
