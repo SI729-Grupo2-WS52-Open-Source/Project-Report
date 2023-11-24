@@ -249,6 +249,7 @@ Student Outcome
    5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
     
     5.2.4. [Sprint 4](#524-spring-4)
+    
     5.2.4.1. [Sprint Planning 4](#5241-spring-planning-4)
     
     5.2.4.3. [Development Evidence for Sprint Review](#5243-development-evidence-for-sprint)
