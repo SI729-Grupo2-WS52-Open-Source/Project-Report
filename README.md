@@ -258,6 +258,7 @@ Student Outcome
     5.2.4.5. [Execution Evidence for Sprint Review ](#5245-execution-evidence-for-sprint-review)
     
     5.2.4.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    
     5.2.4.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
     5.3. [Validation Interviews](#53-validation-interviews)
