@@ -6426,6 +6426,27 @@ Para esta 3ra entrega, se tuvieran las siguientes conclusiones:
 
  ● Organizar tu código siguiendo el patrón MVC para separar las preocupaciones y mejorar la mantenibilidad. Además, la buena práctica de utilizar el patrón de diseño Repository para la jerarquía de carpetas.
 
+<br>br>
+
+## Conclusiones (TF1)
+
+Para esta 4ta entrega, se tuvieron la siguientes conclusiones:
+
+ ● El desarrollo de un cuarto sprint el cual tiene como principal enfoque el security de la tienda virtual añadiendo Token Response, roles con permisos y Authentication aplicando buenas prácticas añadiendo una capa más de seguridad.
+
+ ● Hemos mejorado el video about the product con las nuevas funcionalidades implementadas y características del sitio más pulidas.
+
+ ● Se han nivelado los commits del repositorio Github de la organización de modo que posean un lenguaje claro y conciso, facilitando así la compresión de la evolución del trabajo con el pasar del tiempo.
+
+ ● Se logró consolidar avances anteriores, priorizando mejoras continuas. El despliegue exitoso del Frontend en Github Pages y el Backend en Microsoft Azure con Spring Boot destaca la capacidad del equipo para integrar y desplegar eficientemente componentes clave del sistema en entornos de producción.
+
+ ● A lo largo del trabajo, el equipo demostró habilidades multifuncionales, desde el desarrollo del Web Service hasta la implementación de mejoras y correcciones. La versatilidad del equipo refleja una colaboración sinérgica y eficaz.
+
+ ● La implementación de medidas de seguridad en el backend refuerza la robustez del sistema, priorizando la protección de datos y la autenticación de usuarios. La meta de homogeneizar los commits destaca la importancia de la colaboración efectiva y la comunicación dentro del equipo de desarrollo.
+
+ ● Se destacó el enfoque del equipo en la experiencia del usuario. Las mejoras implementadas no solo fortalecieron la seguridad y coherencia del sistema, sino que también se tradujeron en mejoras palpables para aquellos que interactúan con Akira. La atención a la experiencia del usuario subraya el compromiso del equipo con la satisfacción y comodidad de los usuarios finales.
+
+
 
 ## Recomendaciones (TB1)
 
