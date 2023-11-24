@@ -53,67 +53,10 @@ ___
 
 Repositorio Project Report (Capstone):
 
- ![Alt text](img/image-18.png)
+ ![Alt text](img/image-report.png)
  
  *Imagen 5: Analíticos en Github*
  
-<br><br><br>
-
-**Explicación de los commits - (TB1 - TP1)**
-
-
-a. Nirvana García
-
-Agregué contenido del informe, aumenté el Sprint 2 y subí las modificaciones de correciones generadas en el TB1.
- ![Alt text](img/image-32.png)
- 
- *Imagen 6: Commits de Nirvana*
-
- <br>
- 
- ![Alt text](img/image-216.png)
- 
- *Imagen 7: Commits de Nirvana*
- 
-<br><br>
-
-b. Gabriel Bernal
-
-Agregué contenido del informe
-![Alt text](img/image-33.png)
-
-*Imagen 8: Commits de Gabriel*
- 
- <br><br>
-
-c. Marcelo Scerpella
-
-Agregué contenido del informe
- ![Alt text](img/image-34.png)
- 
- *Imagen 9: Commits de Marcelo*
-
-<br><br>
-
-d. Michelle Moreno
-
-Agregué contenido del informe
-![Alt text](img/image-35.png)
-
-*Imagen 10: Commits de Michelle*
-
-<br><br>
- 
-e. Luis Aquije
-
-Agregué contenido del informe
- ![Alt text](img/image-36.png)
- 
- *Imagen 11: Commits de Luis*
- 
-
-
-<br><br>
 ___
 <br>
 
@@ -267,11 +210,7 @@ Student Outcome
    
     5.2.1.3. [Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
    
-    5.2.1.4. [Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-   
     5.2.1.5. [Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-   
-    5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
    
     5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
    
@@ -285,11 +224,7 @@ Student Outcome
    
     5.2.2.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
    
-    5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
-   
     5.2.2.5. [Execution Evidence for Sprint Review](#5224-execution-evidence-for-sprint-review)
-   
-    5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
    
     5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
    
@@ -312,6 +247,18 @@ Student Outcome
    5.2.3.7. [Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
    
    5.2.3.8. [Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    
+    5.2.4. [Sprint 4](#524-spring-4)
+    5.2.4.1. [Sprint Planning 4](#5241-spring-planning-4)
+    
+    5.2.4.3. [Development Evidence for Sprint Review](#5243-development-evidence-for-sprint)
+    
+    5.2.4.4. [Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    
+    5.2.4.5. [Execution Evidence for Sprint Review ](#5245-execution-evidence-for-sprint-review)
+    
+    5.2.4.7. [Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    5.2.4.8. [Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
     5.3. [Validation Interviews](#53-validation-interviews)
   
@@ -322,13 +269,6 @@ Student Outcome
     5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
 
     5.4. [Video About the Product](#54)
-    5.2.4. [Sprint 4](#524-spring-4)
-    5.2.4.1. [Sprint Planning 4](#5241-spring-planning-4)
-    5.2.4.2. [Sprint Backlog 4](#5242-spring-backlog-4)
-    5.2.4.3. [Development Evidence for Sprint Review](#5243-development-evidence-for-sprint)
-    5.2.4.4. [Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
-    5.2.4.5. [Execution Evidence for Sprint Review ](#5245-execution-evidence-for-sprint-review)
-    5.2.4.6. [Software Deployment Evidence for Sprint Review](#5246-software-deployment-evidence-for-sprint-review)
 
 
 [Conclusiones y recomendaciones]() 
@@ -4449,17 +4389,17 @@ Se crearon tres repositorios, Landing Page, Web Services y Frontend Web Applicat
  
 Visualizamos la creación de las cuatro ramas por cada repositorio (master, release, develop y feature)
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-121.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-branches1.png)
 
 *Imagen 294: Github Branches*
 <br><br>
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-122.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-branches2.png)
 
 *Imagen 295: Github Branches*
 <br><br>
 
-![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-120.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-branches3.png)
 
 *Imagen 296: Github Branches*
 <br><br>
@@ -5851,21 +5791,35 @@ Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherki
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-259.png)
 
+Imagen 404: Features
+
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-260.png)
 
+Imagen 405: Features
+
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-261.png)
+
+Imagen 406: Features
 
 Posteriormente, realizamos un git pull a estos .feature en su Repository correspondiente, el cual se llama “Acceptance Test (Gherkin)”.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-262.png)
 
+Imagen 407: Features US - 34, US - 35 y US - 36
+
 Podemos visualizar la correcta subida de los archivos .feature en el repository a continuación:
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-263.png)
 
+Imagen 408: Features US - 34
+
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-264.png)
 
+Imagen 409: Features US - 35
+
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-265.png)
+
+Imagen 410: Features US - 36
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -5874,6 +5828,7 @@ En este Sprint (Sprint 3), se logró desarrollar el Web Services del e-commerce 
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-266.png)
 
+Imagen 411: Product navigation sprint 3
 
 URL video evidencia implementación del sprint: [upc-pre-202302-si729-ws52-lambders-product-navigation-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EUhZamuD7SVOs-rlIogbYF4BT_3GhJzJXFzucRZ6iiAwOA?e=MiV5fV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
@@ -5885,6 +5840,8 @@ Como desarrollador, quiero visualizar correctamente la estructura convencional d
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-267.png)
 
+Imagen 412: Estructura de packages
+
 <br><br>
 
 **US-35 Correcto modelado de las clases en Java**
@@ -5893,23 +5850,33 @@ Como desarrollador, quiero que las clases de java dentro del package “model”
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-268.png)
 
+Imagen 413: Modelado del Carrito
+
 En esta imagen se visualiza en la carpeta model la clase de Cart donde van todos los campos para esta clase (id, name, surname, email, password, payment) y se está modelando el carrito de compras de una aplicación. La clase Cart está anotada con JPA para mapeo a base de datos utilizando @Entity y @Table, esto permitirá persistir los objetos de esta clase en la tabla "cart". Definimos un atributo id de tipo Long que será la llave primaria generada automáticamente con GenerationType.IDENTITY.
 Se incluyen atributos como quantity para llevar el control de cantidades, userId para vincular cada carrito a un usuario y los campos del producto que irá en cada ítem del carrito.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-269.png)
+
+Imagen 414: Modelado del ordenes
 
  
 En esta clase Order se está modelando la entidad para representar los pedidos realizados en la aplicación. El atributo id es la primary key generada automáticamente. También se incluyen campos como email, address, contact para almacenar datos de envío y se lleva registro del precio total con el campo totalPrice. Esta clase permite representar de forma normalizada los pedidos realizados en la tienda, almacenando la información de envío requerida y vinculando cada registro con el usuario comprador.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-270.png)
 
+Imagen 415: Modelado de los productos
+
 En esta clase Product se está modelando la entidad que representa los productos disponibles en la tienda. Se definen distintos atributos como nameCategory, name, price, color, category, description e image, los cuales permitirán almacenar los datos necesarios de cada producto. Anotaciones como @Column indican el mapeo a columnas en la tabla junto con validaciones como longitud y si son nulas o no. Este modelo relacional de producto facilita escalar la aplicación de forma que se puedan gestionar y mostrar de manera eficiente un amplio catálogo de artículos. Asimismo, representa correctamente los atributos más usuales que definen un producto en el contexto de una tienda electrónica.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-271.png)
 
+Imagen 416: Modelado del envío
+
 En esta clase Shipping se está modelando la entidad que representará los métodos y direcciones de envío de una orden. Se definen atributos como address, district, province para almacenar los datos de dirección de envío. También se incluyen campos para el método de pago como paymentMethod y una tarjeta vinculada linkedCard. Esta entidad permite almacenar de forma normalizada la información necesaria para gestionar tanto el envío como la forma de pago de cada pedido. Las anotaciones como @Column definen claramente el mapeo a columnas.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-272.png)
+
+Imagen 417: Modelado del usuario
 
 En esta clase User se está modelando la entidad para representar a los usuarios registrados en la aplicación. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. Además, se dispone de un campo payment opcional para almacenar información de pago del usuario. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. También se dispone de un campo payment opcional para almacenar información de pago del usuario.
 
@@ -5917,6 +5884,8 @@ En esta clase User se está modelando la entidad para representar a los usuarios
 Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-273.png)
+
+Imagen 418: Comunicación con el Frontend
  
 
 ## 5.2.3.6 Services Documentation Evidence for Sprint Review
@@ -5951,18 +5920,25 @@ Visualizamos la obtención de los datos del json mediante la ruta creada [http:/
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-274.png)
 
+Imagen 419: Postman - Get de productos
 
 Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/anime], y la acción GET.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-275.png)
 
+Imagen 420: Postman - Get de productos de anime populares
+
 Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/popular/kpop], y la acción GET.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-276.png)
 
+Imagen 421: Postman - Get de productos de kpop populares
+
 Visualizamos la obtención de los datos del json mediante la ruta creada [http://20.55.32.254:8080/products/products/popular], y la acción GET.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-277.png)
+
+Imagen 422: Postman - Get de productos populares
 
 Visualizamos la creación de nuestra base de datos desde la consola de Linux, mostrando las respectivas tablas.
 
@@ -5970,21 +5946,31 @@ Tabla de Productos:
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-278.png)
 
+Imagen 423: Tabla de productos
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-279.png)
+
+Imagen 424: Tabla de productos
 
 Tabla de usuarios:
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-280.png)
 
+Imagen 425: Tabla de usuarios
 
 Swagger
 Mostramos el uso de Swagger en el Backend
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-281.png)
 
+Imagen 426: Swagger user controller
+
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-282.png)
 
+Imagen 427: Swagger product controller
+
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-283.png)
+
+Imagen 428: Swagger order y shipping controller
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -5996,16 +5982,24 @@ En cuanto al Deployment de este producto para el Sprint 3, se desplegó nuestro 
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-284.png)
 
+Imagen 429: Herramientas utilizadas
+
 Empleo de Spring Boot Initializr para la creación de la estructura de backend. Nuestro proyecto se ha realizado con Maven, el lenguaje de programación Java, la versión de Spring Boot 3.1.5, la versión 17 de Java y las dependencias correspondientes.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-285.png)
 
+Imagen 430: Spring initializr
+
 Utilizamos Microsoft Azure para el despliegue del Backend.
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-286.png)
+
+Imagen 431: Azure para despliegue del backend
 
 Por otro lado, empleamos Netlify para el despliegue del Frontend
 Utilizamos Microsoft Azure para el despliegue del Backend.
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-287.png)
+
+Imagen 432: Netlify para despliegue del frontend
 
 **Evidencia de implementación por cada US#**
 
@@ -6013,27 +6007,39 @@ Utilizamos Microsoft Azure para el despliegue del Backend.
 Como desarrollador, quiero visualizar correctamente la estructura convencional de backend con java (package controller, exception, model, repository y service).
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-288.png)
 
+Imagen 433: Estructura adecuada de packages del backend
+
 **US-35 Correcto modelado de las clases en Java**
 Como desarrollador, quiero que las clases de java dentro del package “model” estén bien estructuradas, para poder comprender con más facilidad la organización de sus datos.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-289.png)
+
+Imagen 434: Modelado de carrito
 
 En esta imagen se visualiza en la carpeta model la clase de Cart donde van todos los campos para esta clase (id, name, surname, email, password, payment) y se está modelando el carrito de compras de una aplicación. La clase Cart está anotada con JPA para mapeo a base de datos utilizando @Entity y @Table, esto permitirá persistir los objetos de esta clase en la tabla "cart". Definimos un atributo id de tipo Long que será la llave primaria generada automáticamente con GenerationType.IDENTITY.
 Se incluyen atributos como quantity para llevar el control de cantidades, userId para vincular cada carrito a un usuario y los campos del producto que irá en cada ítem del carrito.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-290.png)
 
+Imagen 435: Modelado de órdenes
+
 En esta clase Order se está modelando la entidad para representar los pedidos realizados en la aplicación. El atributo id es la primary key generada automáticamente. También se incluyen campos como email, address, contact para almacenar datos de envío y se lleva registro del precio total con el campo totalPrice. Esta clase permite representar de forma normalizada los pedidos realizados en la tienda, almacenando la información de envío requerida y vinculando cada registro con el usuario comprador.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-291.png)
+
+Imagen 436: Modelado de productos
 
 En esta clase Product se está modelando la entidad que representa los productos disponibles en la tienda. Se definen distintos atributos como nameCategory, name, price, color, category, description e image, los cuales permitirán almacenar los datos necesarios de cada producto. Anotaciones como @Column indican el mapeo a columnas en la tabla junto con validaciones como longitud y si son nulas o no. Este modelo relacional de producto facilita escalar la aplicación de forma que se puedan gestionar y mostrar de manera eficiente un amplio catálogo de artículos. Asimismo, representa correctamente los atributos más usuales que definen un producto en el contexto de una tienda electrónica.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-292.png)
 
+Imagen 437: Modelado de envío
+
 En esta clase Shipping se está modelando la entidad que representará los métodos y direcciones de envío de una orden. Se definen atributos como address, district, province para almacenar los datos de dirección de envío. También se incluyen campos para el método de pago como paymentMethod y una tarjeta vinculada linkedCard. Esta entidad permite almacenar de forma normalizada la información necesaria para gestionar tanto el envío como la forma de pago de cada pedido. Las anotaciones como @Column definen claramente el mapeo a columnas.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-293.png)
+
+Imagen 438: Modelado de usuario
 
 En esta clase User se está modelando la entidad para representar a los usuarios registrados en la aplicación. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. Además, se dispone de un campo payment opcional para almacenar información de pago del usuario. Se incluyen atributos como name, surname, email y password para capturar los datos personales del usuario y credenciales de autenticación. También se dispone de un campo payment opcional para almacenar información de pago del usuario.
 
@@ -6041,6 +6047,8 @@ En esta clase User se está modelando la entidad para representar a los usuarios
 Como desarrollador, quiero establecer una comunicación eficiente y confiable entre el backend y el frontend de Akira para permitir una interacción completa y fluida de la aplicación.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-294.png)
+
+Imagen 439: Comunicación con el frontend
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint 
 
@@ -6052,14 +6060,22 @@ Agregué el apartado de Heurísticas en el informe, colocando correctamente sus 
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-295.png)
 
+Imagen 440: Commits de agregación de información sprint 3
+
 Agregué el apartado de video about the product dentro del Landing Page. (feature branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-296.png)
+
+Imagen 441: Commits de agregación de video about the product en sprint 3
 
 Agregué la versión 3.1 dentro del Landing Page. (develop branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-297.png)
 
+Imagen 442: Commits de agregación de la v3.1 de la Landing Page
+
 Agrupe la versión 3 del Landing Page (release branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-298.png)
+
+Imagen 443: Commits de agregación de la v3 de la Landing Page
 
 b. Gabriel Bernal
 
@@ -6067,27 +6083,194 @@ Agregué el backend de Akira (main branch)
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-299.png)
 
+Imagen 444: Commits de agregación de web service
 
 c. Michelle Moreno
 
 Agregué el apartado de Sprint 3, Sprint Backlog 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-300.png)
 
+Imagen 445: Commits de modificación del sprint 3
+
 Agregué la versión 3.1 completa dentro del Landing Page. (feature branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-301.png)
 
+Imagen 446: Commits de agregación de la versión 3.1 completa
+
 Agregué la versión 3.1 dentro del Landing Page. (develop branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-302.png)
+
+Imagen 447: Commits de agregación de la versión 3.1 completa
 
 d. Marcelo Scerpella
 
 Agregué el apartado de Diseño de entrevistas y Análisis de Entrevistas en Sprint 3, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-303.png)
 
+Imagen 448: Commits de modificación del sprint 3
+
 e. Luis Aquije
 Agregué los .feature para los US-34. US-35 y US-36 (master branch)
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-304.png)
 
+Imagen 449: Commits de modificación de los features
+
+## 5.2.4 Sprint 4
+
+## 5.2.4.1. Sprint Planning 4
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-323.png)
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-324.png)
+
+
+<br><br>
+___
+
+## 5.2.4.3. Development Evidence for Sprint Review
+
+**Repositorio Frontend-Web-Applications: **
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-325.png)
+
+
+<br><br>
+
+**Repositorio Web Services:**
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-326.png)
+
+<br><br>
+
+**Repositorio Project Statement:**
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-327.png)
+
+<br><br>
+
+**Repositorio Landing Page:**
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-328.png)
+
+<br><br>
+___
+
+## 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Incluimos el código de los .feature Files, explicando con qué User Stories de nuestro Sprint 4 se relacionan.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-329.png)
+
+Iniciamos realizando los .features en Visual Studio Code, con el lenguaje Gherkin utilizando Cucumber. En particular, realizamos esto para add product to cart, availability of products y communication frontend and backend.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-330.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-331.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-332.png)
+
+Posteriormente, realizamos un git pull a estos .feature en su Repository correspondiente, el cual se llama “Features” dentro de la versión 5 del web application.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-333.png)
+
+Podemos visualizar la correcta subida de los archivos .feature en el repository a continuación:
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-334.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-335.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-336.png)
+
+<br><br>
+___
+
+## 5.2.4.5. Testing Suite Evidence for Sprint Review
+
+En este Sprint (Sprint 4), se logró realizar la implementación de Spring Security a nuestro backend de Akira. Agregamos el package de security realizamos la configuración del mismo. Autorizamos el Swagger, validamos el login y registro, encriptamos las contraseñas y demás.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-337.png)
+
+URL video evidencia implementación del sprint aplicando security: 
+
+(hola)[https://upcedupe-my.sharepoint.com/personal/u202110244_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202110244%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpen%20Source%2Fupc%2Dpre%2D202302%2Dsi729%2Dws52%2Dlambders%2Dproduct%2Dnavigation%2Dsprint%2D4%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0=&ga=1]
+
+<br><br>
+___
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En este Sprint (Sprint 4), se logró mejorar el Web Services del e-commerce Akira, el cual cuenta con el propósito de procesar y gestionar los datos dentro de Akira, logrando manejar la lógica de la plataforma, interactuar con la base de datos, autenticar usuarios, realizar operaciones CRUD (crear, leer, actualizar, eliminar) y proporcionar servicios y APIs para que el frontend, realizado en Angular JS, pueda comunicarse con él.
+
+En cuanto al Deployment de este producto para el Sprint 4, se desplegó nuestro Frontend mediante Github Pages y el Backend mediante Microsoft Azure y Sprint Boot.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-338.png)
+
+Empleo de Spring Boot Initializr para la creación de la estructura del backend. Nuestro proyecto se ha realizado con Maven, el lenguaje de programación Java, la versión de Spring Boot 3.2.0, la versión 21 de Java y las dependencias correspondientes.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-339.png)
+
+
+Utilizamos Microsoft Azure para el despliegue del Backend.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-azure.png)
+
+Spring Security:
+Implementamos Security Security en nuestro backend y estas son las evidencias de que se ha podido lograr este objetivo.
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-350.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-351.png)
+
+Evidencias del frontend con el inspeccionar y ejecución sin problemas:
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-352.png)
+
+
+<br><br>
+___
+
+## 5.2.4.8. Software Deployment Evidence for Sprint Review
+
+**En Project Report**
+**a. Nirvana García**
+Actualicé el web service de Akira. (master branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-353.png)
+
+Agregué la versión 4 de la landing page en Akira (release branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-354.png)
+
+**b. Gabriel Bernal**
+Agregué el security al backend de Akira (feature branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-355.png)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-356.png)
+
+**c. Michelle Moreno**
+Agregué el apartado de Sprint 4, Sprint Backlog 4, colocando correctamente sus rutas de imágenes, tablas y texto. (master branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-michelle.png)
+
+Agregué la versión 5 de la landing page de Akira y features. (develop branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-357.png)
+
+Agregué la parte del request y response del backend de Akira. (feature branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-358.png)
+
+**d. Marcelo Scerpella**
+Eliminación de versiones erróneas y actualización de la versión del frontend. (develop branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-359.png)
+
+**e. Luis Aquije**
+Modifiqué los .feature para los Close Session, change password of account, delete account, etc. (develop branch)
+
+![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-360.png)
+
+<br><br>
+___
 
 ## 5.3 Validation Interviews
 
@@ -6097,8 +6280,13 @@ Para esta validación se incluirán los siguientes productos:
 **Landing Page**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-305.png)
 
+Imagen 450: Visualización de la Landing Page
+
+
 **FrontEnd Web Application**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-306.png)
+
+Imagen 451: Visualización del FrontEnd
 
 **User Flows a validar (En Landing Page)**
 
@@ -6129,8 +6317,14 @@ Video de las entrevistas:
 Realizamos 6 entrevistas dirigidas a nuestros segmentos objetivos, en las cuales nuestros entrevistados se dedicaron a navegar por nuestras plataformas web, tanto el Landing Page como el Frontend Web Application.
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-307.png)
 
+Imagen 452: Video de needfinding sprint 3
+
+
 **Entrevista N°1 (Fanática del entretenimiento asiático)**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-308.png)
+
+Imagen 453: Registro de entrevista
+
 Entrevistador: Nirvana García Vásquez
 Entrevistada: Fiorella Tamariz Pantoja
 Tiempo en el video: [00:00:00] - [00:11:21]
@@ -6139,6 +6333,9 @@ En esta entrevista se contactó con una fanática de Kpop, la cual se encontraba
 
 **Entrevista N°2 (Vendedor de productos del entretenimiento asiático)**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-309.png)
+
+Imagen 454: Registro de entrevista
+
 Entrevistador: Nirvana García Vásquez
 Entrevistado: Sebastian Delgado Del Castillo
 Tiempo en el video: [00:11:22] - [00:23:21]
@@ -6147,6 +6344,9 @@ En esta entrevista, contactamos con un vendedor de productos del entretenimiento
 
 **Entrevista N°3 (Vendedor de productos del entretenimiento asiático)**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-310.png)
+
+Imagen 455: Registro de entrevista
+
 Entrevistador: Michelle Moreno Best
 Entrevistada: Flavia Delgado Polo
 Tiempo en el video: [00:23:22] - [00:37:38]
@@ -6156,6 +6356,9 @@ En la entrevista realizada, la entrevistada considera que las páginas web mostr
 
 **Entrevista N°4 (Vendedor de productos del entretenimiento asiático)**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-311.png)
+
+Imagen 456: Registro de entrevista
+
 Entrevistador: Marcelo Scerpella Zarkovic
 Entrevistado: Fernando Díaz Silva
 Tiempo en el video: [00:37:38] - [00:46:58]
@@ -6170,6 +6373,9 @@ Antes de finalizar la entrevista, menciona que el único inconveniente que tuvo 
 
 **Entrevista N°5 (Fanático del entretenimiento asiático)**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-312.png)
+
+Imagen 457: Registro de entrevista
+
 Entrevistador: Luis Enrique Aquije Quiroga 
 Entrevistado: Jair Flores Vizcarra 
 Tiempo en el video: [00:46:59] - [00:54:35]
@@ -6178,6 +6384,9 @@ En la entrevista realizada, el entrevistado considera que, se han implementado c
 
 **Entrevista N°5 (Fanático del entretenimiento asiático)**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-313.png)
+
+Imagen 458: Registro de entrevista
+
 Entrevistador: Diego Sánchez Ramírez
 Entrevistado: Manuel Castro
 Tiempo en el video: [00:46:59] - [00:54:35]
@@ -6186,6 +6395,9 @@ En esta entrevista, se muestran los artefactos de software como es el landing pa
 
 **Entrevista N°6 (Fanático del entretenimiento asiático)**
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-314.png)
+
+Imagen 459: Registro de entrevista
+
 Entrevistador: Diego Sánchez Ramírez
 Entrevistado: José Alberto Ponte
 Tiempo en el video: [00:54:35] - [01:04:12]
@@ -6258,6 +6470,8 @@ Al momento de eliminar el producto en el perfil de “mis órdenes”, visualmen
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-315.png)
 
+Imagen 460: Heurística violada
+
 **Recomendación:** 
 Lo mejor para solucionar este problema es revisar el json donde se guarda la información y ver como solucionar ese problema para que el usuario al presionar el botón de “cancelar orden”, pueda ver que si se está cancelando y no tenga que recargar la pagina para ver si en verdad se ha borrado.
 
@@ -6273,6 +6487,8 @@ Cuando el usuario le da click al botón de buscar, luego de haber ingresado un v
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-316.png)
 
+Imagen 461: Heurística violada
+
 **Recomendación:**
 Lo más adecuado para solucionar este inconveniente es modificar el tamaño de la imagen de los productos, a un estándar, y estilar mejor los resultados de búsqueda.
 
@@ -6286,6 +6502,8 @@ Falta de modal de confirmación a cambios de edición de datos en cuenta de usua
 Al momento de editar datos dentro de los campos de información personal o dirección de envío, el usuario debe presionar el botón en forma de lápiz para editar algún dato en particular. El problema recae en que cuando se modifican datos y se presiona el botón de actualizar, no aparece ninguna confirmación de guardado de datos exitoso, por lo que el usuario podría quedar con la duda de si sus modificaciones de guardaron.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-317.png)
+
+Imagen 462: Heurística violada
 
 **Recomendación:**
 Para solucionar este problema de diseño inclusivo, debemos agregar un modal o notificación que le confirme al usuario que sus datos han sido modificados satisfactoriamente.
@@ -6303,6 +6521,8 @@ Al momento de visualizar las imágenes en el lobby principal del front-end, se p
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-318.png)
 
+Imagen 463: Heurística violada
+
 **Recomendación:**  Configurar propiedades para las imágenes que permitan definir su tamaño o proporcionar URL's de diferentes tamaños de la misma imagen, dependiendo del dispositivo. Además,utilizar la etiqueta < img > de Vue para mostrar las imágenes. Añade los atributos “width” y “height” con valores relativos (porcentajes, vw o vh en CSS) para que las imágenes se ajustan dinámicamente al tamaño del contenedor o la pantalla.
 
 **PROBLEMA #5:**
@@ -6317,6 +6537,8 @@ Falta de subcategorías en el menu hamburger de la izquierda
 Esta heurística se centra en cómo la información se organiza y se presenta para el usuario. Proporciona directrices sobre cómo organizar los contenidos de manera lógica y clara para facilitar la navegación y la identificación de la información por parte del usuario.
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-319.png)
+
+Imagen 464: Heurística violada
 
 **Recomendaciones:** 
 
@@ -6335,6 +6557,8 @@ Al momento de mostrar el producto “Nikaido & Cai Escala 1/8”, la imagen del 
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-320.png)
 
+Imagen 465: Heurística violada
+
 **Recomendación:** 
 Para solucionar este problema de diseño inclusivo, debemos agregar una imagen que se muestre por defecto en caso la imagen en cuestion no logre cargarse correctamente, o asegurarnos que todas las imágenes de todos los productos se muestren apropiadamente antes de enviar la aplicación a producción.
 
@@ -6349,6 +6573,8 @@ Al momento de buscar alguna opción como lo pueda ser inicio de sesión, el usua
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-321.png)
 
+Imagen 466: Heurística violada
+
 **Recomendación:** 
 Para solucionar este problema, tenemos colocar o implementar un subtítulo desplegable o estático que permita identificar mejor la funcionalidad y no depender tanto de los íconos, haciendo más intuitivo el encontrar dicha funcionalidad.
 
@@ -6358,6 +6584,8 @@ Presentamos nuestro Video About the Product para el Sprint 3, el cual busca prom
 Video en Microsoft Stream: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110244_upc_edu_pe/EQgWoYEE7ThKp4VrZw7J6s0BDFGrS-JbIj28WdtDrSVSIg?e=0bpk1m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19]
 
 ![Alt text](https://raw.githubusercontent.com/nirvagarcia/PruebaMd/main/img/image-322.png)
+
+Imagen 467: Video about the product sprint 3
 
 Video enYoutube: [https://youtu.be/jZVbVFD9XBs]
 
@@ -6420,13 +6648,16 @@ Se desarrollaron las siguientes conclusiones relacionadas a esta segunda entrega
 
 Para esta 3ra entrega, se tuvieran las siguientes conclusiones:
 
- ● Se llevaron a cabo entrevistas con una variedad de usuarios representativos del público objetivo, los cuales nos dieron una retroalimentación muy fructífera para ver otros puntos de vistas, principalmente de nuestro segmentos objetivos que estamos apuntando.
+ ● En el transcurso de la tercera entrega, se llevaron a cabo exhaustivas entrevistas con una diversidad de usuarios que representan fielmente el público objetivo de nuestro proyecto. La retroalimentación obtenida de estas entrevistas ha resultado sumamente fructífera, proporcionándonos una visión integral y valiosa, especialmente proveniente de los segmentos objetivos a los que nos dirigimos.
 
- ● Con las entrevistas de validación, tuvimos que utilizar las heurísticas de usabilidad. Con ellas, se identificaron violaciones en las heurísticas que requieren mejoras en el diseño y la experiencia del usuario.
+ ● En el proceso de validación a través de las entrevistas, se aplicaron heurísticas de usabilidad para evaluar la eficacia y la experiencia del usuario. Estas heurísticas revelaron violaciones que señalan áreas específicas que requieren mejoras en el diseño y en la interacción del usuario con la plataforma. Este análisis detallado nos ha brindado valiosa información para perfeccionar la usabilidad y optimizar la experiencia general del usuario.
 
- ● Organizar tu código siguiendo el patrón MVC para separar las preocupaciones y mejorar la mantenibilidad. Además, la buena práctica de utilizar el patrón de diseño Repository para la jerarquía de carpetas.
+ ● Además, se destacó la importancia de organizar el código siguiendo el patrón Modelo-Vista-Controlador (MVC). Este enfoque estructural ayuda a separar las preocupaciones y a mejorar la mantenibilidad del código, promoviendo un desarrollo más eficiente y sostenible a lo largo del tiempo. Asimismo, se hizo énfasis en la implementación de la buena práctica del patrón de diseño Repository para la jerarquía de carpetas, contribuyendo a una arquitectura más ordenada y fácil de gestionar.
 
-<br>br>
+● La aplicación de heurísticas de usabilidad también destacó la importancia de la accesibilidad en el diseño de la interfaz de usuario. Las violaciones identificadas subrayan la necesidad de mejorar la navegación y la claridad de la información. Esto nos insta a dedicar recursos adicionales al refinamiento de la interfaz, asegurando una experiencia de usuario más intuitiva y satisfactoria. La retroalimentación recopilada indica que estas mejoras contribuirán significativamente a la retención de usuarios y a la reputación positiva de nuestro producto en el mercado.
+
+
+<br><br>
 
 ## Conclusiones (TF1)
 
