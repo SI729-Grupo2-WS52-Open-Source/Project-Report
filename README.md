@@ -6426,6 +6426,27 @@ Para esta 3ra entrega, se tuvieran las siguientes conclusiones:
 
  ● Organizar tu código siguiendo el patrón MVC para separar las preocupaciones y mejorar la mantenibilidad. Además, la buena práctica de utilizar el patrón de diseño Repository para la jerarquía de carpetas.
 
+<br>br>
+
+## Conclusiones (TF1)
+
+Para esta 4ta entrega, se tuvieron la siguientes conclusiones:
+
+ ● El desarrollo de un cuarto sprint el cual tiene como principal enfoque el security de la tienda virtual añadiendo Token Response, roles con permisos y Authentication aplicando buenas prácticas añadiendo una capa más de seguridad.
+
+ ● Hemos mejorado el video about the product con las nuevas funcionalidades implementadas y características del sitio más pulidas.
+
+ ● Se han nivelado los commits del repositorio Github de la organización de modo que posean un lenguaje claro y conciso, facilitando así la compresión de la evolución del trabajo con el pasar del tiempo.
+
+ ● Se logró consolidar avances anteriores, priorizando mejoras continuas. El despliegue exitoso del Frontend en Github Pages y el Backend en Microsoft Azure con Spring Boot destaca la capacidad del equipo para integrar y desplegar eficientemente componentes clave del sistema en entornos de producción.
+
+ ● A lo largo del trabajo, el equipo demostró habilidades multifuncionales, desde el desarrollo del Web Service hasta la implementación de mejoras y correcciones. La versatilidad del equipo refleja una colaboración sinérgica y eficaz.
+
+ ● La implementación de medidas de seguridad en el backend refuerza la robustez del sistema, priorizando la protección de datos y la autenticación de usuarios. La meta de homogeneizar los commits destaca la importancia de la colaboración efectiva y la comunicación dentro del equipo de desarrollo.
+
+ ● Se destacó el enfoque del equipo en la experiencia del usuario. Las mejoras implementadas no solo fortalecieron la seguridad y coherencia del sistema, sino que también se tradujeron en mejoras palpables para aquellos que interactúan con Akira. La atención a la experiencia del usuario subraya el compromiso del equipo con la satisfacción y comodidad de los usuarios finales.
+
+
 
 ## Recomendaciones (TB1)
 
@@ -6490,6 +6511,31 @@ Por otra parte, también sería seguir investigando posibles atajos o buenas pr�
   - Revisión y Refactorización: Realizar revisiones periódicas del código para identificar secciones confusas o poco legibles.
 
    - Seguir Estándares de Codificación: Adhiérete a estándares de codificación establecidos, como naming conventions, indentación y organización de directorios y archivos.
+
+___
+<br>
+
+## Recomendaciones (TF1)
+Recomendaciones (TF1)
+
+**Mejoras basadas en la implementación de la capa de seguridad:**
+
+Se podría ir mejorando indagando en soluciones más elaboradas con respecto al sprint security, que permite añadir más complejidad a la capa de seguridad. Esto con el fin de presentar una e-commerce mucho mejor preparada para un entorno real en el que pueda funcionar plenamente tratando de evitar en la medida de los posible cualquier tipo de vulnerabilidad a futuro.  
+
+**Implementación de Retroalimentación Iterativa:**
+Establecer un proceso estructurado de retroalimentación iterativa puede fortalecer la comunicación y permitir mejoras continuas. Considera la implementación de reuniones regulares para revisar el progreso, identificar oportunidades de mejora y fomentar la colaboración entre los miembros del equipo.
+
+**Auditorías de Seguridad Periódicas:**
+Realizar auditorías de seguridad periódicas en el backend puede garantizar la eficacia de las medidas implementadas. Programar evaluaciones regulares puede ayudar a identificar posibles vulnerabilidades y mantener un alto nivel de protección de datos y sistemas.
+
+**Automatización de Procesos de Despliegue:**
+Automatizar los procesos de despliegue puede mejorar la eficiencia y reducir posibles errores. Considera la implementación de herramientas de integración continua y entrega continua (CI/CD) para facilitar despliegues más rápidos y consistentes.
+
+**Mantenimiento y Actualización de Documentación:**
+Establecer un plan para el mantenimiento y la actualización regular de la documentación del proyecto es crucial. Mantener la documentación al día garantiza que los desarrolladores futuros tengan acceso a información precisa y relevante, facilitando el mantenimiento y la evolución del sistema.
+
+**Conducta de Pruebas de Usuario Final:**
+Incluir pruebas de usuario final en fases posteriores del desarrollo puede proporcionar información valiosa sobre la experiencia del usuario. Obtener comentarios directos de los usuarios finales puede ayudar a ajustar la interfaz y las funcionalidades para satisfacer mejor sus necesidades y expectativas.
 
 ___
 <br>
