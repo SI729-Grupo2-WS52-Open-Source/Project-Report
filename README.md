@@ -6118,7 +6118,7 @@ Agregué los .feature para los US-34. US-35 y US-36 (master branch)
 Imagen 449: Commits de modificación de los features
 
 
-## 5.2.3 Sprint 4
+## 5.2.4 Sprint 4
 
 
 ## 5.2.4.1. Sprint Planning 4
